@@ -1,0 +1,1968 @@
+,Site,Transect,Date,Genus,Species,Size,Count,Phase,Notes,Observer,Year,log_a_coef,b_coef,biomass_g
+1,Alligator,1,8/23/2022,Sparisoma,viride,22,1,Initial,NA,ML,2022,-4.5223,2.9214,209.3406748
+2,Alligator,1,8/23/2022,Sparisoma,viride,17,1,Initial,NA,ML,2022,-4.5223,2.9214,98.56744039
+3,Alligator,1,8/23/2022,Sparisoma,aurofrenatum,18,1,Terminal,NA,ML,2022,-5.7587,3.4291,94.37456161
+4,Alligator,1,8/23/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,ML,2022,-5.7587,3.4291,39.8646217
+5,Alligator,1,8/23/2022,Sparisoma,aurofrenatum,10,1,Initial,NA,ML,2022,-5.7587,3.4291,12.57476854
+6,Alligator,1,8/23/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,ML,2022,-5.7587,3.4291,17.43571079
+7,Alligator,1,8/23/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,ML,2022,-5.7587,3.4291,23.49743251
+8,Alligator,1,8/23/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,ML,2022,-5.7587,3.4291,23.49743251
+9,Alligator,1,8/23/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,ML,2022,-5.7587,3.4291,23.49743251
+10,Alligator,1,8/23/2022,Sparisoma,chrysopterum,20,1,Initial,NA,ML,2022,-5.1754,3.1708,132.04012
+11,Alligator,1,8/23/2022,Sparisoma,chrysopterum,27,1,Terminal,NA,ML,2022,-5.1754,3.1708,341.9544214
+12,Alligator,1,8/23/2022,Sparisoma,rubripinne,28,1,Terminal,NA,ML,2022,-4.8701,3.0641,424.851273
+13,Alligator,2,8/23/2022,Scarus,iseri,15,1,Terminal,NA,ML,2022,-4.8887,3.0548,57.38832884
+14,Alligator,2,8/23/2022,Scarus,iseri,10,1,Initial,NA,ML,2022,-4.8887,3.0548,16.6302968
+15,Alligator,2,8/23/2022,Sparisoma,aurofrenatum,16,1,Terminal,NA,ML,2022,-5.7587,3.4291,63.01556471
+16,Alligator,2,8/23/2022,Sparisoma,aurofrenatum,17,1,Terminal,NA,ML,2022,-5.7587,3.4291,77.57689558
+17,Alligator,2,8/23/2022,Sparisoma,chrysopterum,30,1,Initial,NA,ML,2022,-5.1754,3.1708,477.5909344
+18,Alligator,3,8/23/2022,Scarus,iseri,10,1,Initial,NA,ML,2022,-4.8887,3.0548,16.6302968
+19,Alligator,3,8/23/2022,Scarus,iseri,10,1,Initial,NA,ML,2022,-4.8887,3.0548,16.6302968
+20,Alligator,3,8/23/2022,Scarus,iseri,15,1,Terminal,NA,ML,2022,-4.8887,3.0548,57.38832884
+21,Alligator,3,8/23/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,ML,2022,-5.7587,3.4291,30.91883698
+22,Alligator,3,8/23/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,ML,2022,-5.7587,3.4291,30.91883698
+23,Alligator,3,8/23/2022,Sparisoma,chrysopterum,18,1,Initial,NA,ML,2022,-5.1754,3.1708,94.54053577
+24,Alligator,3,8/23/2022,Sparisoma,viride,11,1,Initial,NA,ML,2022,-4.5223,2.9214,27.6327807
+25,Alligator,3,8/23/2022,Sparisoma,rubripinne,20,1,Initial,NA,ML,2022,-4.8701,3.0641,151.5255991
+26,Alligator,4,8/23/2022,Sparisoma,aurofrenatum,16,1,Terminal,NA,ML,2022,-5.7587,3.4291,63.01556471
+27,Alligator,4,8/23/2022,Sparisoma,aurofrenatum,17,1,Terminal,NA,ML,2022,-5.7587,3.4291,77.57689558
+28,Alligator,4,8/23/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,ML,2022,-5.7587,3.4291,23.49743251
+29,Alligator,4,8/23/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,ML,2022,-5.7587,3.4291,30.91883698
+30,Alligator,4,8/23/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,ML,2022,-5.7587,3.4291,50.50501872
+31,Alligator,4,8/23/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,ML,2022,-5.7587,3.4291,50.50501872
+32,Alligator,4,8/23/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,ML,2022,-5.7587,3.4291,17.43571079
+33,Alligator,4,8/23/2022,Sparisoma,rubripinne,17,1,Initial,NA,ML,2022,-4.8701,3.0641,92.09128649
+34,Alligator,4,8/23/2022,Sparisoma,chrysopterum,16,1,Terminal,NA,ML,2022,-5.1754,3.1708,65.07641814
+35,Alligator,4,8/23/2022,Sparisoma,chrysopterum,21,1,Terminal,NA,ML,2022,-5.1754,3.1708,154.1320447
+36,Alligator,4,8/23/2022,Sparisoma,chrysopterum,16,1,Initial,NA,ML,2022,-5.1754,3.1708,65.07641814
+37,Alligator,4,8/23/2022,Sparisoma,chrysopterum,17,1,Initial,NA,ML,2022,-5.1754,3.1708,78.86920078
+38,Alligator,4,8/23/2022,Sparisoma,chrysopterum,15,1,Initial,NA,ML,2022,-5.1754,3.1708,53.03348467
+39,Alligator,4,8/23/2022,Sparisoma,chrysopterum,15,1,Initial,NA,ML,2022,-5.1754,3.1708,53.03348467
+40,Alligator,4,8/23/2022,Sparisoma,viride,15,1,Initial,NA,ML,2022,-4.5223,2.9214,68.38061528
+41,Alligator,5,8/23/2022,Sparisoma,viride,15,1,Initial,NA,ML,2022,-4.5223,2.9214,68.38061528
+42,Alligator,5,8/23/2022,Sparisoma,viride,12,1,Initial,NA,ML,2022,-4.5223,2.9214,35.63035031
+43,Alligator,5,8/23/2022,Sparisoma,viride,11,1,Initial,NA,ML,2022,-4.5223,2.9214,27.6327807
+44,Alligator,5,8/23/2022,Scarus,coelestinus,37,1,Terminal,NA,ML,2022,-4.8764,3.0618,970.3312957
+45,Alligator,5,8/23/2022,Scarus,taeniopterus,22,1,Initial,NA,ML,2022,-4.1836,2.7086,144.9059016
+46,Alligator,5,8/23/2022,Scarus,taeniopterus,32,1,Terminal,NA,ML,2022,-4.1836,2.7086,399.8059299
+47,Alligator,5,8/23/2022,Sparisoma,chrysopterum,21,1,Initial,NA,ML,2022,-5.1754,3.1708,154.1320447
+48,Alligator,5,8/23/2022,Sparisoma,chrysopterum,22,1,Initial,NA,ML,2022,-5.1754,3.1708,178.6297689
+49,Alligator,5,8/23/2022,Sparisoma,rubripinne,20,1,Initial,NA,ML,2022,-4.8701,3.0641,151.5255991
+50,Alligator,5,8/23/2022,Sparisoma,rubripinne,18,1,Initial,NA,ML,2022,-4.8701,3.0641,109.718657
+51,Alligator,5,8/23/2022,Scarus,iseri,12,1,Terminal,NA,ML,2022,-4.8887,3.0548,29.02571124
+52,Alligator,6,8/23/2022,Sparisoma,aurofrenatum,17,1,Terminal,NA,AAS,2022,-5.7587,3.4291,77.57689558
+53,Alligator,6,8/23/2022,Sparisoma,viride,10,1,Initial,NA,AAS,2022,-4.5223,2.9214,20.91702907
+54,Alligator,7,8/23/2022,Sparisoma,rubripinne,16,1,Initial,NA,AAS,2022,-4.8701,3.0641,76.4793237
+55,Alligator,7,8/23/2022,Sparisoma,rubripinne,18,1,Initial,NA,AAS,2022,-4.8701,3.0641,109.718657
+56,Alligator,7,8/23/2022,Sparisoma,rubripinne,15,1,Initial,NA,AAS,2022,-4.8701,3.0641,62.75686304
+57,Alligator,7,8/23/2022,Sparisoma,rubripinne,13,1,Initial,NA,AAS,2022,-4.8701,3.0641,40.47937755
+58,Alligator,7,8/23/2022,Sparisoma,chrysopterum,12,1,Initial,NA,AAS,2022,-5.1754,3.1708,26.13773166
+59,Alligator,7,8/23/2022,Sparisoma,chrysopterum,15,1,Initial,NA,AAS,2022,-5.1754,3.1708,53.03348467
+60,Alligator,7,8/23/2022,Sparisoma,chrysopterum,19,1,Initial,NA,AAS,2022,-5.1754,3.1708,112.2204273
+61,Alligator,7,8/23/2022,Sparisoma,chrysopterum,21,1,Terminal,NA,AAS,2022,-5.1754,3.1708,154.1320447
+62,Alligator,7,8/23/2022,Sparisoma,chrysopterum,22,1,Initial,NA,AAS,2022,-5.1754,3.1708,178.6297689
+63,Alligator,7,8/23/2022,Sparisoma,chrysopterum,18,1,Terminal,NA,AAS,2022,-5.1754,3.1708,94.54053577
+64,Alligator,7,8/23/2022,Scarus,coelestinus,36,1,Terminal,NA,AAS,2022,-4.8764,3.0618,892.2509044
+65,Alligator,7,8/23/2022,Scarus,iseri,14,1,Initial,NA,AAS,2022,-4.8887,3.0548,46.48276173
+66,Alligator,7,8/23/2022,Scarus,taeniopterus,9,1,Initial,NA,AAS,2022,-4.1836,2.7086,12.87245141
+67,Alligator,8,8/23/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,AAS,2022,-5.7587,3.4291,30.91883698
+68,Alligator,8,8/23/2022,Sparisoma,aurofrenatum,17,1,Terminal,NA,AAS,2022,-5.7587,3.4291,77.57689558
+69,Alligator,8,8/23/2022,Sparisoma,rubripinne,21,1,Terminal,NA,AAS,2022,-4.8701,3.0641,175.9592657
+70,Alligator,8,8/23/2022,Sparisoma,viride,15,1,Initial,NA,AAS,2022,-4.5223,2.9214,68.38061528
+71,Alligator,8,8/23/2022,Scarus,vetula,25,1,Terminal,NA,AAS,2022,-5.5396,3.33,278.9589045
+72,Alligator,8,8/23/2022,Scarus,iseri,14,1,Terminal,NA,AAS,2022,-4.8887,3.0548,46.48276173
+73,Alligator,9,8/23/2022,Sparisoma,rubripinne,24,1,Terminal,NA,AAS,2022,-4.8701,3.0641,264.9142169
+74,Alligator,9,8/23/2022,Sparisoma,viride,25,1,Terminal,NA,AAS,2022,-4.5223,2.9214,304.1178709
+75,Alligator,9,8/23/2022,Sparisoma,aurofrenatum,18,1,Terminal,NA,AAS,2022,-5.7587,3.4291,94.37456161
+76,Alligator,9,8/23/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,AAS,2022,-5.7587,3.4291,17.43571079
+77,Alligator,10,8/23/2022,Sparisoma,rubripinne,17,1,Initial,NA,AAS,2022,-4.8701,3.0641,92.09128649
+78,Alligator,10,8/23/2022,Sparisoma,rubripinne,25,1,Terminal,NA,AAS,2022,-4.8701,3.0641,300.2119536
+79,Alligator,10,8/23/2022,Sparisoma,viride,14,1,Initial,NA,AAS,2022,-4.5223,2.9214,55.89827983
+80,Alligator,10,8/23/2022,Sparisoma,viride,26,1,Terminal,NA,AAS,2022,-4.5223,2.9214,341.0382874
+81,Alligator,10,8/23/2022,Sparisoma,viride,3,1,Juvenile,NA,AAS,2022,-4.5223,2.9214,0.62081476
+82,Alligator,10,8/23/2022,Sparisoma,aurofrenatum,9,1,Initial,NA,AAS,2022,-5.7587,3.4291,8.76179301
+83,Alligator,10,8/23/2022,Scarus,iseri,16,1,Terminal,NA,AAS,2022,-4.8887,3.0548,69.89493784
+84,Alligator,10,8/23/2022,Scarus,iseri,6,1,Initial,NA,AAS,2022,-4.8887,3.0548,3.49298274
+85,Alligator,10,8/23/2022,Scarus,taeniopterus,7,1,Initial,NA,AAS,2022,-4.1836,2.7086,6.516772367
+86,Alligator,10,8/23/2022,Scarus,taeniopterus,4,1,Initial,NA,AAS,2022,-4.1836,2.7086,1.431329731
+87,Carysfort,1,8/23/2022,Sparisoma,viride,25,1,Terminal,NA,AAS,2022,-4.5223,2.9214,304.1178709
+88,Carysfort,1,8/23/2022,Sparisoma,viride,16,1,Initial,NA,AAS,2022,-4.5223,2.9214,82.56882746
+89,Carysfort,1,8/23/2022,Scarus,vetula,25,1,Terminal,NA,AAS,2022,-5.5396,3.33,278.9589045
+90,Carysfort,1,8/23/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,AAS,2022,-5.7587,3.4291,17.43571079
+91,Carysfort,1,8/23/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,AAS,2022,-5.7587,3.4291,39.8646217
+92,Carysfort,1,8/23/2022,Sparisoma,aurofrenatum,8,1,Initial,NA,AAS,2022,-5.7587,3.4291,5.85040423
+93,Carysfort,1,8/23/2022,Sparisoma,aurofrenatum,21,1,Terminal,NA,AAS,2022,-5.7587,3.4291,160.1113737
+94,Carysfort,1,8/23/2022,Sparisoma,aurofrenatum,6,1,Initial,NA,AAS,2022,-5.7587,3.4291,2.181516252
+95,Carysfort,1,8/23/2022,Sparisoma,aurofrenatum,16,1,Initial,NA,AAS,2022,-5.7587,3.4291,63.01556471
+96,Carysfort,2,8/23/2022,Sparisoma,aurofrenatum,20,1,Terminal,NA,AAS,2022,-5.7587,3.4291,135.4446821
+97,Carysfort,2,8/23/2022,Sparisoma,aurofrenatum,22,1,Terminal,NA,AAS,2022,-5.7587,3.4291,187.8026062
+98,Carysfort,2,8/23/2022,Sparisoma,aurofrenatum,3,1,Initial,NA,AAS,2022,-5.7587,3.4291,0.202533326
+99,Carysfort,2,8/23/2022,Sparisoma,aurofrenatum,4,1,Initial,NA,AAS,2022,-5.7587,3.4291,0.543155168
+100,Carysfort,2,8/23/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,AAS,2022,-5.7587,3.4291,39.8646217
+101,Carysfort,2,8/23/2022,Sparisoma,viride,13,1,Initial,NA,AAS,2022,-4.5223,2.9214,45.01674706
+102,Carysfort,2,8/23/2022,Sparisoma,viride,5,1,Initial,NA,AAS,2022,-4.5223,2.9214,2.761029016
+103,Carysfort,2,8/23/2022,Sparisoma,viride,3,1,Initial,NA,AAS,2022,-4.5223,2.9214,0.62081476
+104,Carysfort,2,8/23/2022,Scarus,vetula,18,1,Initial,NA,AAS,2022,-5.5396,3.33,93.42378146
+105,Carysfort,2,8/23/2022,Scarus,vetula,24,1,Terminal,NA,AAS,2022,-5.5396,3.33,243.5025059
+106,Carysfort,2,8/23/2022,Scarus,iseri,5,1,Initial,NA,AAS,2022,-4.8887,3.0548,2.001306331
+107,Carysfort,2,8/23/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+108,Carysfort,2,8/23/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+109,Carysfort,3,8/23/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,AAS,2022,-5.7587,3.4291,39.8646217
+110,Carysfort,3,8/23/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,AAS,2022,-5.7587,3.4291,39.8646217
+111,Carysfort,3,8/23/2022,Sparisoma,aurofrenatum,21,1,Terminal,NA,AAS,2022,-5.7587,3.4291,160.1113737
+112,Carysfort,3,8/23/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,AAS,2022,-5.7587,3.4291,17.43571079
+113,Carysfort,3,8/23/2022,Sparisoma,aurofrenatum,3,1,Juvenile,NA,AAS,2022,-5.7587,3.4291,0.202533326
+114,Carysfort,3,8/23/2022,Sparisoma,aurofrenatum,22,1,Terminal,NA,AAS,2022,-5.7587,3.4291,187.8026062
+115,Carysfort,3,8/23/2022,Sparisoma,aurofrenatum,16,1,Initial,NA,AAS,2022,-5.7587,3.4291,63.01556471
+116,Carysfort,3,8/23/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,AAS,2022,-5.7587,3.4291,50.50501872
+117,Carysfort,3,8/23/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,AAS,2022,-5.7587,3.4291,39.8646217
+118,Carysfort,3,8/23/2022,Sparisoma,viride,6,1,Initial,NA,AAS,2022,-4.5223,2.9214,4.703174179
+119,Carysfort,3,8/23/2022,Scarus,iseri,4,1,Initial,NA,AAS,2022,-4.8887,3.0548,1.012215216
+120,Carysfort,3,8/23/2022,Scarus,coelestinus,32,1,Terminal,NA,AAS,2022,-4.8764,3.0618,622.1114629
+121,Carysfort,4,8/23/2022,Sparisoma,viride,13,1,Initial,top of spur,ML,2022,-4.5223,2.9214,45.01674706
+122,Carysfort,4,8/23/2022,Sparisoma,viride,12,1,Initial,top of spur,ML,2022,-4.5223,2.9214,35.63035031
+123,Carysfort,4,8/23/2022,Sparisoma,viride,17,1,Initial,top of spur,ML,2022,-4.5223,2.9214,98.56744039
+124,Carysfort,4,8/23/2022,Scarus,coelestinus,35,1,Terminal,top of spur,ML,2022,-4.8764,3.0618,818.5166878
+125,Carysfort,4,8/23/2022,Scarus,taeniopterus,28,1,Terminal,top of spur,ML,2022,-4.1836,2.7086,278.4660431
+126,Carysfort,4,8/23/2022,Sparisoma,aurofrenatum,18,1,Terminal,top of spur,ML,2022,-5.7587,3.4291,94.37456161
+127,Carysfort,4,8/23/2022,Sparisoma,aurofrenatum,14,1,Initial,top of spur,ML,2022,-5.7587,3.4291,39.8646217
+128,Carysfort,4,8/23/2022,Sparisoma,aurofrenatum,10,1,Initial,top of spur,ML,2022,-5.7587,3.4291,12.57476854
+129,Carysfort,4,8/23/2022,Sparisoma,aurofrenatum,12,1,Initial,top of spur,ML,2022,-5.7587,3.4291,23.49743251
+130,Carysfort,4,8/23/2022,Scarus,iseri,12,1,Initial,top of spur,ML,2022,-4.8887,3.0548,29.02571124
+131,Carysfort,5,8/23/2022,Sparisoma,viride,13,1,Initial,top of spur,ML,2022,-4.5223,2.9214,45.01674706
+132,Carysfort,5,8/23/2022,Sparisoma,aurofrenatum,20,1,Terminal,top of spur,ML,2022,-5.7587,3.4291,135.4446821
+133,Carysfort,5,8/23/2022,Sparisoma,aurofrenatum,10,1,Initial,top of spur,ML,2022,-5.7587,3.4291,12.57476854
+134,Carysfort,5,8/23/2022,Scarus,coelestinus,35,1,Terminal,top of spur,ML,2022,-4.8764,3.0618,818.5166878
+135,Carysfort,5,8/23/2022,Scarus,taeniopterus,32,1,Terminal,top of spur,ML,2022,-4.1836,2.7086,399.8059299
+136,Carysfort,6,8/23/2022,Sparisoma,aurofrenatum,12,1,Initial,top of spur,ML,2022,-5.7587,3.4291,23.49743251
+137,Carysfort,6,8/23/2022,Sparisoma,viride,10,1,Initial,top of spur,ML,2022,-4.5223,2.9214,20.91702907
+138,Carysfort,6,8/23/2022,Sparisoma,viride,18,1,Initial,top of spur,ML,2022,-4.5223,2.9214,116.4804652
+139,Carysfort,6,8/23/2022,Scarus,guacamaia,40,1,Terminal,top of spur,ML,2022,-4.8714,3.0626,1252.186247
+140,Carysfort,6,8/23/2022,Scarus,guacamaia,37,1,Terminal,top of spur,ML,2022,-4.8714,3.0626,986.2218044
+141,Carysfort,6,8/23/2022,Scarus,guacamaia,35,1,Terminal,top of spur,ML,2022,-4.8714,3.0626,831.8840407
+142,Carysfort,6,8/23/2022,Scarus,taeniopterus,30,1,Terminal,top of spur,ML,2022,-4.1836,2.7086,335.6839915
+143,Carysfort,6,8/23/2022,Scarus,coelestinus,38,1,Terminal,top of spur,ML,2022,-4.8764,3.0618,1052.886158
+144,Carysfort,6,8/23/2022,Scarus,coelestinus,35,1,Terminal,top of spur,ML,2022,-4.8764,3.0618,818.5166878
+145,Carysfort,6,8/23/2022,Scarus,coelestinus,36,1,Terminal,top of spur,ML,2022,-4.8764,3.0618,892.2509044
+146,Carysfort,6,8/23/2022,Scarus,coelestinus,34,1,Terminal,top of spur,ML,2022,-4.8764,3.0618,749.00057
+147,Carysfort,6,8/23/2022,Scarus,coelestinus,40,1,Terminal,top of spur,ML,2022,-4.8764,3.0618,1231.933546
+148,Carysfort,6,8/23/2022,Scarus,coelestinus,33,1,Terminal,top of spur,ML,2022,-4.8764,3.0618,683.5747009
+149,Carysfort,7,8/23/2022,Sparisoma,viride,21,1,Initial,top of spur,ML,2022,-4.5223,2.9214,182.7390857
+150,Carysfort,7,8/23/2022,Sparisoma,viride,11,1,Initial,top of spur,ML,2022,-4.5223,2.9214,27.6327807
+151,Carysfort,7,8/23/2022,Scarus,iseri,25,1,Initial,top of spur,ML,2022,-4.8887,3.0548,273.2292176
+152,Carysfort,7,8/23/2022,Scarus,taeniopterus,27,1,Terminal,top of spur,ML,2022,-4.1836,2.7086,252.3433659
+153,Carysfort,7,8/23/2022,Sparisoma,rubripinne,24,1,Terminal,top of spur,ML,2022,-4.8701,3.0641,264.9142169
+154,Carysfort,7,8/23/2022,Sparisoma,rubripinne,25,1,Terminal,top of spur,ML,2022,-4.8701,3.0641,300.2119536
+155,Carysfort,8,8/23/2022,Scarus,taeniopterus,26,1,Terminal,low relief spur,ML,2022,-4.1836,2.7086,227.8226034
+156,Carysfort,8,8/23/2022,Sparisoma,aurofrenatum,12,1,Initial,low relief spur,ML,2022,-5.7587,3.4291,23.49743251
+157,Carysfort,8,8/23/2022,Sparisoma,aurofrenatum,14,1,Initial,low relief spur,ML,2022,-5.7587,3.4291,39.8646217
+158,Carysfort,8,8/23/2022,Sparisoma,aurofrenatum,18,1,Terminal,low relief spur,ML,2022,-5.7587,3.4291,94.37456161
+159,Carysfort,9,8/23/2022,Scarus,iseri,11,1,Initial,lower relief w 2 small spurs united,ML,2022,-4.8887,3.0548,22.25083814
+160,Carysfort,9,8/23/2022,Sparisoma,viride,29,1,Terminal,lower relief w 2 small spurs united,ML,2022,-4.5223,2.9214,469.1908252
+161,Carysfort,9,8/23/2022,Sparisoma,viride,12,1,Initial,lower relief w 2 small spurs united,ML,2022,-4.5223,2.9214,35.63035031
+162,Carysfort,9,8/23/2022,Sparisoma,viride,12,1,Initial,lower relief w 2 small spurs united,ML,2022,-4.5223,2.9214,35.63035031
+163,Carysfort,9,8/23/2022,Sparisoma,viride,14,1,Initial,lower relief w 2 small spurs united,ML,2022,-4.5223,2.9214,55.89827983
+164,Carysfort,9,8/23/2022,Sparisoma,aurofrenatum,13,1,Initial,lower relief w 2 small spurs united,ML,2022,-5.7587,3.4291,30.91883698
+165,Carysfort,9,8/23/2022,Sparisoma,aurofrenatum,14,1,Initial,lower relief w 2 small spurs united,ML,2022,-5.7587,3.4291,39.8646217
+166,Carysfort,9,8/23/2022,Sparisoma,aurofrenatum,16,1,Initial,lower relief w 2 small spurs united,ML,2022,-5.7587,3.4291,63.01556471
+167,Carysfort,9,8/23/2022,Sparisoma,aurofrenatum,10,1,Initial,lower relief w 2 small spurs united,ML,2022,-5.7587,3.4291,12.57476854
+168,Carysfort,9,8/23/2022,Sparisoma,aurofrenatum,18,1,Terminal,lower relief w 2 small spurs united,ML,2022,-5.7587,3.4291,94.37456161
+169,Carysfort,9,8/23/2022,Sparisoma,rubripinne,26,1,Initial,lower relief w 2 small spurs united,ML,2022,-4.8701,3.0641,338.5476749
+170,Carysfort,10,8/23/2022,Sparisoma,viride,30,1,Terminal,"Top of spur ~8' depth mostly, saw school of ~15 midnight but not on transect",ML,2022,-4.5223,2.9214,518.0384956
+171,Carysfort,10,8/23/2022,Sparisoma,viride,32,1,Terminal,Top of spur ~8' depth mostly,ML,2022,-4.5223,2.9214,625.5256843
+172,Carysfort,10,8/23/2022,Sparisoma,viride,20,1,Initial,Top of spur ~8' depth mostly,ML,2022,-4.5223,2.9214,158.4634217
+173,Carysfort,10,8/23/2022,Sparisoma,viride,17,1,Initial,Top of spur ~8' depth mostly,ML,2022,-4.5223,2.9214,98.56744039
+174,Carysfort,10,8/23/2022,Sparisoma,viride,14,1,Initial,Top of spur ~8' depth mostly,ML,2022,-4.5223,2.9214,55.89827983
+175,Carysfort,10,8/23/2022,Sparisoma,viride,12,1,Initial,Top of spur ~8' depth mostly,ML,2022,-4.5223,2.9214,35.63035031
+176,Carysfort,10,8/23/2022,Sparisoma,viride,22,1,Initial,Top of spur ~8' depth mostly,ML,2022,-4.5223,2.9214,209.3406748
+177,Carysfort,10,8/23/2022,Sparisoma,aurofrenatum,12,1,Initial,Top of spur ~8' depth mostly,ML,2022,-5.7587,3.4291,23.49743251
+178,Carysfort,10,8/23/2022,Sparisoma,aurofrenatum,14,1,Initial,Top of spur ~8' depth mostly,ML,2022,-5.7587,3.4291,39.8646217
+179,Carysfort,10,8/23/2022,Sparisoma,aurofrenatum,14,1,Initial,Top of spur ~8' depth mostly,ML,2022,-5.7587,3.4291,39.8646217
+180,Carysfort,10,8/23/2022,Sparisoma,aurofrenatum,17,1,Terminal,Top of spur ~8' depth mostly,ML,2022,-5.7587,3.4291,77.57689558
+181,Carysfort,10,8/23/2022,Scarus,iseri,19,1,Initial,Top of spur ~8' depth mostly,ML,2022,-4.8887,3.0548,118.1507547
+182,Carysfort,10,8/23/2022,Scarus,taeniopterus,30,1,Terminal,Top of spur ~8' depth mostly,ML,2022,-4.1836,2.7086,335.6839915
+183,Carysfort,10,8/23/2022,Sparisoma,rubripinne,26,1,Initial,Top of spur ~8' depth mostly,ML,2022,-4.8701,3.0641,338.5476749
+184,Conch,1,8/22/2022,Sparisoma,aurofrenatum,16,1,Initial,NA,AAS,2022,-5.7587,3.4291,63.01556471
+185,Conch,1,8/22/2022,Sparisoma,aurofrenatum,4,1,Juvenile,NA,AAS,2022,-5.7587,3.4291,0.543155168
+186,Conch,1,8/22/2022,Sparisoma,viride,18,1,Initial,NA,AAS,2022,-4.5223,2.9214,116.4804652
+187,Conch,1,8/22/2022,Sparisoma,rubripinne,21,1,Initial,NA,AAS,2022,-4.8701,3.0641,175.9592657
+188,Conch,1,8/22/2022,Sparisoma,rubripinne,18,1,Initial,NA,AAS,2022,-4.8701,3.0641,109.718657
+189,Conch,1,8/22/2022,Sparisoma,rubripinne,17,1,Initial,NA,AAS,2022,-4.8701,3.0641,92.09128649
+190,Conch,2,8/22/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,AAS,2022,-5.7587,3.4291,39.8646217
+191,Conch,2,8/22/2022,Sparisoma,aurofrenatum,18,1,Terminal,NA,AAS,2022,-5.7587,3.4291,94.37456161
+192,Conch,2,8/22/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,AAS,2022,-5.7587,3.4291,50.50501872
+193,Conch,2,8/22/2022,Sparisoma,aurofrenatum,19,1,Initial,NA,AAS,2022,-5.7587,3.4291,113.59886
+194,Conch,2,8/22/2022,Sparisoma,aurofrenatum,5,1,Initial,NA,AAS,2022,-5.7587,3.4291,1.167449334
+195,Conch,2,8/22/2022,Sparisoma,rubripinne,13,1,Initial,NA,AAS,2022,-4.8701,3.0641,40.47937755
+196,Conch,2,8/22/2022,Sparisoma,rubripinne,16,1,Initial,NA,AAS,2022,-4.8701,3.0641,76.4793237
+197,Conch,2,8/22/2022,Scarus,coeruleus,12,1,Initial,NA,AAS,2022,-5.0162,3.1109,28.30902672
+198,Conch,2,8/22/2022,Scarus,iseri,8,1,Initial,NA,AAS,2022,-4.8887,3.0548,8.411225809
+199,Conch,2,8/22/2022,Scarus,taeniopterus,7,1,Initial,NA,AAS,2022,-4.1836,2.7086,6.516772367
+200,Conch,2,8/22/2022,Scarus,taeniopterus,6,1,Initial,NA,AAS,2022,-4.1836,2.7086,4.292402872
+201,Conch,2,8/22/2022,Scarus,vetula,18,1,Initial,NA,AAS,2022,-5.5396,3.33,93.42378146
+202,Conch,3,8/22/2022,Scarus,taeniopterus,3,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.656644983
+203,Conch,3,8/22/2022,Scarus,taeniopterus,3,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.656644983
+204,Conch,3,8/22/2022,Scarus,taeniopterus,9,1,Initial,NA,AAS,2022,-4.1836,2.7086,12.87245141
+205,Conch,3,8/22/2022,Scarus,iseri,8,1,Initial,NA,AAS,2022,-4.8887,3.0548,8.411225809
+206,Conch,3,8/22/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+207,Conch,3,8/22/2022,Sparisoma,viride,11,1,Initial,NA,AAS,2022,-4.5223,2.9214,27.6327807
+208,Conch,3,8/22/2022,Sparisoma,viride,4,1,Initial,NA,AAS,2022,-4.5223,2.9214,1.438659635
+209,Conch,3,8/22/2022,Sparisoma,viride,2,1,Initial,NA,AAS,2022,-4.5223,2.9214,0.189901777
+210,Conch,3,8/22/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,AAS,2022,-5.7587,3.4291,17.43571079
+211,Conch,3,8/22/2022,Sparisoma,aurofrenatum,22,1,Terminal,NA,AAS,2022,-5.7587,3.4291,187.8026062
+212,Conch,3,8/22/2022,Sparisoma,aurofrenatum,5,1,Initial,NA,AAS,2022,-5.7587,3.4291,1.167449334
+213,Conch,3,8/22/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,AAS,2022,-5.7587,3.4291,17.43571079
+214,Conch,3,8/22/2022,Sparisoma,rubripinne,18,1,Initial,NA,AAS,2022,-4.8701,3.0641,109.718657
+215,Conch,3,8/22/2022,Sparisoma,rubripinne,15,1,Initial,NA,AAS,2022,-4.8701,3.0641,62.75686304
+216,Conch,4,8/22/2022,Sparisoma,rubripinne,14,1,Initial,NA,AAS,2022,-4.8701,3.0641,50.798503
+217,Conch,4,8/22/2022,Sparisoma,viride,28,1,Terminal,NA,AAS,2022,-4.5223,2.9214,423.4747036
+218,Conch,4,8/22/2022,Sparisoma,viride,16,1,Initial,NA,AAS,2022,-4.5223,2.9214,82.56882746
+219,Conch,4,8/22/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,AAS,2022,-5.7587,3.4291,39.8646217
+220,Conch,4,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,AAS,2022,-5.7587,3.4291,30.91883698
+221,Conch,4,8/22/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,AAS,2022,-5.7587,3.4291,39.8646217
+222,Conch,4,8/22/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,AAS,2022,-5.7587,3.4291,50.50501872
+223,Conch,4,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,AAS,2022,-5.7587,3.4291,30.91883698
+224,Conch,4,8/22/2022,Scarus,iseri,16,1,Terminal,NA,AAS,2022,-4.8887,3.0548,69.89493784
+225,Conch,5,8/22/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,AAS,2022,-5.7587,3.4291,23.49743251
+226,Conch,5,8/22/2022,Sparisoma,aurofrenatum,22,1,Terminal,NA,AAS,2022,-5.7587,3.4291,187.8026062
+227,Conch,5,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,AAS,2022,-5.7587,3.4291,30.91883698
+228,Conch,5,8/22/2022,Sparisoma,aurofrenatum,16,1,Initial,NA,AAS,2022,-5.7587,3.4291,63.01556471
+229,Conch,5,8/22/2022,Sparisoma,viride,15,1,Initial,NA,AAS,2022,-4.5223,2.9214,68.38061528
+230,Conch,5,8/22/2022,Sparisoma,viride,2,1,Juvenile,NA,AAS,2022,-4.5223,2.9214,0.189901777
+231,Conch,5,8/22/2022,Sparisoma,rubripinne,26,1,Terminal,NA,AAS,2022,-4.8701,3.0641,338.5476749
+232,Conch,5,8/22/2022,Sparisoma,rubripinne,24,1,Terminal,NA,AAS,2022,-4.8701,3.0641,264.9142169
+233,Conch,6,8/22/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,ML,2022,-5.7587,3.4291,50.50501872
+234,Conch,6,8/22/2022,Sparisoma,aurofrenatum,10,1,Initial,NA,ML,2022,-5.7587,3.4291,12.57476854
+235,Conch,6,8/22/2022,Sparisoma,aurofrenatum,10,1,Initial,NA,ML,2022,-5.7587,3.4291,12.57476854
+236,Conch,6,8/22/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,ML,2022,-5.7587,3.4291,23.49743251
+237,Conch,6,8/22/2022,Sparisoma,aurofrenatum,17,1,Initial,NA,ML,2022,-5.7587,3.4291,77.57689558
+238,Conch,6,8/22/2022,Sparisoma,aurofrenatum,20,1,Terminal,NA,ML,2022,-5.7587,3.4291,135.4446821
+239,Conch,6,8/22/2022,Sparisoma,aurofrenatum,17,1,Terminal,NA,ML,2022,-5.7587,3.4291,77.57689558
+240,Conch,6,8/22/2022,Scarus,iseri,11,1,Terminal,NA,ML,2022,-4.8887,3.0548,22.25083814
+241,Conch,6,8/22/2022,Sparisoma,viride,14,1,Initial,NA,ML,2022,-4.5223,2.9214,55.89827983
+242,Conch,6,8/22/2022,Sparisoma,rubripinne,21,1,Terminal,NA,ML,2022,-4.8701,3.0641,175.9592657
+243,Conch,7,8/22/2022,Sparisoma,aurofrenatum,20,1,Terminal,NA,ML,2022,-5.7587,3.4291,135.4446821
+244,Conch,7,8/22/2022,Sparisoma,aurofrenatum,22,1,Terminal,NA,ML,2022,-5.7587,3.4291,187.8026062
+245,Conch,7,8/22/2022,Sparisoma,aurofrenatum,20,1,Terminal,NA,ML,2022,-5.7587,3.4291,135.4446821
+246,Conch,7,8/22/2022,Sparisoma,aurofrenatum,17,1,Terminal,NA,ML,2022,-5.7587,3.4291,77.57689558
+247,Conch,7,8/22/2022,Sparisoma,aurofrenatum,10,1,Initial,NA,ML,2022,-5.7587,3.4291,12.57476854
+248,Conch,7,8/22/2022,Sparisoma,aurofrenatum,19,1,Initial,NA,ML,2022,-5.7587,3.4291,113.59886
+249,Conch,7,8/22/2022,Sparisoma,viride,10,1,Initial,NA,ML,2022,-4.5223,2.9214,20.91702907
+250,Conch,7,8/22/2022,Sparisoma,viride,22,1,Initial,NA,ML,2022,-4.5223,2.9214,209.3406748
+251,Conch,7,8/22/2022,Sparisoma,rubripinne,28,1,Terminal,NA,ML,2022,-4.8701,3.0641,424.851273
+252,Conch,7,8/22/2022,Sparisoma,rubripinne,26,1,Terminal,NA,ML,2022,-4.8701,3.0641,338.5476749
+253,Conch,7,8/22/2022,Sparisoma,rubripinne,25,1,Terminal,NA,ML,2022,-4.8701,3.0641,300.2119536
+254,Conch,8,8/22/2022,Scarus,taeniopterus,33,1,Terminal,NA,ML,2022,-4.1836,2.7086,434.5571075
+255,Conch,8,8/22/2022,Scarus,taeniopterus,17,1,Terminal,NA,ML,2022,-4.1836,2.7086,72.076543
+256,Conch,8,8/22/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,ML,2022,-5.7587,3.4291,23.49743251
+257,Conch,8,8/22/2022,Sparisoma,rubripinne,25,1,Terminal,NA,ML,2022,-4.8701,3.0641,300.2119536
+258,Conch,9,8/22/2022,Sparisoma,chrysopterum,30,1,Terminal,NA,ML,2022,-5.1754,3.1708,477.5909344
+259,Conch,9,8/22/2022,Sparisoma,aurofrenatum,10,1,Initial,NA,ML,2022,-5.7587,3.4291,12.57476854
+260,Conch,9,8/22/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,ML,2022,-5.7587,3.4291,23.49743251
+261,Conch,9,8/22/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,ML,2022,-5.7587,3.4291,17.43571079
+262,Conch,9,8/22/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,ML,2022,-5.7587,3.4291,23.49743251
+263,Conch,9,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,ML,2022,-5.7587,3.4291,30.91883698
+264,Conch,9,8/22/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,ML,2022,-5.7587,3.4291,39.8646217
+265,Conch,9,8/22/2022,Sparisoma,aurofrenatum,17,1,Terminal,NA,ML,2022,-5.7587,3.4291,77.57689558
+266,Conch,9,8/22/2022,Sparisoma,viride,30,1,Initial,NA,ML,2022,-4.5223,2.9214,518.0384956
+267,Conch,10,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,ML,2022,-5.7587,3.4291,30.91883698
+268,Conch,10,8/22/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,ML,2022,-5.7587,3.4291,39.8646217
+269,Conch,10,8/22/2022,Sparisoma,aurofrenatum,21,1,Terminal,NA,ML,2022,-5.7587,3.4291,160.1113737
+270,Conch,10,8/22/2022,Sparisoma,rubripinne,28,1,Terminal,NA,ML,2022,-4.8701,3.0641,424.851273
+271,Conch,10,8/22/2022,Scarus,iseri,13,1,Terminal,NA,ML,2022,-4.8887,3.0548,37.06586611
+272,Davis,1,8/22/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,ML,2022,-5.7587,3.4291,17.43571079
+273,Davis,1,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,ML,2022,-5.7587,3.4291,30.91883698
+274,Davis,1,8/22/2022,Sparisoma,aurofrenatum,10,1,Initial,NA,ML,2022,-5.7587,3.4291,12.57476854
+275,Davis,1,8/22/2022,Sparisoma,aurofrenatum,15,1,Terminal,NA,ML,2022,-5.7587,3.4291,50.50501872
+276,Davis,1,8/22/2022,Sparisoma,aurofrenatum,17,1,Terminal,NA,ML,2022,-5.7587,3.4291,77.57689558
+277,Davis,1,8/22/2022,Sparisoma,viride,10,1,Initial,NA,ML,2022,-4.5223,2.9214,20.91702907
+278,Davis,1,8/22/2022,Sparisoma,viride,15,1,Initial,NA,ML,2022,-4.5223,2.9214,68.38061528
+279,Davis,1,8/22/2022,Sparisoma,chrysopterum,18,1,Initial,NA,ML,2022,-5.1754,3.1708,94.54053577
+280,Davis,1,8/22/2022,Sparisoma,chrysopterum,17,1,Initial,NA,ML,2022,-5.1754,3.1708,78.86920078
+281,Davis,1,8/22/2022,Sparisoma,chrysopterum,21,1,Terminal,NA,ML,2022,-5.1754,3.1708,154.1320447
+282,Davis,1,8/22/2022,Sparisoma,rubripinne,22,1,Initial,NA,ML,2022,-4.8701,3.0641,202.9164876
+283,Davis,2,8/22/2022,Sparisoma,viride,30,1,Terminal,NA,ML,2022,-4.5223,2.9214,518.0384956
+284,Davis,2,8/22/2022,Sparisoma,viride,28,1,Terminal,NA,ML,2022,-4.5223,2.9214,423.4747036
+285,Davis,2,8/22/2022,Sparisoma,viride,30,1,Initial,NA,ML,2022,-4.5223,2.9214,518.0384956
+286,Davis,2,8/22/2022,Sparisoma,viride,10,1,Initial,NA,ML,2022,-4.5223,2.9214,20.91702907
+287,Davis,2,8/22/2022,Sparisoma,viride,22,1,Initial,NA,ML,2022,-4.5223,2.9214,209.3406748
+288,Davis,2,8/22/2022,Sparisoma,viride,15,1,Initial,NA,ML,2022,-4.5223,2.9214,68.38061528
+289,Davis,2,8/22/2022,Sparisoma,rubripinne,25,1,Terminal,NA,ML,2022,-4.8701,3.0641,300.2119536
+290,Davis,2,8/22/2022,Sparisoma,rubripinne,20,1,Initial,NA,ML,2022,-4.8701,3.0641,151.5255991
+291,Davis,2,8/22/2022,Sparisoma,rubripinne,22,1,Initial,NA,ML,2022,-4.8701,3.0641,202.9164876
+292,Davis,2,8/22/2022,Sparisoma,rubripinne,22,1,Initial,NA,ML,2022,-4.8701,3.0641,202.9164876
+293,Davis,2,8/22/2022,Sparisoma,rubripinne,20,1,Initial,NA,ML,2022,-4.8701,3.0641,151.5255991
+294,Davis,2,8/22/2022,Scarus,taeniopterus,30,1,Terminal,NA,ML,2022,-4.1836,2.7086,335.6839915
+295,Davis,2,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,ML,2022,-5.7587,3.4291,30.91883698
+296,Davis,2,8/22/2022,Sparisoma,aurofrenatum,16,1,Terminal,NA,ML,2022,-5.7587,3.4291,63.01556471
+297,Davis,3,8/22/2022,Sparisoma,aurofrenatum,16,1,Initial,NA,ML,2022,-5.7587,3.4291,63.01556471
+298,Davis,3,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,ML,2022,-5.7587,3.4291,30.91883698
+299,Davis,3,8/22/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,ML,2022,-5.7587,3.4291,17.43571079
+300,Davis,3,8/22/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,ML,2022,-5.7587,3.4291,23.49743251
+301,Davis,3,8/22/2022,Sparisoma,aurofrenatum,18,1,Terminal,NA,ML,2022,-5.7587,3.4291,94.37456161
+302,Davis,3,8/22/2022,Sparisoma,viride,10,1,Initial,NA,ML,2022,-4.5223,2.9214,20.91702907
+303,Davis,4,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,ML,2022,-5.7587,3.4291,30.91883698
+304,Davis,4,8/22/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,ML,2022,-5.7587,3.4291,39.8646217
+305,Davis,4,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,ML,2022,-5.7587,3.4291,30.91883698
+306,Davis,4,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,ML,2022,-5.7587,3.4291,30.91883698
+307,Davis,4,8/22/2022,Sparisoma,rubripinne,24,1,Terminal,NA,ML,2022,-4.8701,3.0641,264.9142169
+308,Davis,4,8/22/2022,Scarus,iseri,12,1,Terminal,NA,ML,2022,-4.8887,3.0548,29.02571124
+309,Davis,4,8/22/2022,Sparisoma,chrysopterum,18,1,Initial,NA,ML,2022,-5.1754,3.1708,94.54053577
+310,Davis,5,8/22/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,ML,2022,-5.7587,3.4291,17.43571079
+311,Davis,5,8/22/2022,Sparisoma,chrysopterum,22,1,Initial,NA,ML,2022,-5.1754,3.1708,178.6297689
+312,Davis,6,8/22/2022,Sparisoma,viride,15,1,Initial,NA,AAS,2022,-4.5223,2.9214,68.38061528
+313,Davis,6,8/22/2022,Sparisoma,aurofrenatum,22,1,Terminal,NA,AAS,2022,-5.7587,3.4291,187.8026062
+314,Davis,6,8/22/2022,Sparisoma,aurofrenatum,6,1,Initial,NA,AAS,2022,-5.7587,3.4291,2.181516252
+315,Davis,6,8/22/2022,Sparisoma,aurofrenatum,19,1,Terminal,NA,AAS,2022,-5.7587,3.4291,113.59886
+316,Davis,6,8/22/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,AAS,2022,-5.7587,3.4291,23.49743251
+317,Davis,6,8/22/2022,Sparisoma,rubripinne,24,1,Terminal,NA,AAS,2022,-4.8701,3.0641,264.9142169
+318,Davis,6,8/22/2022,Sparisoma,rubripinne,18,1,Initial,NA,AAS,2022,-4.8701,3.0641,109.718657
+319,Davis,6,8/22/2022,Sparisoma,rubripinne,13,1,Initial,NA,AAS,2022,-4.8701,3.0641,40.47937755
+320,Davis,7,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,AAS,2022,-5.7587,3.4291,30.91883698
+321,Davis,7,8/22/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,AAS,2022,-5.7587,3.4291,50.50501872
+322,Davis,7,8/22/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,AAS,2022,-5.7587,3.4291,23.49743251
+323,Davis,7,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,AAS,2022,-5.7587,3.4291,30.91883698
+324,Davis,7,8/22/2022,Sparisoma,rubripinne,16,1,Initial,NA,AAS,2022,-4.8701,3.0641,76.4793237
+325,Davis,7,8/22/2022,Sparisoma,viride,17,1,Initial,NA,AAS,2022,-4.5223,2.9214,98.56744039
+326,Davis,7,8/22/2022,Scarus,taeniopterus,20,1,Initial,NA,AAS,2022,-4.1836,2.7086,111.9360162
+327,Davis,8,8/22/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+328,Davis,8,8/22/2022,Sparisoma,aurofrenatum,3,1,Initial,NA,AAS,2022,-5.7587,3.4291,0.202533326
+329,Davis,8,8/22/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,AAS,2022,-5.7587,3.4291,50.50501872
+330,Davis,8,8/22/2022,Sparisoma,aurofrenatum,17,1,Initial,NA,AAS,2022,-5.7587,3.4291,77.57689558
+331,Davis,8,8/22/2022,Sparisoma,viride,18,1,Initial,NA,AAS,2022,-4.5223,2.9214,116.4804652
+332,Davis,8,8/22/2022,Sparisoma,viride,2,1,Juvenile,NA,AAS,2022,-4.5223,2.9214,0.189901777
+333,Davis,9,8/22/2022,Scarus,vetula,22,1,Terminal,NA,AAS,2022,-5.5396,3.33,182.2499959
+334,Davis,9,8/22/2022,Scarus,taeniopterus,21,1,Initial,NA,AAS,2022,-4.1836,2.7086,127.7506686
+335,Davis,9,8/22/2022,Scarus,taeniopterus,2,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.218962552
+336,Davis,9,8/22/2022,Sparisoma,aurofrenatum,3,1,Juvenile,NA,AAS,2022,-5.7587,3.4291,0.202533326
+337,Davis,9,8/22/2022,Sparisoma,viride,2,1,Juvenile,NA,AAS,2022,-4.5223,2.9214,0.189901777
+338,Davis,9,8/22/2022,Sparisoma,viride,31,1,Terminal,NA,AAS,2022,-4.5223,2.9214,570.1170803
+339,Davis,9,8/22/2022,Sparisoma,viride,12,1,Initial,NA,AAS,2022,-4.5223,2.9214,35.63035031
+340,Davis,9,8/22/2022,Sparisoma,viride,18,1,Initial,NA,AAS,2022,-4.5223,2.9214,116.4804652
+341,Davis,9,8/22/2022,Sparisoma,viride,16,1,Initial,NA,AAS,2022,-4.5223,2.9214,82.56882746
+342,Davis,10,8/22/2022,Sparisoma,aurofrenatum,20,1,Terminal,NA,AAS,2022,-5.7587,3.4291,135.4446821
+343,Davis,10,8/22/2022,Sparisoma,aurofrenatum,5,1,Initial,NA,AAS,2022,-5.7587,3.4291,1.167449334
+344,Davis,10,8/22/2022,Sparisoma,aurofrenatum,4,1,Initial,NA,AAS,2022,-5.7587,3.4291,0.543155168
+345,Davis,10,8/22/2022,Sparisoma,aurofrenatum,19,1,Terminal,NA,AAS,2022,-5.7587,3.4291,113.59886
+346,Davis,10,8/22/2022,Sparisoma,aurofrenatum,6,1,Initial,NA,AAS,2022,-5.7587,3.4291,2.181516252
+347,Davis,10,8/22/2022,Sparisoma,aurofrenatum,3,1,Juvenile,NA,AAS,2022,-5.7587,3.4291,0.202533326
+348,Davis,10,8/22/2022,Sparisoma,aurofrenatum,5,1,Initial,NA,AAS,2022,-5.7587,3.4291,1.167449334
+349,Davis,10,8/22/2022,Sparisoma,rubripinne,16,1,Initial,NA,AAS,2022,-4.8701,3.0641,76.4793237
+350,Davis,10,8/22/2022,Sparisoma,viride,2,1,Juvenile,NA,AAS,2022,-4.5223,2.9214,0.189901777
+351,Davis,10,8/22/2022,Sparisoma,viride,22,1,Initial,NA,AAS,2022,-4.5223,2.9214,209.3406748
+352,Davis,10,8/22/2022,Scarus,vetula,17,1,Initial,NA,AAS,2022,-5.5396,3.33,77.23157795
+353,Davis,10,8/22/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+354,French,1,8/20/2022,Sparisoma,viride,22,1,Initial,NA,AAS,2022,-4.5223,2.9214,209.3406748
+355,French,1,8/20/2022,Sparisoma,rubripinne,19,1,Initial,NA,AAS,2022,-4.8701,3.0641,129.4878168
+356,French,1,8/20/2022,Sparisoma,rubripinne,4,1,Juvenile,NA,AAS,2022,-4.8701,3.0641,1.09338225
+357,French,1,8/20/2022,Sparisoma,rubripinne,5,1,Juvenile,NA,AAS,2022,-4.8701,3.0641,2.166277008
+358,French,1,8/20/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,AAS,2022,-5.7587,3.4291,23.49743251
+359,French,1,8/20/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,AAS,2022,-5.7587,3.4291,23.49743251
+360,French,1,8/20/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,AAS,2022,-5.7587,3.4291,39.8646217
+361,French,1,8/20/2022,Scarus,vetula,14,1,Initial,NA,AAS,2022,-5.5396,3.33,40.45818154
+362,French,2,8/20/2022,Scarus,coeruleus,36,1,Terminal,NA,AAS,2022,-5.0162,3.1109,863.3789375
+363,French,2,8/20/2022,Sparisoma,aurofrenatum,20,1,Terminal,NA,AAS,2022,-5.7587,3.4291,135.4446821
+364,French,2,8/20/2022,Sparisoma,aurofrenatum,18,1,Initial,NA,AAS,2022,-5.7587,3.4291,94.37456161
+365,French,2,8/20/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,AAS,2022,-5.7587,3.4291,39.8646217
+366,French,2,8/20/2022,Sparisoma,aurofrenatum,21,1,Initial,NA,AAS,2022,-5.7587,3.4291,160.1113737
+367,French,2,8/20/2022,Sparisoma,aurofrenatum,8,1,Initial,NA,AAS,2022,-5.7587,3.4291,5.85040423
+368,French,2,8/20/2022,Sparisoma,aurofrenatum,4,1,Initial,NA,AAS,2022,-5.7587,3.4291,0.543155168
+369,French,2,8/20/2022,Sparisoma,aurofrenatum,17,1,Initial,NA,AAS,2022,-5.7587,3.4291,77.57689558
+370,French,2,8/20/2022,Sparisoma,aurofrenatum,20,1,Initial,NA,AAS,2022,-5.7587,3.4291,135.4446821
+371,French,2,8/20/2022,Scarus,taeniopterus,15,1,Terminal,NA,AAS,2022,-4.1836,2.7086,51.35240458
+372,French,2,8/20/2022,Scarus,taeniopterus,5,1,Initial,NA,AAS,2022,-4.1836,2.7086,2.619570878
+373,French,2,8/20/2022,Scarus,taeniopterus,3,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.656644983
+374,French,2,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+375,French,2,8/20/2022,Sparisoma,viride,8,1,Initial,NA,AAS,2022,-4.5223,2.9214,10.89901093
+376,French,3,8/20/2022,Sparisoma,viride,18,1,Initial,NA,AAS,2022,-4.5223,2.9214,116.4804652
+377,French,3,8/20/2022,Sparisoma,viride,21,1,Initial,NA,AAS,2022,-4.5223,2.9214,182.7390857
+378,French,3,8/20/2022,Sparisoma,viride,20,1,Initial,NA,AAS,2022,-4.5223,2.9214,158.4634217
+379,French,3,8/20/2022,Sparisoma,viride,17,1,Initial,NA,AAS,2022,-4.5223,2.9214,98.56744039
+380,French,3,8/20/2022,Sparisoma,viride,17,1,Initial,NA,AAS,2022,-4.5223,2.9214,98.56744039
+381,French,3,8/20/2022,Sparisoma,viride,22,1,Initial,NA,AAS,2022,-4.5223,2.9214,209.3406748
+382,French,3,8/20/2022,Sparisoma,viride,23,1,Terminal,NA,AAS,2022,-4.5223,2.9214,238.3700569
+383,French,3,8/20/2022,Sparisoma,aurofrenatum,20,1,Terminal,NA,AAS,2022,-5.7587,3.4291,135.4446821
+384,French,3,8/20/2022,Sparisoma,aurofrenatum,22,1,Terminal,NA,AAS,2022,-5.7587,3.4291,187.8026062
+385,French,3,8/20/2022,Sparisoma,aurofrenatum,6,1,Initial,NA,AAS,2022,-5.7587,3.4291,2.181516252
+386,French,3,8/20/2022,Sparisoma,aurofrenatum,4,1,Juvenile,NA,AAS,2022,-5.7587,3.4291,0.543155168
+387,French,3,8/20/2022,Sparisoma,rubripinne,22,1,Initial,NA,AAS,2022,-4.8701,3.0641,202.9164876
+388,French,3,8/20/2022,Sparisoma,rubripinne,16,1,Initial,NA,AAS,2022,-4.8701,3.0641,76.4793237
+389,French,3,8/20/2022,Scarus,iseri,5,1,Initial,NA,AAS,2022,-4.8887,3.0548,2.001306331
+390,French,3,8/20/2022,Scarus,iseri,6,1,Initial,NA,AAS,2022,-4.8887,3.0548,3.49298274
+391,French,3,8/20/2022,Scarus,iseri,5,1,Initial,NA,AAS,2022,-4.8887,3.0548,2.001306331
+392,French,3,8/20/2022,Scarus,taeniopterus,5,1,Initial,NA,AAS,2022,-4.1836,2.7086,2.619570878
+393,French,4,8/20/2022,Sparisoma,viride,24,1,Terminal,NA,AAS,2022,-4.5223,2.9214,269.9287363
+394,French,4,8/20/2022,Sparisoma,viride,24,1,Terminal,NA,AAS,2022,-4.5223,2.9214,269.9287363
+395,French,4,8/20/2022,Sparisoma,viride,19,1,Initial,NA,AAS,2022,-4.5223,2.9214,136.4114326
+396,French,4,8/20/2022,Sparisoma,viride,10,1,Initial,NA,AAS,2022,-4.5223,2.9214,20.91702907
+397,French,4,8/20/2022,Scarus,vetula,28,1,Terminal,NA,AAS,2022,-5.5396,3.33,406.8518025
+398,French,4,8/20/2022,Sparisoma,rubripinne,24,1,Terminal,NA,AAS,2022,-4.8701,3.0641,264.9142169
+399,French,4,8/20/2022,Sparisoma,rubripinne,18,1,Initial,NA,AAS,2022,-4.8701,3.0641,109.718657
+400,French,4,8/20/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,AAS,2022,-5.7587,3.4291,17.43571079
+401,French,4,8/20/2022,Scarus,taeniopterus,9,1,Initial,NA,AAS,2022,-4.1836,2.7086,12.87245141
+402,French,4,8/20/2022,Scarus,taeniopterus,6,1,Initial,NA,AAS,2022,-4.1836,2.7086,4.292402872
+403,French,5,8/20/2022,Sparisoma,viride,17,1,Initial,NA,AAS,2022,-4.5223,2.9214,98.56744039
+404,French,5,8/20/2022,Sparisoma,viride,25,1,Terminal,NA,AAS,2022,-4.5223,2.9214,304.1178709
+405,French,5,8/20/2022,Sparisoma,viride,21,1,Initial,NA,AAS,2022,-4.5223,2.9214,182.7390857
+406,French,5,8/20/2022,Sparisoma,viride,22,1,Terminal,NA,AAS,2022,-4.5223,2.9214,209.3406748
+407,French,5,8/20/2022,Sparisoma,viride,18,1,Initial,NA,AAS,2022,-4.5223,2.9214,116.4804652
+408,French,5,8/20/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,AAS,2022,-5.7587,3.4291,30.91883698
+409,French,5,8/20/2022,Sparisoma,aurofrenatum,16,1,Initial,NA,AAS,2022,-5.7587,3.4291,63.01556471
+410,French,5,8/20/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,AAS,2022,-5.7587,3.4291,39.8646217
+411,French,5,8/20/2022,Scarus,iseri,4,1,Initial,NA,AAS,2022,-4.8887,3.0548,1.012215216
+412,French,5,8/20/2022,Scarus,iseri,4,1,Initial,NA,AAS,2022,-4.8887,3.0548,1.012215216
+413,French,5,8/20/2022,Scarus,iseri,5,1,Initial,NA,AAS,2022,-4.8887,3.0548,2.001306331
+414,French,5,8/20/2022,Scarus,taeniopterus,5,1,Initial,NA,AAS,2022,-4.1836,2.7086,2.619570878
+415,French,5,8/20/2022,Scarus,taeniopterus,4,1,Initial,NA,AAS,2022,-4.1836,2.7086,1.431329731
+416,French,5,8/20/2022,Scarus,taeniopterus,5,1,Initial,NA,AAS,2022,-4.1836,2.7086,2.619570878
+417,French,6,8/20/2022,Sparisoma,aurofrenatum,22,1,Terminal,NA,AAS,2022,-5.7587,3.4291,187.8026062
+418,French,6,8/20/2022,Sparisoma,aurofrenatum,16,1,Initial,NA,AAS,2022,-5.7587,3.4291,63.01556471
+419,French,6,8/20/2022,Sparisoma,aurofrenatum,3,1,Juvenile,NA,AAS,2022,-5.7587,3.4291,0.202533326
+420,French,6,8/20/2022,Sparisoma,viride,27,1,Terminal,NA,AAS,2022,-4.5223,2.9214,380.7904961
+421,French,6,8/20/2022,Sparisoma,viride,22,1,Initial,NA,AAS,2022,-4.5223,2.9214,209.3406748
+422,French,7,8/20/2022,Scarus,taeniopterus,3,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.656644983
+423,French,7,8/20/2022,Scarus,vetula,17,1,Initial,NA,AAS,2022,-5.5396,3.33,77.23157795
+424,French,7,8/20/2022,Scarus,vetula,29,1,Terminal,NA,AAS,2022,-5.5396,3.33,457.2832913
+425,French,7,8/20/2022,Sparisoma,viride,21,1,Initial,NA,AAS,2022,-4.5223,2.9214,182.7390857
+426,French,7,8/20/2022,Sparisoma,viride,23,1,Terminal,NA,AAS,2022,-4.5223,2.9214,238.3700569
+427,French,7,8/20/2022,Scarus,iseri,4,1,Initial,NA,AAS,2022,-4.8887,3.0548,1.012215216
+428,French,8,8/20/2022,Scarus,vetula,25,1,Initial,NA,AAS,2022,-5.5396,3.33,278.9589045
+429,French,8,8/20/2022,Sparisoma,viride,22,1,Terminal,NA,AAS,2022,-4.5223,2.9214,209.3406748
+430,French,8,8/20/2022,Sparisoma,viride,15,1,Initial,NA,AAS,2022,-4.5223,2.9214,68.38061528
+431,French,8,8/20/2022,Sparisoma,viride,16,1,Initial,NA,AAS,2022,-4.5223,2.9214,82.56882746
+432,French,8,8/20/2022,Sparisoma,viride,22,1,Initial,NA,AAS,2022,-4.5223,2.9214,209.3406748
+433,French,8,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+434,French,9,8/20/2022,Sparisoma,viride,21,1,Initial,NA,AAS,2022,-4.5223,2.9214,182.7390857
+435,French,9,8/20/2022,Sparisoma,viride,21,1,Terminal,NA,AAS,2022,-4.5223,2.9214,182.7390857
+436,French,9,8/20/2022,Sparisoma,viride,20,1,Initial,NA,AAS,2022,-4.5223,2.9214,158.4634217
+437,French,9,8/20/2022,Sparisoma,viride,18,1,Initial,NA,AAS,2022,-4.5223,2.9214,116.4804652
+438,French,9,8/20/2022,Sparisoma,viride,17,1,Initial,NA,AAS,2022,-4.5223,2.9214,98.56744039
+439,French,9,8/20/2022,Sparisoma,viride,11,1,Initial,NA,AAS,2022,-4.5223,2.9214,27.6327807
+440,French,9,8/20/2022,Sparisoma,viride,13,1,Initial,NA,AAS,2022,-4.5223,2.9214,45.01674706
+441,French,9,8/20/2022,Sparisoma,viride,2,1,Initial,NA,AAS,2022,-4.5223,2.9214,0.189901777
+442,French,9,8/20/2022,Sparisoma,viride,2,1,Initial,NA,AAS,2022,-4.5223,2.9214,0.189901777
+443,French,9,8/20/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,AAS,2022,-5.7587,3.4291,23.49743251
+444,French,9,8/20/2022,Sparisoma,aurofrenatum,6,1,Initial,NA,AAS,2022,-5.7587,3.4291,2.181516252
+445,French,9,8/20/2022,Sparisoma,rubripinne,17,1,Terminal,NA,AAS,2022,-4.8701,3.0641,92.09128649
+446,French,9,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+447,French,9,8/20/2022,Scarus,taeniopterus,2,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.218962552
+448,French,9,8/20/2022,Scarus,vetula,25,1,Terminal,NA,AAS,2022,-5.5396,3.33,278.9589045
+449,French,9,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+450,French,9,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+451,French,9,8/20/2022,Scarus,iseri,4,1,Initial,NA,AAS,2022,-4.8887,3.0548,1.012215216
+452,French,9,8/20/2022,Scarus,iseri,5,1,Initial,NA,AAS,2022,-4.8887,3.0548,2.001306331
+453,French,9,8/20/2022,Scarus,taeniopterus,4,1,Initial,NA,AAS,2022,-4.1836,2.7086,1.431329731
+454,French,9,8/20/2022,Scarus,taeniopterus,5,1,Initial,NA,AAS,2022,-4.1836,2.7086,2.619570878
+455,French,10,8/20/2022,Sparisoma,viride,23,1,Terminal,NA,AAS,2022,-4.5223,2.9214,238.3700569
+456,French,10,8/20/2022,Sparisoma,viride,13,1,Initial,NA,AAS,2022,-4.5223,2.9214,45.01674706
+457,French,10,8/20/2022,Sparisoma,viride,24,1,Terminal,NA,AAS,2022,-4.5223,2.9214,269.9287363
+458,French,10,8/20/2022,Scarus,taeniopterus,5,1,Initial,NA,AAS,2022,-4.1836,2.7086,2.619570878
+459,French,10,8/20/2022,Scarus,taeniopterus,3,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.656644983
+460,French,10,8/20/2022,Scarus,taeniopterus,7,1,Initial,NA,AAS,2022,-4.1836,2.7086,6.516772367
+461,French,10,8/20/2022,Scarus,taeniopterus,4,1,Initial,NA,AAS,2022,-4.1836,2.7086,1.431329731
+462,French,10,8/20/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,AAS,2022,-5.7587,3.4291,50.50501872
+463,French,10,8/20/2022,Sparisoma,aurofrenatum,21,1,Terminal,NA,AAS,2022,-5.7587,3.4291,160.1113737
+464,French,10,8/20/2022,Sparisoma,aurofrenatum,3,1,Initial,NA,AAS,2022,-5.7587,3.4291,0.202533326
+465,French,10,8/20/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,AAS,2022,-5.7587,3.4291,30.91883698
+466,French,10,8/20/2022,Scarus,iseri,12,1,Terminal,NA,AAS,2022,-4.8887,3.0548,29.02571124
+467,French,10,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+468,French,10,8/20/2022,Sparisoma,chrysopterum,15,1,Initial,NA,AAS,2022,-5.1754,3.1708,53.03348467
+469,Molasses,1,8/20/2022,Scarus,iseri,4,1,Initial,NA,AAS,2022,-4.8887,3.0548,1.012215216
+470,Molasses,1,8/20/2022,Scarus,iseri,4,1,Initial,NA,AAS,2022,-4.8887,3.0548,1.012215216
+471,Molasses,1,8/20/2022,Scarus,iseri,4,1,Initial,NA,AAS,2022,-4.8887,3.0548,1.012215216
+472,Molasses,1,8/20/2022,Scarus,taeniopterus,4,1,Initial,NA,AAS,2022,-4.1836,2.7086,1.431329731
+473,Molasses,1,8/20/2022,Scarus,vetula,15,1,Initial,NA,AAS,2022,-5.5396,3.33,50.90774882
+474,Molasses,1,8/20/2022,Scarus,vetula,20,1,Initial,NA,AAS,2022,-5.5396,3.33,132.6874615
+475,Molasses,1,8/20/2022,Scarus,vetula,17,1,Initial,NA,AAS,2022,-5.5396,3.33,77.23157795
+476,Molasses,1,8/20/2022,Scarus,vetula,14,1,Initial,NA,AAS,2022,-5.5396,3.33,40.45818154
+477,Molasses,1,8/20/2022,Sparisoma,viride,16,1,Initial,NA,AAS,2022,-4.5223,2.9214,82.56882746
+478,Molasses,1,8/20/2022,Sparisoma,viride,15,1,Initial,NA,AAS,2022,-4.5223,2.9214,68.38061528
+479,Molasses,1,8/20/2022,Sparisoma,viride,29,1,Terminal,NA,AAS,2022,-4.5223,2.9214,469.1908252
+480,Molasses,1,8/20/2022,Sparisoma,viride,5,1,Initial,NA,AAS,2022,-4.5223,2.9214,2.761029016
+481,Molasses,1,8/20/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,AAS,2022,-5.7587,3.4291,23.49743251
+482,Molasses,1,8/20/2022,Sparisoma,aurofrenatum,17,1,Terminal,NA,AAS,2022,-5.7587,3.4291,77.57689558
+483,Molasses,1,8/20/2022,Sparisoma,aurofrenatum,4,1,Initial,NA,AAS,2022,-5.7587,3.4291,0.543155168
+484,Molasses,1,8/20/2022,Sparisoma,aurofrenatum,3,1,Initial,NA,AAS,2022,-5.7587,3.4291,0.202533326
+485,Molasses,1,8/20/2022,Sparisoma,aurofrenatum,4,1,Initial,NA,AAS,2022,-5.7587,3.4291,0.543155168
+486,Molasses,2,8/20/2022,Scarus,vetula,33,1,Terminal,NA,AAS,2022,-5.5396,3.33,703.1555675
+487,Molasses,2,8/20/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,AAS,2022,-5.7587,3.4291,30.91883698
+488,Molasses,2,8/20/2022,Sparisoma,aurofrenatum,3,1,Juvenile,NA,AAS,2022,-5.7587,3.4291,0.202533326
+489,Molasses,2,8/20/2022,Sparisoma,aurofrenatum,21,1,Terminal,NA,AAS,2022,-5.7587,3.4291,160.1113737
+490,Molasses,2,8/20/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,AAS,2022,-5.7587,3.4291,50.50501872
+491,Molasses,2,8/20/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,AAS,2022,-5.7587,3.4291,39.8646217
+492,Molasses,2,8/20/2022,Sparisoma,chrysopterum,16,1,Initial,NA,AAS,2022,-5.1754,3.1708,65.07641814
+493,Molasses,2,8/20/2022,Sparisoma,chrysopterum,15,1,Initial,NA,AAS,2022,-5.1754,3.1708,53.03348467
+494,Molasses,2,8/20/2022,Sparisoma,chrysopterum,13,1,Initial,NA,AAS,2022,-5.1754,3.1708,33.68926852
+495,Molasses,2,8/20/2022,Sparisoma,rubripinne,21,1,Terminal,NA,AAS,2022,-4.8701,3.0641,175.9592657
+496,Molasses,2,8/20/2022,Sparisoma,viride,16,1,Initial,NA,AAS,2022,-4.5223,2.9214,82.56882746
+497,Molasses,2,8/20/2022,Sparisoma,viride,23,1,Initial,NA,AAS,2022,-4.5223,2.9214,238.3700569
+498,Molasses,2,8/20/2022,Sparisoma,viride,3,1,Juvenile,NA,AAS,2022,-4.5223,2.9214,0.62081476
+499,Molasses,2,8/20/2022,Sparisoma,viride,4,1,Juvenile,NA,AAS,2022,-4.5223,2.9214,1.438659635
+500,Molasses,2,8/20/2022,Sparisoma,viride,5,1,Juvenile,NA,AAS,2022,-4.5223,2.9214,2.761029016
+501,Molasses,2,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+502,Molasses,3,8/20/2022,Scarus,vetula,13,1,Initial,NA,AAS,2022,-5.5396,3.33,31.61049984
+503,Molasses,3,8/20/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,AAS,2022,-5.7587,3.4291,39.8646217
+504,Molasses,3,8/20/2022,Sparisoma,aurofrenatum,19,1,Terminal,NA,AAS,2022,-5.7587,3.4291,113.59886
+505,Molasses,3,8/20/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,AAS,2022,-5.7587,3.4291,23.49743251
+506,Molasses,3,8/20/2022,Sparisoma,viride,22,1,Initial,NA,AAS,2022,-4.5223,2.9214,209.3406748
+507,Molasses,3,8/20/2022,Sparisoma,viride,24,1,Terminal,NA,AAS,2022,-4.5223,2.9214,269.9287363
+508,Molasses,3,8/20/2022,Sparisoma,viride,15,1,Initial,NA,AAS,2022,-4.5223,2.9214,68.38061528
+509,Molasses,3,8/20/2022,Sparisoma,viride,28,1,Terminal,NA,AAS,2022,-4.5223,2.9214,423.4747036
+510,Molasses,3,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+511,Molasses,3,8/20/2022,Scarus,taeniopterus,3,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.656644983
+512,Molasses,3,8/20/2022,Scarus,taeniopterus,19,1,Initial,transitioning,AAS,2022,-4.1836,2.7086,97.41638368
+513,Molasses,3,8/20/2022,Sparisoma,rubripinne,15,1,Initial,NA,AAS,2022,-4.8701,3.0641,62.75686304
+514,Molasses,3,8/20/2022,Sparisoma,rubripinne,15,1,Initial,NA,AAS,2022,-4.8701,3.0641,62.75686304
+515,Molasses,4,8/20/2022,Sparisoma,viride,25,1,Initial,NA,AAS,2022,-4.5223,2.9214,304.1178709
+516,Molasses,4,8/20/2022,Sparisoma,viride,14,1,Initial,NA,AAS,2022,-4.5223,2.9214,55.89827983
+517,Molasses,4,8/20/2022,Sparisoma,viride,15,1,Initial,NA,AAS,2022,-4.5223,2.9214,68.38061528
+518,Molasses,4,8/20/2022,Sparisoma,viride,3,1,Initial,NA,AAS,2022,-4.5223,2.9214,0.62081476
+519,Molasses,4,8/20/2022,Sparisoma,viride,20,1,Initial,NA,AAS,2022,-4.5223,2.9214,158.4634217
+520,Molasses,4,8/20/2022,Sparisoma,viride,17,1,Initial,NA,AAS,2022,-4.5223,2.9214,98.56744039
+521,Molasses,4,8/20/2022,Sparisoma,aurofrenatum,3,1,Initial,NA,AAS,2022,-5.7587,3.4291,0.202533326
+522,Molasses,4,8/20/2022,Sparisoma,aurofrenatum,10,1,Initial,NA,AAS,2022,-5.7587,3.4291,12.57476854
+523,Molasses,4,8/20/2022,Sparisoma,aurofrenatum,9,1,Initial,NA,AAS,2022,-5.7587,3.4291,8.76179301
+524,Molasses,4,8/20/2022,Sparisoma,aurofrenatum,5,1,Juvenile,NA,AAS,2022,-5.7587,3.4291,1.167449334
+525,Molasses,4,8/20/2022,Sparisoma,aurofrenatum,6,1,Initial,NA,AAS,2022,-5.7587,3.4291,2.181516252
+526,Molasses,4,8/20/2022,Sparisoma,taeniopterus,2,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.218962552
+527,Molasses,4,8/20/2022,Sparisoma,taeniopterus,6,1,Initial,NA,AAS,2022,-4.1836,2.7086,4.292402872
+528,Molasses,4,8/20/2022,Sparisoma,chrysopterum,4,1,Initial,NA,AAS,2022,-5.1754,3.1708,0.802438617
+529,Molasses,4,8/20/2022,Sparisoma,chrysopterum,20,1,Terminal,NA,AAS,2022,-5.1754,3.1708,132.04012
+530,Molasses,4,8/20/2022,Sparisoma,chrysopterum,24,1,Initial,NA,AAS,2022,-5.1754,3.1708,235.3823017
+531,Molasses,4,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+532,Molasses,4,8/20/2022,Scarus,iseri,2,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.121810978
+533,Molasses,4,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+534,Molasses,5,8/20/2022,Scarus,iseri,2,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.121810978
+535,Molasses,5,8/20/2022,Scarus,iseri,2,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.121810978
+536,Molasses,5,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+537,Molasses,5,8/20/2022,Scarus,iseri,2,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.121810978
+538,Molasses,5,8/20/2022,Scarus,taeniopterus,3,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.656644983
+539,Molasses,5,8/20/2022,Scarus,taeniopterus,2,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.218962552
+540,Molasses,5,8/20/2022,Sparisoma,taeniopterus,2,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.218962552
+541,Molasses,5,8/20/2022,Sparisoma,aurofrenatum,2,1,Initial,NA,AAS,2022,-5.7587,3.4291,0.050426864
+542,Molasses,5,8/20/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,AAS,2022,-5.7587,3.4291,50.50501872
+543,Molasses,5,8/20/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,AAS,2022,-5.7587,3.4291,23.49743251
+544,Molasses,5,8/20/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,AAS,2022,-5.7587,3.4291,17.43571079
+545,Molasses,5,8/20/2022,Sparisoma,aurofrenatum,16,1,Terminal,NA,AAS,2022,-5.7587,3.4291,63.01556471
+546,Molasses,5,8/20/2022,Sparisoma,aurofrenatum,18,1,Terminal,NA,AAS,2022,-5.7587,3.4291,94.37456161
+547,Molasses,5,8/20/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,AAS,2022,-5.7587,3.4291,30.91883698
+548,Molasses,5,8/20/2022,Sparisoma,aurofrenatum,9,1,Initial,NA,AAS,2022,-5.7587,3.4291,8.76179301
+549,Molasses,5,8/20/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,AAS,2022,-5.7587,3.4291,50.50501872
+550,Molasses,5,8/20/2022,Sparisoma,viride,3,1,Juvenile,NA,AAS,2022,-4.5223,2.9214,0.62081476
+551,Molasses,6,8/20/2022,Sparisoma,viride,16,1,Initial,NA,AAS,2022,-4.5223,2.9214,82.56882746
+552,Molasses,6,8/20/2022,Sparisoma,viride,29,1,Terminal,NA,AAS,2022,-4.5223,2.9214,469.1908252
+553,Molasses,6,8/20/2022,Sparisoma,viride,15,1,Initial,NA,AAS,2022,-4.5223,2.9214,68.38061528
+554,Molasses,6,8/20/2022,Sparisoma,viride,17,1,Initial,NA,AAS,2022,-4.5223,2.9214,98.56744039
+555,Molasses,6,8/20/2022,Sparisoma,viride,23,1,Terminal,NA,AAS,2022,-4.5223,2.9214,238.3700569
+556,Molasses,6,8/20/2022,Sparisoma,viride,16,1,Initial,NA,AAS,2022,-4.5223,2.9214,82.56882746
+557,Molasses,6,8/20/2022,Sparisoma,viride,12,1,Initial,NA,AAS,2022,-4.5223,2.9214,35.63035031
+558,Molasses,6,8/20/2022,Sparisoma,viride,19,1,Initial,NA,AAS,2022,-4.5223,2.9214,136.4114326
+559,Molasses,6,8/20/2022,Sparisoma,viride,24,1,Terminal,NA,AAS,2022,-4.5223,2.9214,269.9287363
+560,Molasses,6,8/20/2022,Sparisoma,aurofrenatum,21,1,Terminal,NA,AAS,2022,-5.7587,3.4291,160.1113737
+561,Molasses,6,8/20/2022,Sparisoma,aurofrenatum,16,1,Initial,NA,AAS,2022,-5.7587,3.4291,63.01556471
+562,Molasses,6,8/20/2022,Sparisoma,aurofrenatum,8,1,Initial,NA,AAS,2022,-5.7587,3.4291,5.85040423
+563,Molasses,6,8/20/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,AAS,2022,-5.7587,3.4291,30.91883698
+564,Molasses,6,8/20/2022,Scarus,vetula,18,1,Initial,NA,AAS,2022,-5.5396,3.33,93.42378146
+565,Molasses,6,8/20/2022,Scarus,vetula,25,1,Terminal,NA,AAS,2022,-5.5396,3.33,278.9589045
+566,Molasses,6,8/20/2022,Scarus,vetula,21,1,Initial,NA,AAS,2022,-5.5396,3.33,156.0954527
+567,Molasses,6,8/20/2022,Scarus,iseri,12,1,Initial,NA,AAS,2022,-4.8887,3.0548,29.02571124
+568,Molasses,6,8/20/2022,Scarus,iseri,15,1,Terminal,NA,AAS,2022,-4.8887,3.0548,57.38832884
+569,Molasses,6,8/20/2022,Scarus,taeniopterus,18,1,Initial,NA,AAS,2022,-4.1836,2.7086,84.14554106
+570,Molasses,6,8/20/2022,Scarus,taeniopterus,24,1,Terminal,NA,AAS,2022,-4.1836,2.7086,183.4172464
+571,Molasses,6,8/20/2022,Scarus,taeniopterus,13,1,Initial,NA,AAS,2022,-4.1836,2.7086,34.85194051
+572,Molasses,6,8/20/2022,Sparisoma,chrysopterum,14,1,Initial,NA,AAS,2022,-5.1754,3.1708,42.6130653
+573,Molasses,6,8/20/2022,Sparisoma,rubripinne,19,1,Initial,NA,AAS,2022,-4.8701,3.0641,129.4878168
+574,Molasses,6,8/20/2022,Sparisoma,rubripinne,23,1,Terminal,NA,AAS,2022,-4.8701,3.0641,232.5253262
+575,Molasses,7,8/20/2022,Sparisoma,viride,16,1,Initial,NA,AAS,2022,-4.5223,2.9214,82.56882746
+576,Molasses,7,8/20/2022,Sparisoma,viride,16,1,Initial,NA,AAS,2022,-4.5223,2.9214,82.56882746
+577,Molasses,7,8/20/2022,Sparisoma,viride,9,1,Initial,NA,AAS,2022,-4.5223,2.9214,15.37531659
+578,Molasses,7,8/20/2022,Sparisoma,viride,25,1,Terminal,NA,AAS,2022,-4.5223,2.9214,304.1178709
+579,Molasses,7,8/20/2022,Sparisoma,viride,15,1,Initial,NA,AAS,2022,-4.5223,2.9214,68.38061528
+580,Molasses,7,8/20/2022,Sparisoma,viride,23,1,Initial,NA,AAS,2022,-4.5223,2.9214,238.3700569
+581,Molasses,7,8/20/2022,Sparisoma,viride,17,1,Initial,NA,AAS,2022,-4.5223,2.9214,98.56744039
+582,Molasses,7,8/20/2022,Sparisoma,viride,21,1,Terminal,NA,AAS,2022,-4.5223,2.9214,182.7390857
+583,Molasses,7,8/20/2022,Sparisoma,viride,22,1,Terminal,NA,AAS,2022,-4.5223,2.9214,209.3406748
+584,Molasses,7,8/20/2022,Sparisoma,vetula,26,1,Terminal,NA,AAS,2022,-5.5396,3.33,317.8785686
+585,Molasses,7,8/20/2022,Sparisoma,vetula,20,1,Initial,NA,AAS,2022,-5.5396,3.33,132.6874615
+586,Molasses,7,8/20/2022,Sparisoma,vetula,11,1,Initial,NA,AAS,2022,-5.5396,3.33,18.12331511
+587,Molasses,7,8/20/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,AAS,2022,-5.7587,3.4291,30.91883698
+588,Molasses,7,8/20/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,AAS,2022,-5.7587,3.4291,17.43571079
+589,Molasses,7,8/20/2022,Sparisoma,aurofrenatum,8,1,Initial,NA,AAS,2022,-5.7587,3.4291,5.85040423
+590,Molasses,7,8/20/2022,Sparisoma,aurofrenatum,9,1,Initial,NA,AAS,2022,-5.7587,3.4291,8.76179301
+591,Molasses,7,8/20/2022,Scarus,iseri,16,1,Terminal,NA,AAS,2022,-4.8887,3.0548,69.89493784
+592,Molasses,7,8/20/2022,Sparisoma,rubripinne,17,1,Initial,NA,AAS,2022,-4.8701,3.0641,92.09128649
+593,Molasses,7,8/20/2022,Sparisoma,rubripinne,15,1,Initial,NA,AAS,2022,-4.8701,3.0641,62.75686304
+594,Molasses,8,8/20/2022,Scarus,vetula,27,1,Terminal,NA,AAS,2022,-5.5396,3.33,360.4469331
+595,Molasses,8,8/20/2022,Sparisoma,viride,3,1,Juvenile,NA,AAS,2022,-4.5223,2.9214,0.62081476
+596,Molasses,8,8/20/2022,Sparisoma,viride,14,1,Initial,NA,AAS,2022,-4.5223,2.9214,55.89827983
+597,Molasses,8,8/20/2022,Sparisoma,viride,22,1,Terminal,NA,AAS,2022,-4.5223,2.9214,209.3406748
+598,Molasses,8,8/20/2022,Sparisoma,viride,17,1,Initial,NA,AAS,2022,-4.5223,2.9214,98.56744039
+599,Molasses,8,8/20/2022,Sparisoma,viride,15,1,Initial,NA,AAS,2022,-4.5223,2.9214,68.38061528
+600,Molasses,8,8/20/2022,Sparisoma,aurofrenatum,20,1,Terminal,NA,AAS,2022,-5.7587,3.4291,135.4446821
+601,Molasses,8,8/20/2022,Sparisoma,aurofrenatum,3,1,Juvenile,NA,AAS,2022,-5.7587,3.4291,0.202533326
+602,Molasses,8,8/20/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,AAS,2022,-5.7587,3.4291,50.50501872
+603,Molasses,8,8/20/2022,Sparisoma,taeniopterus,8,1,Initial,NA,AAS,2022,-4.1836,2.7086,9.356416341
+604,Molasses,8,8/20/2022,Sparisoma,taeniopterus,7,1,Initial,NA,AAS,2022,-4.1836,2.7086,6.516772367
+605,Molasses,8,8/20/2022,Sparisoma,taeniopterus,3,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.656644983
+606,Molasses,8,8/20/2022,Sparisoma,taeniopterus,4,1,Initial,NA,AAS,2022,-4.1836,2.7086,1.431329731
+607,Molasses,8,8/20/2022,Sparisoma,taeniopterus,3,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.656644983
+608,Molasses,8,8/20/2022,Sparisoma,taeniopterus,6,1,Initial,NA,AAS,2022,-4.1836,2.7086,4.292402872
+609,Molasses,8,8/20/2022,Sparisoma,taeniopterus,9,1,Initial,NA,AAS,2022,-4.1836,2.7086,12.87245141
+610,Molasses,8,8/20/2022,Sparisoma,taeniopterus,14,1,Initial,NA,AAS,2022,-4.1836,2.7086,42.59929359
+611,Molasses,8,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+612,Molasses,8,8/20/2022,Scarus,iseri,5,1,Initial,NA,AAS,2022,-4.8887,3.0548,2.001306331
+613,Molasses,8,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+614,Molasses,8,8/20/2022,Scarus,iseri,8,1,Initial,NA,AAS,2022,-4.8887,3.0548,8.411225809
+615,Molasses,8,8/20/2022,Scarus,iseri,10,1,Initial,NA,AAS,2022,-4.8887,3.0548,16.6302968
+616,Molasses,8,8/20/2022,Scarus,iseri,16,1,Terminal,NA,AAS,2022,-4.8887,3.0548,69.89493784
+617,Molasses,8,8/20/2022,Sparisoma,rubripinne,4,1,Juvenile,NA,AAS,2022,-4.8701,3.0641,1.09338225
+618,Molasses,8,8/20/2022,Sparisoma,rubripinne,3,1,Juvenile,NA,AAS,2022,-4.8701,3.0641,0.45284256
+619,Molasses,8,8/20/2022,Sparisoma,chrysopterum,4,1,Juvenile,NA,AAS,2022,-5.1754,3.1708,0.802438617
+620,Molasses,9,8/20/2022,Scarus,vetula,25,1,Terminal,NA,AAS,2022,-5.5396,3.33,278.9589045
+621,Molasses,9,8/20/2022,Scarus,taeniopterus,11,1,Initial,NA,AAS,2022,-4.1836,2.7086,22.16747498
+622,Molasses,9,8/20/2022,Scarus,taeniopterus,9,1,Initial,NA,AAS,2022,-4.1836,2.7086,12.87245141
+623,Molasses,9,8/20/2022,Scarus,taeniopterus,5,1,Initial,NA,AAS,2022,-4.1836,2.7086,2.619570878
+624,Molasses,9,8/20/2022,Scarus,taeniopterus,12,1,Initial,NA,AAS,2022,-4.1836,2.7086,28.05887944
+625,Molasses,9,8/20/2022,Scarus,iseri,13,1,Terminal,NA,AAS,2022,-4.8887,3.0548,37.06586611
+626,Molasses,9,8/20/2022,Sparisoma,aurofrenatum,5,1,Initial,NA,AAS,2022,-5.7587,3.4291,1.167449334
+627,Molasses,9,8/20/2022,Sparisoma,viride,18,1,Initial,NA,AAS,2022,-4.5223,2.9214,116.4804652
+628,Molasses,9,8/20/2022,Sparisoma,viride,19,1,Initial,NA,AAS,2022,-4.5223,2.9214,136.4114326
+629,Molasses,9,8/20/2022,Sparisoma,viride,15,1,Initial,NA,AAS,2022,-4.5223,2.9214,68.38061528
+630,Molasses,9,8/20/2022,Sparisoma,viride,14,1,Initial,NA,AAS,2022,-4.5223,2.9214,55.89827983
+631,Molasses,9,8/20/2022,Scarus,iseri,5,1,Initial,NA,AAS,2022,-4.8887,3.0548,2.001306331
+632,Molasses,10,8/20/2022,Scarus,vetula,19,1,Initial,NA,AAS,2022,-5.5396,3.33,111.8534776
+633,Molasses,10,8/20/2022,Scarus,vetula,16,1,Initial,NA,AAS,2022,-5.5396,3.33,63.11310433
+634,Molasses,10,8/20/2022,Scarus,taeniopterus,14,1,Initial,NA,AAS,2022,-4.1836,2.7086,42.59929359
+635,Molasses,10,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+636,Molasses,10,8/20/2022,Sparisoma,aurofrenatum,3,1,Juvenile,NA,AAS,2022,-5.7587,3.4291,0.202533326
+637,Molasses,10,8/20/2022,Scarus,taeniopterus,6,1,Initial,NA,AAS,2022,-4.1836,2.7086,4.292402872
+638,Molasses,10,8/20/2022,Sparisoma,viride,9,1,Initial,NA,AAS,2022,-4.5223,2.9214,15.37531659
+639,Molasses,10,8/20/2022,Sparisoma,viride,4,1,Juvenile,NA,AAS,2022,-4.5223,2.9214,1.438659635
+640,Molasses,10,8/20/2022,Sparisoma,viride,6,1,Initial,NA,AAS,2022,-4.5223,2.9214,4.703174179
+641,Molasses,10,8/20/2022,Sparisoma,viride,18,1,Initial,NA,AAS,2022,-4.5223,2.9214,116.4804652
+642,Molasses,10,8/20/2022,Sparisoma,rubripinne,16,1,Initial,NA,AAS,2022,-4.8701,3.0641,76.4793237
+643,Molasses,10,8/20/2022,Sparisoma,rubripinne,17,1,Initial,NA,AAS,2022,-4.8701,3.0641,92.09128649
+644,Pickles,1,8/20/2022,Sparisoma,rubripinne,18,1,Initial,NA,AAS,2022,-4.8701,3.0641,109.718657
+645,Pickles,1,8/20/2022,Sparisoma,rubripinne,17,1,Initial,NA,AAS,2022,-4.8701,3.0641,92.09128649
+646,Pickles,1,8/20/2022,Sparisoma,rubripinne,20,1,Initial,NA,AAS,2022,-4.8701,3.0641,151.5255991
+647,Pickles,1,8/20/2022,Sparisoma,rubripinne,25,1,Initial,NA,AAS,2022,-4.8701,3.0641,300.2119536
+648,Pickles,1,8/20/2022,Scarus,taeniopterus,5,1,Initial,NA,AAS,2022,-4.1836,2.7086,2.619570878
+649,Pickles,1,8/20/2022,Scarus,taeniopterus,16,1,Initial,NA,AAS,2022,-4.1836,2.7086,61.16167702
+650,Pickles,1,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+651,Pickles,1,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+652,Pickles,1,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+653,Pickles,1,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+654,Pickles,1,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+655,Pickles,1,8/20/2022,Scarus,iseri,5,1,Initial,NA,AAS,2022,-4.8887,3.0548,2.001306331
+656,Pickles,1,8/20/2022,Scarus,iseri,14,1,Terminal,NA,AAS,2022,-4.8887,3.0548,46.48276173
+657,Pickles,1,8/20/2022,Scarus,coeruleus,12,1,Initial,NA,AAS,2022,-5.0162,3.1109,28.30902672
+658,Pickles,1,8/20/2022,Sparisoma,viride,33,1,Terminal,NA,AAS,2022,-4.5223,2.9214,684.3631616
+659,Pickles,1,8/20/2022,Sparisoma,viride,14,1,Initial,NA,AAS,2022,-4.5223,2.9214,55.89827983
+660,Pickles,1,8/20/2022,Sparisoma,viride,6,1,Initial,NA,AAS,2022,-4.5223,2.9214,4.703174179
+661,Pickles,1,8/20/2022,Sparisoma,chrysopterum,19,1,Terminal,NA,AAS,2022,-5.1754,3.1708,112.2204273
+662,Pickles,1,8/20/2022,Sparisoma,chrysopterum,19,1,Terminal,NA,AAS,2022,-5.1754,3.1708,112.2204273
+663,Pickles,1,8/20/2022,Sparisoma,aurofrenatum,4,1,Juvenile,NA,AAS,2022,-5.7587,3.4291,0.543155168
+664,Pickles,2,8/20/2022,Sparisoma,aurofrenatum,10,1,Initial,NA,AAS,2022,-5.7587,3.4291,12.57476854
+665,Pickles,2,8/20/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,AAS,2022,-5.7587,3.4291,23.49743251
+666,Pickles,2,8/20/2022,Sparisoma,viride,12,1,Initial,NA,AAS,2022,-4.5223,2.9214,35.63035031
+667,Pickles,2,8/20/2022,Sparisoma,viride,25,1,Terminal,NA,AAS,2022,-4.5223,2.9214,304.1178709
+668,Pickles,2,8/20/2022,Sparisoma,chrysopterum,35,1,Terminal,NA,AAS,2022,-5.1754,3.1708,778.6296814
+669,Pickles,2,8/20/2022,Scarus,iseri,8,1,Initial,NA,AAS,2022,-4.8887,3.0548,8.411225809
+670,Pickles,2,8/20/2022,Scarus,iseri,6,1,Initial,NA,AAS,2022,-4.8887,3.0548,3.49298274
+671,Pickles,3,8/20/2022,Sparisoma,viride,18,1,Initial,NA,AAS,2022,-4.5223,2.9214,116.4804652
+672,Pickles,3,8/20/2022,Sparisoma,viride,16,1,Initial,NA,AAS,2022,-4.5223,2.9214,82.56882746
+673,Pickles,3,8/20/2022,Sparisoma,viride,28,1,Terminal,NA,AAS,2022,-4.5223,2.9214,423.4747036
+674,Pickles,3,8/20/2022,Sparisoma,viride,14,1,Initial,NA,AAS,2022,-4.5223,2.9214,55.89827983
+675,Pickles,3,8/20/2022,Sparisoma,viride,34,1,Terminal,NA,AAS,2022,-4.5223,2.9214,746.7281236
+676,Pickles,3,8/20/2022,Sparisoma,rubripinne,30,1,Initial,NA,AAS,2022,-4.8701,3.0641,524.8645447
+677,Pickles,3,8/20/2022,Sparisoma,rubripinne,26,1,Initial,NA,AAS,2022,-4.8701,3.0641,338.5476749
+678,Pickles,3,8/20/2022,Sparisoma,rubripinne,20,1,Initial,NA,AAS,2022,-4.8701,3.0641,151.5255991
+679,Pickles,3,8/20/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,AAS,2022,-5.7587,3.4291,17.43571079
+680,Pickles,3,8/20/2022,Sparisoma,chrysopterum,13,1,Initial,NA,AAS,2022,-5.1754,3.1708,33.68926852
+681,Pickles,3,8/20/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,AAS,2022,-5.7587,3.4291,50.50501872
+682,Pickles,3,8/20/2022,Sparisoma,aurofrenatum,22,1,Terminal,NA,AAS,2022,-5.7587,3.4291,187.8026062
+683,Pickles,3,8/20/2022,Scarus,taeniopterus,3,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.656644983
+684,Pickles,3,8/20/2022,Scarus,taeniopterus,4,1,Initial,NA,AAS,2022,-4.1836,2.7086,1.431329731
+685,Pickles,3,8/20/2022,Scarus,taeniopterus,4,1,Initial,NA,AAS,2022,-4.1836,2.7086,1.431329731
+686,Pickles,3,8/20/2022,Scarus,taeniopterus,14,1,Initial,NA,AAS,2022,-4.1836,2.7086,42.59929359
+687,Pickles,3,8/20/2022,Scarus,taeniopterus,26,1,Terminal,NA,AAS,2022,-4.1836,2.7086,227.8226034
+688,Pickles,3,8/20/2022,Scarus,taeniopterus,24,1,Terminal,NA,AAS,2022,-4.1836,2.7086,183.4172464
+689,Pickles,3,8/20/2022,Sparisoma,chrysopterum,18,1,Initial,NA,AAS,2022,-5.1754,3.1708,94.54053577
+690,Pickles,3,8/20/2022,Sparisoma,chrysopterum,14,1,Initial,NA,AAS,2022,-5.1754,3.1708,42.6130653
+691,Pickles,3,8/20/2022,Scarus,iseri,8,1,Initial,NA,AAS,2022,-4.8887,3.0548,8.411225809
+692,Pickles,3,8/20/2022,Scarus,iseri,6,1,Initial,NA,AAS,2022,-4.8887,3.0548,3.49298274
+693,Pickles,3,8/20/2022,Scarus,iseri,2,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.121810978
+694,Pickles,3,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+695,Pickles,3,8/20/2022,Scarus,iseri,4,1,Initial,NA,AAS,2022,-4.8887,3.0548,1.012215216
+696,Pickles,3,8/20/2022,Scarus,iseri,4,1,Initial,NA,AAS,2022,-4.8887,3.0548,1.012215216
+697,Pickles,4,8/20/2022,Sparisoma,aurofrenatum,25,1,Terminal,NA,AAS,2022,-5.7587,3.4291,291.1227089
+698,Pickles,4,8/20/2022,Sparisoma,viride,16,1,Initial,NA,AAS,2022,-4.5223,2.9214,82.56882746
+699,Pickles,4,8/20/2022,Sparisoma,chrysopterum,22,1,Terminal,NA,AAS,2022,-5.1754,3.1708,178.6297689
+700,Pickles,4,8/20/2022,Sparisoma,chrysopterum,26,1,Terminal,NA,AAS,2022,-5.1754,3.1708,303.3873662
+701,Pickles,4,8/20/2022,Sparisoma,chrysopterum,23,1,Initial,NA,AAS,2022,-5.1754,3.1708,205.6679515
+702,Pickles,4,8/20/2022,Sparisoma,rubripinne,18,1,Initial,NA,AAS,2022,-4.8701,3.0641,109.718657
+703,Pickles,4,8/20/2022,Sparisoma,rubripinne,16,1,Initial,NA,AAS,2022,-4.8701,3.0641,76.4793237
+704,Pickles,4,8/20/2022,Sparisoma,rubripinne,15,1,Initial,NA,AAS,2022,-4.8701,3.0641,62.75686304
+705,Pickles,4,8/20/2022,Scarus,taeniopterus,4,1,Initial,NA,AAS,2022,-4.1836,2.7086,1.431329731
+706,Pickles,4,8/20/2022,Scarus,taeniopterus,3,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.656644983
+707,Pickles,4,8/20/2022,Scarus,taeniopterus,4,1,Initial,NA,AAS,2022,-4.1836,2.7086,1.431329731
+708,Pickles,4,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+709,Pickles,4,8/20/2022,Scarus,iseri,4,1,Initial,NA,AAS,2022,-4.8887,3.0548,1.012215216
+710,Pickles,5,8/20/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,AAS,2022,-5.7587,3.4291,17.43571079
+711,Pickles,5,8/20/2022,Sparisoma,aurofrenatum,22,1,Terminal,NA,AAS,2022,-5.7587,3.4291,187.8026062
+712,Pickles,5,8/20/2022,Sparisoma,aurofrenatum,9,1,Initial,NA,AAS,2022,-5.7587,3.4291,8.76179301
+713,Pickles,5,8/20/2022,Sparisoma,aurofrenatum,9,1,Initial,NA,AAS,2022,-5.7587,3.4291,8.76179301
+714,Pickles,5,8/20/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,AAS,2022,-5.7587,3.4291,17.43571079
+715,Pickles,5,8/20/2022,Sparisoma,viride,17,1,Initial,NA,AAS,2022,-4.5223,2.9214,98.56744039
+716,Pickles,5,8/20/2022,Sparisoma,viride,30,1,Terminal,NA,AAS,2022,-4.5223,2.9214,518.0384956
+717,Pickles,5,8/20/2022,Sparisoma,viride,33,1,Terminal,NA,AAS,2022,-4.5223,2.9214,684.3631616
+718,Pickles,5,8/20/2022,Sparisoma,viride,28,1,Initial,NA,AAS,2022,-4.5223,2.9214,423.4747036
+719,Pickles,5,8/20/2022,Scarus,taeniopterus,18,1,Initial,NA,AAS,2022,-4.1836,2.7086,84.14554106
+720,Pickles,5,8/20/2022,Sparisoma,chrysopterum,19,1,Initial,NA,AAS,2022,-5.1754,3.1708,112.2204273
+721,Pickles,5,8/20/2022,Sparisoma,rubripinne,22,1,Initial,NA,AAS,2022,-4.8701,3.0641,202.9164876
+722,Pickles,5,8/20/2022,Sparisoma,rubripinne,18,1,Initial,NA,AAS,2022,-4.8701,3.0641,109.718657
+723,Pickles,6,8/20/2022,Sparisoma,viride,30,1,Terminal,NA,AAS,2022,-4.5223,2.9214,518.0384956
+724,Pickles,6,8/20/2022,Sparisoma,aurofrenatum,22,1,Terminal,NA,AAS,2022,-5.7587,3.4291,187.8026062
+725,Pickles,6,8/20/2022,Sparisoma,aurofrenatum,18,1,Initial,NA,AAS,2022,-5.7587,3.4291,94.37456161
+726,Pickles,6,8/20/2022,Sparisoma,aurofrenatum,10,1,Initial,NA,AAS,2022,-5.7587,3.4291,12.57476854
+727,Pickles,6,8/20/2022,Sparisoma,rubripinne,27,1,Initial,NA,AAS,2022,-4.8701,3.0641,380.0508514
+728,Pickles,6,8/20/2022,Scarus,taeniopterus,22,1,Initial,NA,AAS,2022,-4.1836,2.7086,144.9059016
+729,Pickles,6,8/20/2022,Sparisoma,viride,16,1,Initial,NA,AAS,2022,-4.5223,2.9214,82.56882746
+730,Pickles,7,8/20/2022,Sparisoma,aurofrenatum,16,1,Initial,NA,AAS,2022,-5.7587,3.4291,63.01556471
+731,Pickles,7,8/20/2022,Sparisoma,aurofrenatum,21,1,Terminal,NA,AAS,2022,-5.7587,3.4291,160.1113737
+732,Pickles,7,8/20/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,AAS,2022,-5.7587,3.4291,50.50501872
+733,Pickles,7,8/20/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,AAS,2022,-5.7587,3.4291,39.8646217
+734,Pickles,7,8/20/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,AAS,2022,-5.7587,3.4291,30.91883698
+735,Pickles,7,8/20/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,AAS,2022,-5.7587,3.4291,30.91883698
+736,Pickles,7,8/20/2022,Sparisoma,aurofrenatum,6,1,Initial,NA,AAS,2022,-5.7587,3.4291,2.181516252
+737,Pickles,7,8/20/2022,Sparisoma,aurofrenatum,9,1,Initial,NA,AAS,2022,-5.7587,3.4291,8.76179301
+738,Pickles,7,8/20/2022,Sparisoma,aurofrenatum,20,1,Terminal,NA,AAS,2022,-5.7587,3.4291,135.4446821
+739,Pickles,7,8/20/2022,Sparisoma,rubripinne,18,1,Initial,NA,AAS,2022,-4.8701,3.0641,109.718657
+740,Pickles,7,8/20/2022,Sparisoma,rubripinne,24,1,Initial,NA,AAS,2022,-4.8701,3.0641,264.9142169
+741,Pickles,7,8/20/2022,Sparisoma,rubripinne,22,1,Initial,NA,AAS,2022,-4.8701,3.0641,202.9164876
+742,Pickles,7,8/20/2022,Sparisoma,rubripinne,22,1,Initial,NA,AAS,2022,-4.8701,3.0641,202.9164876
+743,Pickles,7,8/20/2022,Sparisoma,rubripinne,22,1,Initial,NA,AAS,2022,-4.8701,3.0641,202.9164876
+744,Pickles,7,8/20/2022,Sparisoma,rubripinne,21,1,Initial,NA,AAS,2022,-4.8701,3.0641,175.9592657
+745,Pickles,7,8/20/2022,Sparisoma,rubripinne,27,1,Initial,NA,AAS,2022,-4.8701,3.0641,380.0508514
+746,Pickles,7,8/20/2022,Sparisoma,viride,29,1,Terminal,NA,AAS,2022,-4.5223,2.9214,469.1908252
+747,Pickles,7,8/20/2022,Sparisoma,viride,18,1,Initial,NA,AAS,2022,-4.5223,2.9214,116.4804652
+748,Pickles,7,8/20/2022,Scarus,iseri,6,1,Initial,NA,AAS,2022,-4.8887,3.0548,3.49298274
+749,Pickles,7,8/20/2022,Scarus,taeniopterus,22,1,Terminal,NA,AAS,2022,-4.1836,2.7086,144.9059016
+750,Pickles,7,8/20/2022,Scarus,coelestinus,36,1,Terminal,NA,AAS,2022,-4.8764,3.0618,892.2509044
+751,Pickles,7,8/20/2022,Scarus,guacamaia,33,1,Terminal,NA,AAS,2022,-4.8714,3.0626,694.7055881
+752,Pickles,8,8/20/2022,Sparisoma,chrysopterum,25,1,Terminal,NA,AAS,2022,-5.1754,3.1708,267.9095405
+753,Pickles,8,8/20/2022,Sparisoma,rubripinne,29,1,Initial,NA,AAS,2022,-4.8701,3.0641,473.0790384
+754,Pickles,8,8/20/2022,Sparisoma,rubripinne,31,1,Initial,NA,AAS,2022,-4.8701,3.0641,580.3384776
+755,Pickles,8,8/20/2022,Sparisoma,viride,23,1,Initial,NA,AAS,2022,-4.5223,2.9214,238.3700569
+756,Pickles,8,8/20/2022,Sparisoma,aurofrenatum,20,1,Terminal,NA,AAS,2022,-5.7587,3.4291,135.4446821
+757,Pickles,8,8/20/2022,Sparisoma,chrysopterum,21,1,Initial,NA,AAS,2022,-5.1754,3.1708,154.1320447
+758,Pickles,8,8/20/2022,Scarus,iseri,6,1,Initial,NA,AAS,2022,-4.8887,3.0548,3.49298274
+759,Pickles,8,8/20/2022,Scarus,iseri,4,1,Initial,NA,AAS,2022,-4.8887,3.0548,1.012215216
+760,Pickles,8,8/20/2022,Scarus,iseri,3,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.420348991
+761,Pickles,8,8/20/2022,Scarus,iseri,4,1,Initial,NA,AAS,2022,-4.8887,3.0548,1.012215216
+762,Pickles,9,8/20/2022,Sparisoma,rubripinne,15,1,Initial,NA,AAS,2022,-4.8701,3.0641,62.75686304
+763,Pickles,9,8/20/2022,Sparisoma,rubripinne,20,1,Initial,NA,AAS,2022,-4.8701,3.0641,151.5255991
+764,Pickles,9,8/20/2022,Sparisoma,rubripinne,21,1,Initial,NA,AAS,2022,-4.8701,3.0641,175.9592657
+765,Pickles,9,8/20/2022,Sparisoma,rubripinne,22,1,Initial,NA,AAS,2022,-4.8701,3.0641,202.9164876
+766,Pickles,9,8/20/2022,Sparisoma,rubripinne,23,1,Initial,NA,AAS,2022,-4.8701,3.0641,232.5253262
+767,Pickles,9,8/20/2022,Sparisoma,rubripinne,25,1,Initial,NA,AAS,2022,-4.8701,3.0641,300.2119536
+768,Pickles,9,8/20/2022,Sparisoma,viride,35,1,Terminal,NA,AAS,2022,-4.5223,2.9214,812.7189473
+769,Pickles,9,8/20/2022,Sparisoma,viride,25,1,Initial,NA,AAS,2022,-4.5223,2.9214,304.1178709
+770,Pickles,9,8/20/2022,Sparisoma,viride,22,1,Initial,NA,AAS,2022,-4.5223,2.9214,209.3406748
+771,Pickles,9,8/20/2022,Sparisoma,viride,31,1,Terminal,NA,AAS,2022,-4.5223,2.9214,570.1170803
+772,Pickles,9,8/20/2022,Sparisoma,viride,16,1,Initial,NA,AAS,2022,-4.5223,2.9214,82.56882746
+773,Pickles,9,8/20/2022,Sparisoma,viride,18,1,Initial,NA,AAS,2022,-4.5223,2.9214,116.4804652
+774,Pickles,9,8/20/2022,Sparisoma,chrysopterum,18,1,Initial,NA,AAS,2022,-5.1754,3.1708,94.54053577
+775,Pickles,9,8/20/2022,Sparisoma,chrysopterum,21,1,Initial,NA,AAS,2022,-5.1754,3.1708,154.1320447
+776,Pickles,9,8/20/2022,Sparisoma,chrysopterum,23,1,Terminal,NA,AAS,2022,-5.1754,3.1708,205.6679515
+777,Pickles,9,8/20/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,AAS,2022,-5.7587,3.4291,50.50501872
+778,Pickles,9,8/20/2022,Sparisoma,aurofrenatum,9,1,Initial,NA,AAS,2022,-5.7587,3.4291,8.76179301
+779,Pickles,9,8/20/2022,Scarus,vetula,16,1,Initial,NA,AAS,2022,-5.5396,3.33,63.11310433
+780,Snapper Ledge,1,8/22/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,ML,2022,-5.7587,3.4291,23.49743251
+781,Snapper Ledge,1,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,ML,2022,-5.7587,3.4291,30.91883698
+782,Snapper Ledge,1,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,ML,2022,-5.7587,3.4291,30.91883698
+783,Snapper Ledge,1,8/22/2022,Sparisoma,aurofrenatum,10,1,Initial,NA,ML,2022,-5.7587,3.4291,12.57476854
+784,Snapper Ledge,1,8/22/2022,Sparisoma,aurofrenatum,16,1,Initial,NA,ML,2022,-5.7587,3.4291,63.01556471
+785,Snapper Ledge,1,8/22/2022,Sparisoma,aurofrenatum,19,1,Terminal,NA,ML,2022,-5.7587,3.4291,113.59886
+786,Snapper Ledge,1,8/22/2022,Sparisoma,aurofrenatum,22,1,Terminal,NA,ML,2022,-5.7587,3.4291,187.8026062
+787,Snapper Ledge,1,8/22/2022,Sparisoma,chrysopterum,28,1,Terminal,NA,ML,2022,-5.1754,3.1708,383.7502627
+788,Snapper Ledge,1,8/22/2022,Scarus,iseri,13,1,Initial,NA,ML,2022,-4.8887,3.0548,37.06586611
+789,Snapper Ledge,2,8/22/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,ML,2022,-5.7587,3.4291,23.49743251
+790,Snapper Ledge,2,8/22/2022,Sparisoma,aurofrenatum,10,1,Initial,NA,ML,2022,-5.7587,3.4291,12.57476854
+791,Snapper Ledge,2,8/22/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,ML,2022,-5.7587,3.4291,39.8646217
+792,Snapper Ledge,2,8/22/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,ML,2022,-5.7587,3.4291,50.50501872
+793,Snapper Ledge,2,8/22/2022,Sparisoma,chrysopterum,26,1,Terminal,NA,ML,2022,-5.1754,3.1708,303.3873662
+794,Snapper Ledge,2,8/22/2022,Sparisoma,chrysopterum,20,1,Terminal,NA,ML,2022,-5.1754,3.1708,132.04012
+795,Snapper Ledge,2,8/22/2022,Sparisoma,chrysopterum,28,1,Terminal,NA,ML,2022,-5.1754,3.1708,383.7502627
+796,Snapper Ledge,2,8/22/2022,Sparisoma,viride,27,1,Initial,NA,ML,2022,-4.5223,2.9214,380.7904961
+797,Snapper Ledge,3,8/22/2022,Sparisoma,viride,30,1,Initial,NA,ML,2022,-4.5223,2.9214,518.0384956
+798,Snapper Ledge,3,8/22/2022,Sparisoma,viride,28,1,Initial,NA,ML,2022,-4.5223,2.9214,423.4747036
+799,Snapper Ledge,3,8/22/2022,Sparisoma,viride,27,1,Initial,NA,ML,2022,-4.5223,2.9214,380.7904961
+800,Snapper Ledge,3,8/22/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,ML,2022,-5.7587,3.4291,17.43571079
+801,Snapper Ledge,3,8/22/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,ML,2022,-5.7587,3.4291,50.50501872
+802,Snapper Ledge,3,8/22/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,ML,2022,-5.7587,3.4291,50.50501872
+803,Snapper Ledge,3,8/22/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,ML,2022,-5.7587,3.4291,39.8646217
+804,Snapper Ledge,3,8/22/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,ML,2022,-5.7587,3.4291,23.49743251
+805,Snapper Ledge,3,8/22/2022,Sparisoma,aurofrenatum,10,1,Initial,NA,ML,2022,-5.7587,3.4291,12.57476854
+806,Snapper Ledge,3,8/22/2022,Scarus,taeniopterus,30,1,Terminal,NA,ML,2022,-4.1836,2.7086,335.6839915
+807,Snapper Ledge,3,8/22/2022,Sparisoma,rubripinne,28,1,Terminal,NA,ML,2022,-4.8701,3.0641,424.851273
+808,Snapper Ledge,3,8/22/2022,Sparisoma,rubripinne,22,1,Terminal,NA,ML,2022,-4.8701,3.0641,202.9164876
+809,Snapper Ledge,3,8/22/2022,Sparisoma,rubripinne,18,1,Terminal,NA,ML,2022,-4.8701,3.0641,109.718657
+810,Snapper Ledge,3,8/22/2022,Sparisoma,chrysopterum,25,1,Terminal,NA,ML,2022,-5.1754,3.1708,267.9095405
+811,Snapper Ledge,3,8/22/2022,Sparisoma,chrysopterum,22,1,Initial,NA,ML,2022,-5.1754,3.1708,178.6297689
+812,Snapper Ledge,3,8/22/2022,Sparisoma,chrysopterum,21,1,Initial,NA,ML,2022,-5.1754,3.1708,154.1320447
+813,Snapper Ledge,4,8/22/2022,Sparisoma,chrysopterum,24,1,Initial,NA,ML,2022,-5.1754,3.1708,235.3823017
+814,Snapper Ledge,4,8/22/2022,Sparisoma,chrysopterum,25,1,Terminal,NA,ML,2022,-5.1754,3.1708,267.9095405
+815,Snapper Ledge,4,8/22/2022,Sparisoma,chrysopterum,26,1,Terminal,NA,ML,2022,-5.1754,3.1708,303.3873662
+816,Snapper Ledge,4,8/22/2022,Sparisoma,aurofrenatum,20,1,Terminal,NA,ML,2022,-5.7587,3.4291,135.4446821
+817,Snapper Ledge,4,8/22/2022,Sparisoma,rubripinne,30,1,Terminal,NA,ML,2022,-4.8701,3.0641,524.8645447
+818,Snapper Ledge,4,8/22/2022,Sparisoma,rubripinne,28,1,Terminal,NA,ML,2022,-4.8701,3.0641,424.851273
+819,Snapper Ledge,5,8/22/2022,Scarus,iseri,11,1,Terminal,NA,ML,2022,-4.8887,3.0548,22.25083814
+820,Snapper Ledge,5,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,ML,2022,-5.7587,3.4291,30.91883698
+821,Snapper Ledge,5,8/22/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,ML,2022,-5.7587,3.4291,17.43571079
+822,Snapper Ledge,5,8/22/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,ML,2022,-5.7587,3.4291,50.50501872
+823,Snapper Ledge,5,8/22/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,ML,2022,-5.7587,3.4291,50.50501872
+824,Snapper Ledge,5,8/22/2022,Sparisoma,aurofrenatum,20,1,Terminal,NA,ML,2022,-5.7587,3.4291,135.4446821
+825,Snapper Ledge,6,8/22/2022,Sparisoma,chrysopterum,18,1,Terminal,NA,ML,2022,-5.1754,3.1708,94.54053577
+826,Snapper Ledge,6,8/22/2022,Sparisoma,chrysopterum,22,1,Terminal,NA,ML,2022,-5.1754,3.1708,178.6297689
+827,Snapper Ledge,6,8/22/2022,Sparisoma,chrysopterum,20,1,Initial,NA,ML,2022,-5.1754,3.1708,132.04012
+828,Snapper Ledge,6,8/22/2022,Sparisoma,chrysopterum,18,1,Initial,NA,ML,2022,-5.1754,3.1708,94.54053577
+829,Snapper Ledge,6,8/22/2022,Sparisoma,chrysopterum,22,1,Initial,NA,ML,2022,-5.1754,3.1708,178.6297689
+830,Snapper Ledge,6,8/22/2022,Sparisoma,viride,25,1,Initial,NA,ML,2022,-4.5223,2.9214,304.1178709
+831,Snapper Ledge,6,8/22/2022,Sparisoma,aurofrenatum,19,1,Terminal,NA,ML,2022,-5.7587,3.4291,113.59886
+832,Snapper Ledge,6,8/22/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,ML,2022,-5.7587,3.4291,50.50501872
+833,Snapper Ledge,6,8/22/2022,Sparisoma,aurofrenatum,11,1,Initial,NA,ML,2022,-5.7587,3.4291,17.43571079
+834,Snapper Ledge,6,8/22/2022,Scarus,iseri,15,1,Terminal,NA,ML,2022,-4.8887,3.0548,57.38832884
+835,Snapper Ledge,7,8/22/2022,Sparisoma,aurofrenatum,21,1,Terminal,NA,AAS,2022,-5.7587,3.4291,160.1113737
+836,Snapper Ledge,7,8/22/2022,Sparisoma,aurofrenatum,5,1,Juvenile,NA,AAS,2022,-5.7587,3.4291,1.167449334
+837,Snapper Ledge,7,8/22/2022,Sparisoma,aurofrenatum,8,1,Initial,NA,AAS,2022,-5.7587,3.4291,5.85040423
+838,Snapper Ledge,7,8/22/2022,Sparisoma,aurofrenatum,4,1,Initial,NA,AAS,2022,-5.7587,3.4291,0.543155168
+839,Snapper Ledge,7,8/22/2022,Sparisoma,aurofrenatum,18,1,Terminal,NA,AAS,2022,-5.7587,3.4291,94.37456161
+840,Snapper Ledge,7,8/22/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,AAS,2022,-5.7587,3.4291,23.49743251
+841,Snapper Ledge,7,8/22/2022,Sparisoma,rubripinne,25,1,Terminal,NA,AAS,2022,-4.8701,3.0641,300.2119536
+842,Snapper Ledge,7,8/22/2022,Sparisoma,rubripinne,2,1,Juvenile,NA,AAS,2022,-4.8701,3.0641,0.130733236
+843,Snapper Ledge,7,8/22/2022,Sparisoma,viride,16,1,Initial,NA,AAS,2022,-4.5223,2.9214,82.56882746
+844,Snapper Ledge,7,8/22/2022,Sparisoma,viride,2,1,Juvenile,NA,AAS,2022,-4.5223,2.9214,0.189901777
+845,Snapper Ledge,7,8/22/2022,Sparisoma,viride,18,1,Initial,NA,AAS,2022,-4.5223,2.9214,116.4804652
+846,Snapper Ledge,7,8/22/2022,Sparisoma,viride,6,1,Initial,NA,AAS,2022,-4.5223,2.9214,4.703174179
+847,Snapper Ledge,7,8/22/2022,Scarus,taeniopterus,6,1,Initial,NA,AAS,2022,-4.1836,2.7086,4.292402872
+848,Snapper Ledge,8,8/22/2022,Scarus,iseri,16,1,Terminal,NA,AAS,2022,-4.8887,3.0548,69.89493784
+849,Snapper Ledge,8,8/22/2022,Scarus,iseri,4,1,Initial,NA,AAS,2022,-4.8887,3.0548,1.012215216
+850,Snapper Ledge,8,8/22/2022,Scarus,iseri,6,1,Initial,NA,AAS,2022,-4.8887,3.0548,3.49298274
+851,Snapper Ledge,8,8/22/2022,Scarus,iseri,2,1,Initial,NA,AAS,2022,-4.8887,3.0548,0.121810978
+852,Snapper Ledge,8,8/22/2022,Scarus,taeniopterus,3,1,Initial,NA,AAS,2022,-4.1836,2.7086,0.656644983
+853,Snapper Ledge,8,8/22/2022,Scarus,taeniopterus,4,1,Initial,NA,AAS,2022,-4.1836,2.7086,1.431329731
+854,Snapper Ledge,8,8/22/2022,Sparisoma,aurofrenatum,18,1,Terminal,NA,AAS,2022,-5.7587,3.4291,94.37456161
+855,Snapper Ledge,8,8/22/2022,Sparisoma,aurofrenatum,12,1,Initial,NA,AAS,2022,-5.7587,3.4291,23.49743251
+856,Snapper Ledge,8,8/22/2022,Sparisoma,aurofrenatum,22,1,Terminal,NA,AAS,2022,-5.7587,3.4291,187.8026062
+857,Snapper Ledge,8,8/22/2022,Sparisoma,aurofrenatum,16,1,Initial,NA,AAS,2022,-5.7587,3.4291,63.01556471
+858,Snapper Ledge,8,8/22/2022,Sparisoma,aurofrenatum,5,1,Initial,NA,AAS,2022,-5.7587,3.4291,1.167449334
+859,Snapper Ledge,8,8/22/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,AAS,2022,-5.7587,3.4291,39.8646217
+860,Snapper Ledge,8,8/22/2022,Sparisoma,aurofrenatum,2,1,Juvenile,NA,AAS,2022,-5.7587,3.4291,0.050426864
+861,Snapper Ledge,8,8/22/2022,Sparisoma,aurofrenatum,20,1,Terminal,NA,AAS,2022,-5.7587,3.4291,135.4446821
+862,Snapper Ledge,8,8/22/2022,Sparisoma,viride,12,1,Initial,NA,AAS,2022,-4.5223,2.9214,35.63035031
+863,Snapper Ledge,8,8/22/2022,Sparisoma,viride,8,1,Initial,NA,AAS,2022,-4.5223,2.9214,10.89901093
+864,Snapper Ledge,8,8/22/2022,Sparisoma,rubripinne,18,1,Initial,NA,AAS,2022,-4.8701,3.0641,109.718657
+865,Snapper Ledge,8,8/22/2022,Sparisoma,rubripinne,17,1,Initial,NA,AAS,2022,-4.8701,3.0641,92.09128649
+866,Snapper Ledge,8,8/22/2022,Sparisoma,rubripinne,18,1,Initial,NA,AAS,2022,-4.8701,3.0641,109.718657
+867,Snapper Ledge,8,8/22/2022,Sparisoma,rubripinne,15,1,Initial,NA,AAS,2022,-4.8701,3.0641,62.75686304
+868,Snapper Ledge,8,8/22/2022,Sparisoma,chrysopterum,25,1,Terminal,NA,AAS,2022,-5.1754,3.1708,267.9095405
+869,Snapper Ledge,8,8/22/2022,Sparisoma,chrysopterum,19,1,Terminal,NA,AAS,2022,-5.1754,3.1708,112.2204273
+870,Snapper Ledge,8,8/22/2022,Sparisoma,chrysopterum,21,1,Initial,NA,AAS,2022,-5.1754,3.1708,154.1320447
+871,Snapper Ledge,9,8/22/2022,Sparisoma,chrysopterum,25,1,Terminal,NA,AAS,2022,-5.1754,3.1708,267.9095405
+872,Snapper Ledge,9,8/22/2022,Sparisoma,aurofrenatum,3,1,Juvenile,NA,AAS,2022,-5.7587,3.4291,0.202533326
+873,Snapper Ledge,9,8/22/2022,Sparisoma,viride,4,1,Initial,NA,AAS,2022,-4.5223,2.9214,1.438659635
+874,Snapper Ledge,9,8/22/2022,Sparisoma,viride,3,1,Juvenile,NA,AAS,2022,-4.5223,2.9214,0.62081476
+875,Snapper Ledge,9,8/22/2022,Sparisoma,viride,3,1,Juvenile,NA,AAS,2022,-4.5223,2.9214,0.62081476
+876,Snapper Ledge,10,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,AAS,2022,-5.7587,3.4291,30.91883698
+877,Snapper Ledge,10,8/22/2022,Sparisoma,aurofrenatum,14,1,Initial,NA,AAS,2022,-5.7587,3.4291,39.8646217
+878,Snapper Ledge,10,8/22/2022,Sparisoma,aurofrenatum,13,1,Initial,NA,AAS,2022,-5.7587,3.4291,30.91883698
+879,Snapper Ledge,10,8/22/2022,Sparisoma,aurofrenatum,18,1,Terminal,NA,AAS,2022,-5.7587,3.4291,94.37456161
+880,Snapper Ledge,10,8/22/2022,Sparisoma,aurofrenatum,16,1,Initial,NA,AAS,2022,-5.7587,3.4291,63.01556471
+881,Snapper Ledge,10,8/22/2022,Sparisoma,aurofrenatum,15,1,Initial,NA,AAS,2022,-5.7587,3.4291,50.50501872
+882,Snapper Ledge,10,8/22/2022,Sparisoma,chrysopterum,14,1,Initial,NA,AAS,2022,-5.1754,3.1708,42.6130653
+883,Snapper Ledge,10,8/22/2022,Sparisoma,chrysopterum,15,1,Initial,NA,AAS,2022,-5.1754,3.1708,53.03348467
+884,Snapper Ledge,10,8/22/2022,Sparisoma,chrysopterum,12,1,Initial,NA,AAS,2022,-5.1754,3.1708,26.13773166
+885,Snapper Ledge,10,8/22/2022,Sparisoma,chrysopterum,18,1,Terminal,NA,AAS,2022,-5.1754,3.1708,94.54053577
+886,Snapper Ledge,10,8/22/2022,Sparisoma,chrysopterum,18,1,Initial,NA,AAS,2022,-5.1754,3.1708,94.54053577
+887,Snapper Ledge,10,8/22/2022,Sparisoma,viride,18,1,Initial,NA,AAS,2022,-4.5223,2.9214,116.4804652
+888,Snapper Ledge,10,8/22/2022,Sparisoma,viride,28,1,Terminal,NA,AAS,2022,-4.5223,2.9214,423.4747036
+889,Snapper Ledge,10,8/22/2022,Sparisoma,viride,15,1,Initial,NA,AAS,2022,-4.5223,2.9214,68.38061528
+890,Snapper Ledge,10,8/22/2022,Sparisoma,viride,14,1,Initial,NA,AAS,2022,-4.5223,2.9214,55.89827983
+891,Snapper Ledge,10,8/22/2022,Scarus,iseri,14,1,Terminal,NA,AAS,2022,-4.8887,3.0548,46.48276173
+892,Snapper Ledge,10,8/22/2022,Scarus,taeniopterus,20,1,Initial,NA,AAS,2022,-4.1836,2.7086,111.9360162
+893,Snapper Ledge,10,8/22/2022,Scarus,vetula,30,1,Terminal,NA,AAS,2022,-5.5396,3.33,511.9337691
+894,Snapper Ledge,10,8/22/2022,Scarus,vetula,16,1,Initial,NA,AAS,2022,-5.5396,3.33,63.11310433
+895,Snapper Ledge,10,8/22/2022,Scarus,vetula,9,1,Initial,NA,AAS,2022,-5.5396,3.33,9.290253325
+896,Snapper Ledge,10,8/22/2022,Scarus,vetula,14,1,Initial,NA,AAS,2022,-5.5396,3.33,40.45818154
+897,Snapper Ledge,10,8/22/2022,Scarus,vetula,19,1,Initial,NA,AAS,2022,-5.5396,3.33,111.8534776
+898,Alligator,1,8/13/2010,Sparisoma,viride,13,1,NA,NA,AAS,2010,-4.5223,2.9214,45.01674706
+899,Alligator,1,8/13/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+900,Alligator,1,8/13/2010,Sparisoma,aurofrenatum,18,1,NA,NA,AAS,2010,-5.7587,3.4291,94.37456161
+901,Alligator,2,8/13/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+902,Alligator,2,8/13/2010,Scarus,taeniopterus,25,1,NA,NA,AAS,2010,-4.1836,2.7086,204.8614807
+903,Alligator,2,8/13/2010,Scarus,vetula,20,1,NA,NA,AAS,2010,-5.5396,3.33,132.6874615
+904,Alligator,2,8/13/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+905,Alligator,2,8/13/2010,Sparisoma,viride,9,1,NA,NA,AAS,2010,-4.5223,2.9214,15.37531659
+906,Alligator,2,8/13/2010,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+907,Alligator,2,8/13/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+908,Alligator,2,8/13/2010,Sparisoma,viride,14,1,NA,NA,AAS,2010,-4.5223,2.9214,55.89827983
+909,Alligator,2,8/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+910,Alligator,2,8/13/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+911,Alligator,2,8/13/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+912,Alligator,2,8/13/2010,Sparisoma,rubripinne,16,1,NA,NA,AAS,2010,-4.8701,3.0641,76.4793237
+913,Alligator,3,8/13/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+914,Alligator,3,8/13/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+915,Alligator,3,8/13/2010,Scarus,iseri,4,1,NA,NA,AAS,2010,-4.8887,3.0548,1.012215216
+916,Alligator,3,8/13/2010,Scarus,iseri,10,1,NA,NA,AAS,2010,-4.8887,3.0548,16.6302968
+917,Alligator,3,8/13/2010,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+918,Alligator,3,8/13/2010,Scarus,iseri,11,1,NA,NA,AAS,2010,-4.8887,3.0548,22.25083814
+919,Alligator,3,8/13/2010,Scarus,taeniopterus,12,1,NA,NA,AAS,2010,-4.1836,2.7086,28.05887944
+920,Alligator,3,8/13/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+921,Alligator,3,8/13/2010,Sparisoma,aurofrenatum,6,1,NA,NA,AAS,2010,-5.7587,3.4291,2.181516252
+922,Alligator,3,8/13/2010,Sparisoma,aurofrenatum,5,1,NA,NA,AAS,2010,-5.7587,3.4291,1.167449334
+923,Alligator,3,8/13/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+924,Alligator,3,8/13/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+925,Alligator,3,8/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+926,Alligator,3,8/13/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+927,Alligator,3,8/13/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+928,Alligator,3,8/13/2010,Sparisoma,rubripinne,18,1,NA,NA,AAS,2010,-4.8701,3.0641,109.718657
+929,Alligator,4,8/13/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+930,Alligator,4,8/13/2010,Scarus,vetula,14,1,NA,NA,AAS,2010,-5.5396,3.33,40.45818154
+931,Alligator,4,8/13/2010,Sparisoma,viride,17,1,NA,NA,AAS,2010,-4.5223,2.9214,98.56744039
+932,Alligator,4,8/13/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+933,Alligator,4,8/13/2010,Sparisoma,viride,14,1,NA,NA,AAS,2010,-4.5223,2.9214,55.89827983
+934,Alligator,4,8/13/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+935,Alligator,4,8/13/2010,Sparisoma,viride,10,1,NA,NA,AAS,2010,-4.5223,2.9214,20.91702907
+936,Alligator,4,8/13/2010,Sparisoma,viride,13,1,NA,NA,AAS,2010,-4.5223,2.9214,45.01674706
+937,Alligator,4,8/13/2010,Sparisoma,viride,10,1,NA,NA,AAS,2010,-4.5223,2.9214,20.91702907
+938,Alligator,4,8/13/2010,Sparisoma,aurofrenatum,25,1,NA,NA,AAS,2010,-5.7587,3.4291,291.1227089
+939,Alligator,4,8/13/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+940,Alligator,4,8/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+941,Alligator,4,8/13/2010,Sparisoma,aurofrenatum,21,1,NA,NA,AAS,2010,-5.7587,3.4291,160.1113737
+942,Alligator,4,8/13/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+943,Alligator,4,8/13/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+944,Alligator,4,8/13/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+945,Alligator,4,8/13/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+946,Alligator,5,8/13/2010,Scarus,iseri,14,1,NA,NA,AAS,2010,-4.8887,3.0548,46.48276173
+947,Alligator,5,8/13/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+948,Alligator,5,8/13/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+949,Alligator,5,8/13/2010,Sparisoma,viride,17,1,NA,NA,AAS,2010,-4.5223,2.9214,98.56744039
+950,Alligator,5,8/13/2010,Sparisoma,viride,13,1,NA,NA,AAS,2010,-4.5223,2.9214,45.01674706
+951,Alligator,5,8/13/2010,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+952,Alligator,5,8/13/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+953,Alligator,5,8/13/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+954,Alligator,5,8/13/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+955,Alligator,5,8/13/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+956,Alligator,5,8/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+957,Alligator,5,8/13/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+958,Alligator,5,8/13/2010,Sparisoma,rubripinne,18,1,NA,NA,AAS,2010,-4.8701,3.0641,109.718657
+959,Alligator,6,8/13/2010,Scarus,iseri,8,1,NA,NA,AAS,2010,-4.8887,3.0548,8.411225809
+960,Alligator,6,8/13/2010,Scarus,taeniopterus,20,1,NA,NA,AAS,2010,-4.1836,2.7086,111.9360162
+961,Alligator,6,8/13/2010,Sparisoma,viride,32,1,NA,NA,AAS,2010,-4.5223,2.9214,625.5256843
+962,Alligator,6,8/13/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+963,Alligator,6,8/13/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+964,Alligator,6,8/13/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+965,Alligator,6,8/13/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+966,Alligator,6,8/13/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+967,Alligator,6,8/13/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+968,Alligator,6,8/13/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+969,Alligator,6,8/13/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+970,Alligator,6,8/13/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+971,Alligator,6,8/13/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+972,Alligator,6,8/13/2010,Sparisoma,aurofrenatum,11,1,NA,NA,AAS,2010,-5.7587,3.4291,17.43571079
+973,Alligator,6,8/13/2010,Sparisoma,chrysopterum,30,1,NA,NA,AAS,2010,-5.1754,3.1708,477.5909344
+974,Alligator,7,8/13/2010,Scarus,iseri,10,1,NA,NA,AAS,2010,-4.8887,3.0548,16.6302968
+975,Alligator,7,8/13/2010,Scarus,taeniopterus,17,1,NA,NA,AAS,2010,-4.1836,2.7086,72.076543
+976,Alligator,7,8/13/2010,Scarus,taeniopterus,22,1,NA,NA,AAS,2010,-4.1836,2.7086,144.9059016
+977,Alligator,7,8/13/2010,Scarus,vetula,16,1,NA,NA,AAS,2010,-5.5396,3.33,63.11310433
+978,Alligator,7,8/13/2010,Sparisoma,viride,4,1,NA,NA,AAS,2010,-4.5223,2.9214,1.438659635
+979,Alligator,7,8/13/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+980,Alligator,7,8/13/2010,Sparisoma,viride,13,1,NA,NA,AAS,2010,-4.5223,2.9214,45.01674706
+981,Alligator,7,8/13/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+982,Alligator,7,8/13/2010,Sparisoma,rubripinne,18,1,NA,NA,AAS,2010,-4.8701,3.0641,109.718657
+983,Alligator,8,8/13/2010,Scarus,taeniopterus,14,1,NA,NA,AAS,2010,-4.1836,2.7086,42.59929359
+984,Alligator,8,8/13/2010,Scarus,taeniopterus,12,1,NA,NA,AAS,2010,-4.1836,2.7086,28.05887944
+985,Alligator,8,8/13/2010,Scarus,taeniopterus,9,1,NA,NA,AAS,2010,-4.1836,2.7086,12.87245141
+986,Alligator,8,8/13/2010,Scarus,taeniopterus,17,1,NA,NA,AAS,2010,-4.1836,2.7086,72.076543
+987,Alligator,8,8/13/2010,Sparisoma,viride,31,1,NA,NA,AAS,2010,-4.5223,2.9214,570.1170803
+988,Alligator,8,8/13/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+989,Alligator,8,8/13/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+990,Alligator,8,8/13/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+991,Alligator,8,8/13/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+992,Alligator,8,8/13/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+993,Alligator,8,8/13/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+994,Alligator,8,8/13/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+995,Alligator,8,8/13/2010,Sparisoma,rubripinne,18,1,NA,NA,DEB,2010,-4.8701,3.0641,109.718657
+996,Alligator,9,8/13/2010,Scarus,iseri,15,1,NA,NA,DEB,2010,-4.8887,3.0548,57.38832884
+997,Alligator,9,8/13/2010,Scarus,vetula,30,1,NA,NA,DEB,2010,-5.5396,3.33,511.9337691
+998,Alligator,9,8/13/2010,Scarus,vetula,30,1,NA,NA,DEB,2010,-5.5396,3.33,511.9337691
+999,Alligator,9,8/13/2010,Scarus,vetula,26,1,NA,NA,DEB,2010,-5.5396,3.33,317.8785686
+1000,Alligator,9,8/13/2010,Sparisoma,viride,30,1,NA,NA,DEB,2010,-4.5223,2.9214,518.0384956
+1001,Alligator,9,8/13/2010,Sparisoma,viride,25,1,NA,NA,DEB,2010,-4.5223,2.9214,304.1178709
+1002,Alligator,9,8/13/2010,Sparisoma,viride,24,1,NA,NA,DEB,2010,-4.5223,2.9214,269.9287363
+1003,Alligator,9,8/13/2010,Sparisoma,aurofrenatum,14,1,NA,NA,DEB,2010,-5.7587,3.4291,39.8646217
+1004,Alligator,9,8/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,DEB,2010,-5.7587,3.4291,50.50501872
+1005,Alligator,9,8/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,DEB,2010,-5.7587,3.4291,50.50501872
+1006,Alligator,9,8/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,DEB,2010,-5.7587,3.4291,50.50501872
+1007,Alligator,9,8/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,DEB,2010,-5.7587,3.4291,50.50501872
+1008,Alligator,9,8/13/2010,Sparisoma,aurofrenatum,20,1,NA,NA,DEB,2010,-5.7587,3.4291,135.4446821
+1009,Alligator,9,8/13/2010,Sparisoma,aurofrenatum,12,1,NA,NA,DEB,2010,-5.7587,3.4291,23.49743251
+1010,Alligator,9,8/13/2010,Sparisoma,aurofrenatum,10,1,NA,NA,DEB,2010,-5.7587,3.4291,12.57476854
+1011,Alligator,9,8/13/2010,Sparisoma,aurofrenatum,18,1,NA,NA,DEB,2010,-5.7587,3.4291,94.37456161
+1012,Alligator,9,8/13/2010,Sparisoma,rubripinne,25,1,NA,NA,DEB,2010,-4.8701,3.0641,300.2119536
+1013,Alligator,10,8/13/2010,Scarus,iseri,5,1,NA,NA,DEB,2010,-4.8887,3.0548,2.001306331
+1014,Alligator,10,8/13/2010,Scarus,iseri,5,1,NA,NA,DEB,2010,-4.8887,3.0548,2.001306331
+1015,Alligator,10,8/13/2010,Scarus,iseri,5,1,NA,NA,DEB,2010,-4.8887,3.0548,2.001306331
+1016,Alligator,10,8/13/2010,Scarus,iseri,5,1,NA,NA,DEB,2010,-4.8887,3.0548,2.001306331
+1017,Alligator,10,8/13/2010,Scarus,vetula,15,1,NA,NA,DEB,2010,-5.5396,3.33,50.90774882
+1018,Alligator,10,8/13/2010,Sparisoma,viride,16,1,NA,NA,DEB,2010,-4.5223,2.9214,82.56882746
+1019,Alligator,10,8/13/2010,Sparisoma,viride,18,1,NA,NA,DEB,2010,-4.5223,2.9214,116.4804652
+1020,Alligator,10,8/13/2010,Sparisoma,aurofrenatum,13,1,NA,NA,DEB,2010,-5.7587,3.4291,30.91883698
+1021,Alligator,10,8/13/2010,Sparisoma,aurofrenatum,14,1,NA,NA,DEB,2010,-5.7587,3.4291,39.8646217
+1022,Alligator,10,8/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,DEB,2010,-5.7587,3.4291,50.50501872
+1023,Alligator,10,8/13/2010,Sparisoma,aurofrenatum,16,1,NA,NA,DEB,2010,-5.7587,3.4291,63.01556471
+1024,Alligator,10,8/13/2010,Sparisoma,aurofrenatum,19,1,NA,NA,DEB,2010,-5.7587,3.4291,113.59886
+1025,Alligator,10,8/13/2010,Sparisoma,aurofrenatum,13,1,NA,NA,DEB,2010,-5.7587,3.4291,30.91883698
+1026,Alligator,10,8/13/2010,Sparisoma,aurofrenatum,16,1,NA,NA,DEB,2010,-5.7587,3.4291,63.01556471
+1027,Alligator,10,8/13/2010,Sparisoma,aurofrenatum,17,1,NA,NA,DEB,2010,-5.7587,3.4291,77.57689558
+1028,Alligator,10,8/13/2010,Sparisoma,aurofrenatum,19,1,NA,NA,DEB,2010,-5.7587,3.4291,113.59886
+1029,Carysfort,1,8/3/2010,Scarus,iseri,10,1,NA,NA,AAS,2010,-4.8887,3.0548,16.6302968
+1030,Carysfort,1,8/3/2010,Scarus,iseri,9,1,NA,NA,AAS,2010,-4.8887,3.0548,12.05369
+1031,Carysfort,1,8/3/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1032,Carysfort,1,8/3/2010,Sparisoma,viride,17,1,NA,NA,AAS,2010,-4.5223,2.9214,98.56744039
+1033,Carysfort,1,8/3/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1034,Carysfort,1,8/3/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1035,Carysfort,1,8/3/2010,Sparisoma,viride,12,1,NA,NA,AAS,2010,-4.5223,2.9214,35.63035031
+1036,Carysfort,1,8/3/2010,Sparisoma,viride,26,1,NA,NA,AAS,2010,-4.5223,2.9214,341.0382874
+1037,Carysfort,1,8/3/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1038,Carysfort,1,8/3/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1039,Carysfort,1,8/3/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1040,Carysfort,1,8/3/2010,Sparisoma,aurofrenatum,5,1,NA,NA,AAS,2010,-5.7587,3.4291,1.167449334
+1041,Carysfort,1,8/3/2010,Sparisoma,aurofrenatum,18,1,NA,NA,AAS,2010,-5.7587,3.4291,94.37456161
+1042,Carysfort,1,8/3/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1043,Carysfort,1,8/3/2010,Sparisoma,aurofrenatum,5,1,NA,NA,AAS,2010,-5.7587,3.4291,1.167449334
+1044,Carysfort,1,8/3/2010,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1045,Carysfort,2,8/3/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1046,Carysfort,2,8/3/2010,Scarus,iseri,7,1,NA,NA,AAS,2010,-4.8887,3.0548,5.593781427
+1047,Carysfort,2,8/3/2010,Scarus,iseri,10,1,NA,NA,AAS,2010,-4.8887,3.0548,16.6302968
+1048,Carysfort,2,8/3/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1049,Carysfort,2,8/3/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1050,Carysfort,2,8/3/2010,Scarus,iseri,7,1,NA,NA,AAS,2010,-4.8887,3.0548,5.593781427
+1051,Carysfort,2,8/3/2010,Scarus,iseri,8,1,NA,NA,AAS,2010,-4.8887,3.0548,8.411225809
+1052,Carysfort,2,8/3/2010,Sparisoma,viride,8,1,NA,NA,AAS,2010,-4.5223,2.9214,10.89901093
+1053,Carysfort,2,8/3/2010,Sparisoma,viride,9,1,NA,NA,AAS,2010,-4.5223,2.9214,15.37531659
+1054,Carysfort,2,8/3/2010,Sparisoma,viride,10,1,NA,NA,AAS,2010,-4.5223,2.9214,20.91702907
+1055,Carysfort,2,8/3/2010,Sparisoma,aurofrenatum,7,1,NA,NA,AAS,2010,-5.7587,3.4291,3.701056278
+1056,Carysfort,2,8/3/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1057,Carysfort,2,8/3/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1058,Carysfort,2,8/3/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1059,Carysfort,2,8/3/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+1060,Carysfort,2,8/3/2010,Sparisoma,aurofrenatum,11,1,NA,NA,AAS,2010,-5.7587,3.4291,17.43571079
+1061,Carysfort,2,8/3/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+1062,Carysfort,2,8/3/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1063,Carysfort,2,8/3/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1064,Carysfort,2,8/3/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1065,Carysfort,2,8/3/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1066,Carysfort,2,8/3/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1067,Carysfort,3,8/3/2010,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1068,Carysfort,3,8/3/2010,Sparisoma,viride,27,1,NA,NA,AAS,2010,-4.5223,2.9214,380.7904961
+1069,Carysfort,3,8/3/2010,Sparisoma,viride,10,1,NA,NA,AAS,2010,-4.5223,2.9214,20.91702907
+1070,Carysfort,3,8/3/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1071,Carysfort,3,8/3/2010,Sparisoma,viride,5,1,NA,NA,AAS,2010,-4.5223,2.9214,2.761029016
+1072,Carysfort,3,8/3/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1073,Carysfort,3,8/3/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1074,Carysfort,3,8/3/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1075,Carysfort,3,8/3/2010,Sparisoma,aurofrenatum,17,1,NA,NA,AAS,2010,-5.7587,3.4291,77.57689558
+1076,Carysfort,3,8/3/2010,Sparisoma,aurofrenatum,21,1,NA,NA,AAS,2010,-5.7587,3.4291,160.1113737
+1077,Carysfort,3,8/3/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1078,Carysfort,4,8/3/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1079,Carysfort,4,8/3/2010,Scarus,iseri,11,1,NA,NA,AAS,2010,-4.8887,3.0548,22.25083814
+1080,Carysfort,4,8/3/2010,Scarus,iseri,10,1,NA,NA,AAS,2010,-4.8887,3.0548,16.6302968
+1081,Carysfort,4,8/3/2010,Scarus,taeniopterus,22,1,NA,NA,AAS,2010,-4.1836,2.7086,144.9059016
+1082,Carysfort,4,8/3/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1083,Carysfort,4,8/3/2010,Sparisoma,viride,10,1,NA,NA,AAS,2010,-4.5223,2.9214,20.91702907
+1084,Carysfort,4,8/3/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1085,Carysfort,4,8/3/2010,Sparisoma,viride,14,1,NA,NA,AAS,2010,-4.5223,2.9214,55.89827983
+1086,Carysfort,4,8/3/2010,Sparisoma,viride,22,1,NA,NA,AAS,2010,-4.5223,2.9214,209.3406748
+1087,Carysfort,4,8/3/2010,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1088,Carysfort,4,8/3/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1089,Carysfort,4,8/3/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1090,Carysfort,4,8/3/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+1091,Carysfort,4,8/3/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1092,Carysfort,5,8/3/2010,Scarus,iseri,11,1,NA,NA,AAS,2010,-4.8887,3.0548,22.25083814
+1093,Carysfort,5,8/3/2010,Scarus,iseri,8,1,NA,NA,AAS,2010,-4.8887,3.0548,8.411225809
+1094,Carysfort,5,8/3/2010,Scarus,iseri,7,1,NA,NA,AAS,2010,-4.8887,3.0548,5.593781427
+1095,Carysfort,5,8/3/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1096,Carysfort,5,8/3/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1097,Carysfort,5,8/3/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1098,Carysfort,5,8/3/2010,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1099,Carysfort,5,8/3/2010,Scarus,iseri,11,1,NA,NA,AAS,2010,-4.8887,3.0548,22.25083814
+1100,Carysfort,5,8/3/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1101,Carysfort,5,8/3/2010,Sparisoma,viride,10,1,NA,NA,AAS,2010,-4.5223,2.9214,20.91702907
+1102,Carysfort,5,8/3/2010,Sparisoma,viride,14,1,NA,NA,AAS,2010,-4.5223,2.9214,55.89827983
+1103,Carysfort,5,8/3/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1104,Carysfort,5,8/3/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1105,Carysfort,5,8/3/2010,Sparisoma,viride,10,1,NA,NA,AAS,2010,-4.5223,2.9214,20.91702907
+1106,Carysfort,5,8/3/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1107,Carysfort,5,8/3/2010,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1108,Carysfort,5,8/3/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1109,Carysfort,5,8/3/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1110,Carysfort,5,8/3/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1111,Carysfort,5,8/3/2010,Sparisoma,aurofrenatum,11,1,NA,NA,AAS,2010,-5.7587,3.4291,17.43571079
+1112,Carysfort,5,8/3/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1113,Carysfort,5,8/3/2010,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1114,Carysfort,5,8/3/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1115,Carysfort,6,8/3/2010,Scarus,iseri,8,1,NA,NA,AAS,2010,-4.8887,3.0548,8.411225809
+1116,Carysfort,6,8/3/2010,Scarus,iseri,8,1,NA,NA,AAS,2010,-4.8887,3.0548,8.411225809
+1117,Carysfort,6,8/3/2010,Scarus,iseri,10,1,NA,NA,AAS,2010,-4.8887,3.0548,16.6302968
+1118,Carysfort,6,8/3/2010,Scarus,taeniopterus,21,1,NA,NA,AAS,2010,-4.1836,2.7086,127.7506686
+1119,Carysfort,6,8/3/2010,Sparisoma,viride,7,1,NA,NA,AAS,2010,-4.5223,2.9214,7.378522638
+1120,Carysfort,6,8/3/2010,Sparisoma,viride,6,1,NA,NA,AAS,2010,-4.5223,2.9214,4.703174179
+1121,Carysfort,6,8/3/2010,Sparisoma,viride,12,1,NA,NA,AAS,2010,-4.5223,2.9214,35.63035031
+1122,Carysfort,6,8/3/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1123,Carysfort,6,8/3/2010,Sparisoma,viride,30,1,NA,NA,AAS,2010,-4.5223,2.9214,518.0384956
+1124,Carysfort,6,8/3/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1125,Carysfort,6,8/3/2010,Sparisoma,viride,13,1,NA,NA,AAS,2010,-4.5223,2.9214,45.01674706
+1126,Carysfort,6,8/3/2010,Sparisoma,viride,14,1,NA,NA,AAS,2010,-4.5223,2.9214,55.89827983
+1127,Carysfort,6,8/3/2010,Sparisoma,aurofrenatum,11,1,NA,NA,AAS,2010,-5.7587,3.4291,17.43571079
+1128,Carysfort,6,8/3/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1129,Carysfort,6,8/3/2010,Sparisoma,aurofrenatum,7,1,NA,NA,AAS,2010,-5.7587,3.4291,3.701056278
+1130,Carysfort,6,8/3/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1131,Carysfort,6,8/3/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1132,Carysfort,6,8/3/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+1133,Carysfort,6,8/3/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1134,Carysfort,6,8/3/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1135,Carysfort,6,8/3/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1136,Carysfort,7,8/3/2010,Scarus,iseri,11,1,NA,NA,AAS,2010,-4.8887,3.0548,22.25083814
+1137,Carysfort,7,8/3/2010,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1138,Carysfort,7,8/3/2010,Scarus,iseri,9,1,NA,NA,AAS,2010,-4.8887,3.0548,12.05369
+1139,Carysfort,7,8/3/2010,Scarus,iseri,7,1,NA,NA,AAS,2010,-4.8887,3.0548,5.593781427
+1140,Carysfort,7,8/3/2010,Scarus,iseri,9,1,NA,NA,AAS,2010,-4.8887,3.0548,12.05369
+1141,Carysfort,7,8/3/2010,Scarus,iseri,10,1,NA,NA,AAS,2010,-4.8887,3.0548,16.6302968
+1142,Carysfort,7,8/3/2010,Scarus,iseri,8,1,NA,NA,AAS,2010,-4.8887,3.0548,8.411225809
+1143,Carysfort,7,8/3/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1144,Carysfort,7,8/3/2010,Sparisoma,viride,7,1,NA,NA,AAS,2010,-4.5223,2.9214,7.378522638
+1145,Carysfort,7,8/3/2010,Sparisoma,viride,31,1,NA,NA,AAS,2010,-4.5223,2.9214,570.1170803
+1146,Carysfort,7,8/3/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1147,Carysfort,7,8/3/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1148,Carysfort,7,8/3/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1149,Carysfort,7,8/3/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1150,Carysfort,7,8/3/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1151,Carysfort,7,8/3/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1152,Carysfort,7,8/3/2010,Sparisoma,aurofrenatum,19,1,NA,NA,AAS,2010,-5.7587,3.4291,113.59886
+1153,Carysfort,8,8/3/2010,Scarus,iseri,13,1,NA,NA,AAS,2010,-4.8887,3.0548,37.06586611
+1154,Carysfort,8,8/3/2010,Sparisoma,viride,14,1,NA,NA,AAS,2010,-4.5223,2.9214,55.89827983
+1155,Carysfort,8,8/3/2010,Sparisoma,viride,19,1,NA,NA,AAS,2010,-4.5223,2.9214,136.4114326
+1156,Carysfort,8,8/3/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1157,Carysfort,8,8/3/2010,Sparisoma,viride,11,1,NA,NA,AAS,2010,-4.5223,2.9214,27.6327807
+1158,Carysfort,8,8/3/2010,Sparisoma,viride,23,1,NA,NA,AAS,2010,-4.5223,2.9214,238.3700569
+1159,Carysfort,8,8/3/2010,Sparisoma,viride,26,1,NA,NA,AAS,2010,-4.5223,2.9214,341.0382874
+1160,Carysfort,8,8/3/2010,Sparisoma,viride,9,1,NA,NA,AAS,2010,-4.5223,2.9214,15.37531659
+1161,Carysfort,8,8/3/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1162,Carysfort,8,8/3/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1163,Carysfort,8,8/3/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1164,Carysfort,8,8/3/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1165,Carysfort,8,8/3/2010,Sparisoma,aurofrenatum,17,1,NA,NA,AAS,2010,-5.7587,3.4291,77.57689558
+1166,Carysfort,8,8/3/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1167,Carysfort,8,8/3/2010,Sparisoma,aurofrenatum,21,1,NA,NA,AAS,2010,-5.7587,3.4291,160.1113737
+1168,Carysfort,8,8/3/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1169,Carysfort,8,8/3/2010,Sparisoma,aurofrenatum,7,1,NA,NA,AAS,2010,-5.7587,3.4291,3.701056278
+1170,Carysfort,8,8/3/2010,Sparisoma,rubripinne,30,1,NA,NA,AAS,2010,-4.8701,3.0641,524.8645447
+1171,Carysfort,9,8/3/2010,Scarus,iseri,11,1,NA,NA,AAS,2010,-4.8887,3.0548,22.25083814
+1172,Carysfort,9,8/3/2010,Sparisoma,viride,8,1,NA,NA,AAS,2010,-4.5223,2.9214,10.89901093
+1173,Carysfort,9,8/3/2010,Sparisoma,viride,11,1,NA,NA,AAS,2010,-4.5223,2.9214,27.6327807
+1174,Carysfort,9,8/3/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1175,Carysfort,9,8/3/2010,Sparisoma,viride,8,1,NA,NA,AAS,2010,-4.5223,2.9214,10.89901093
+1176,Carysfort,9,8/3/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1177,Carysfort,9,8/3/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1178,Carysfort,9,8/3/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1179,Carysfort,9,8/3/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1180,Carysfort,9,8/3/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1181,Carysfort,9,8/3/2010,Sparisoma,aurofrenatum,19,1,NA,NA,AAS,2010,-5.7587,3.4291,113.59886
+1182,Carysfort,9,8/3/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1183,Carysfort,9,8/3/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1184,Carysfort,10,8/3/2010,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1185,Carysfort,10,8/3/2010,Scarus,taeniopterus,15,1,NA,NA,AAS,2010,-4.1836,2.7086,51.35240458
+1186,Carysfort,10,8/3/2010,Scarus,vetula,30,1,NA,NA,AAS,2010,-5.5396,3.33,511.9337691
+1187,Carysfort,10,8/3/2010,Sparisoma,viride,9,1,NA,NA,AAS,2010,-4.5223,2.9214,15.37531659
+1188,Carysfort,10,8/3/2010,Sparisoma,viride,28,1,NA,NA,AAS,2010,-4.5223,2.9214,423.4747036
+1189,Carysfort,10,8/3/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1190,Carysfort,10,8/3/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1191,Carysfort,10,8/3/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1192,Carysfort,10,8/3/2010,Sparisoma,aurofrenatum,19,1,NA,NA,AAS,2010,-5.7587,3.4291,113.59886
+1193,Conch,1,7/29/2010,Scarus,guacamaia,40,1,NA,NA,AAS,2010,-4.8714,3.0626,1252.186247
+1194,Conch,1,7/29/2010,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1195,Conch,1,7/29/2010,Scarus,iseri,4,1,NA,NA,AAS,2010,-4.8887,3.0548,1.012215216
+1196,Conch,1,7/29/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1197,Conch,1,7/29/2010,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1198,Conch,1,7/29/2010,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1199,Conch,1,7/29/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1200,Conch,1,7/29/2010,Sparisoma,viride,21,1,NA,NA,AAS,2010,-4.5223,2.9214,182.7390857
+1201,Conch,1,7/29/2010,Sparisoma,viride,22,1,NA,NA,AAS,2010,-4.5223,2.9214,209.3406748
+1202,Conch,1,7/29/2010,Sparisoma,viride,30,1,NA,NA,AAS,2010,-4.5223,2.9214,518.0384956
+1203,Conch,1,7/29/2010,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1204,Conch,1,7/29/2010,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1205,Conch,1,7/29/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1206,Conch,1,7/29/2010,Sparisoma,aurofrenatum,25,1,NA,NA,AAS,2010,-5.7587,3.4291,291.1227089
+1207,Conch,1,7/29/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1208,Conch,1,7/29/2010,Sparisoma,aurofrenatum,21,1,NA,NA,AAS,2010,-5.7587,3.4291,160.1113737
+1209,Conch,1,7/29/2010,Sparisoma,aurofrenatum,17,1,NA,NA,AAS,2010,-5.7587,3.4291,77.57689558
+1210,Conch,1,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1211,Conch,1,7/29/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1212,Conch,1,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1213,Conch,1,7/29/2010,Sparisoma,aurofrenatum,7,1,NA,NA,AAS,2010,-5.7587,3.4291,3.701056278
+1214,Conch,1,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1215,Conch,1,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1216,Conch,1,7/29/2010,Sparisoma,rubripinne,23,1,NA,NA,AAS,2010,-4.8701,3.0641,232.5253262
+1217,Conch,1,7/29/2010,Sparisoma,rubripinne,18,1,NA,NA,AAS,2010,-4.8701,3.0641,109.718657
+1218,Conch,1,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1219,Conch,1,7/29/2010,Sparisoma,rubripinne,30,1,NA,NA,AAS,2010,-4.8701,3.0641,524.8645447
+1220,Conch,2,7/29/2010,Scarus,vetula,30,1,NA,NA,AAS,2010,-5.5396,3.33,511.9337691
+1221,Conch,2,7/29/2010,Sparisoma,viride,30,1,NA,NA,AAS,2010,-4.5223,2.9214,518.0384956
+1222,Conch,2,7/29/2010,Sparisoma,viride,38,1,NA,NA,AAS,2010,-4.5223,2.9214,1033.426988
+1223,Conch,2,7/29/2010,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1224,Conch,2,7/29/2010,Sparisoma,viride,8,1,NA,NA,AAS,2010,-4.5223,2.9214,10.89901093
+1225,Conch,2,7/29/2010,Sparisoma,viride,17,1,NA,NA,AAS,2010,-4.5223,2.9214,98.56744039
+1226,Conch,2,7/29/2010,Sparisoma,viride,10,1,NA,NA,AAS,2010,-4.5223,2.9214,20.91702907
+1227,Conch,2,7/29/2010,Sparisoma,aurofrenatum,5,1,NA,NA,AAS,2010,-5.7587,3.4291,1.167449334
+1228,Conch,2,7/29/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1229,Conch,2,7/29/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1230,Conch,2,7/29/2010,Sparisoma,aurofrenatum,3,1,NA,NA,AAS,2010,-5.7587,3.4291,0.202533326
+1231,Conch,3,7/29/2010,Scarus,guacamaia,35,1,NA,NA,AAS,2010,-4.8714,3.0626,831.8840407
+1232,Conch,3,7/29/2010,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1233,Conch,3,7/29/2010,Scarus,vetula,30,1,NA,NA,AAS,2010,-5.5396,3.33,511.9337691
+1234,Conch,3,7/29/2010,Sparisoma,viride,30,1,NA,NA,AAS,2010,-4.5223,2.9214,518.0384956
+1235,Conch,3,7/29/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1236,Conch,3,7/29/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1237,Conch,3,7/29/2010,Sparisoma,viride,30,1,NA,NA,AAS,2010,-4.5223,2.9214,518.0384956
+1238,Conch,3,7/29/2010,Sparisoma,viride,5,1,NA,NA,AAS,2010,-4.5223,2.9214,2.761029016
+1239,Conch,3,7/29/2010,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1240,Conch,3,7/29/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1241,Conch,3,7/29/2010,Sparisoma,viride,21,1,NA,NA,AAS,2010,-4.5223,2.9214,182.7390857
+1242,Conch,3,7/29/2010,Sparisoma,viride,30,1,NA,NA,AAS,2010,-4.5223,2.9214,518.0384956
+1243,Conch,3,7/29/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1244,Conch,3,7/29/2010,Sparisoma,aurofrenatum,18,1,NA,NA,AAS,2010,-5.7587,3.4291,94.37456161
+1245,Conch,3,7/29/2010,Sparisoma,aurofrenatum,3,1,NA,NA,AAS,2010,-5.7587,3.4291,0.202533326
+1246,Conch,3,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1247,Conch,3,7/29/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1248,Conch,3,7/29/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1249,Conch,3,7/29/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1250,Conch,3,7/29/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1251,Conch,3,7/29/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1252,Conch,3,7/29/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1253,Conch,3,7/29/2010,Sparisoma,chrysopterum,18,1,NA,NA,AAS,2010,-5.1754,3.1708,94.54053577
+1254,Conch,3,7/29/2010,Sparisoma,rubripinne,18,1,NA,NA,AAS,2010,-4.8701,3.0641,109.718657
+1255,Conch,3,7/29/2010,Sparisoma,rubripinne,22,1,NA,NA,AAS,2010,-4.8701,3.0641,202.9164876
+1256,Conch,3,7/29/2010,Sparisoma,rubripinne,24,1,NA,NA,AAS,2010,-4.8701,3.0641,264.9142169
+1257,Conch,3,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1258,Conch,3,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1259,Conch,3,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1260,Conch,3,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1261,Conch,3,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1262,Conch,3,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1263,Conch,3,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1264,Conch,3,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1265,Conch,3,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1266,Conch,3,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1267,Conch,3,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1268,Conch,3,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1269,Conch,4,7/29/2010,Scarus,iseri,7,1,NA,NA,AAS,2010,-4.8887,3.0548,5.593781427
+1270,Conch,4,7/29/2010,Scarus,iseri,7,1,NA,NA,AAS,2010,-4.8887,3.0548,5.593781427
+1271,Conch,4,7/29/2010,Scarus,iseri,8,1,NA,NA,AAS,2010,-4.8887,3.0548,8.411225809
+1272,Conch,4,7/29/2010,Scarus,iseri,9,1,NA,NA,AAS,2010,-4.8887,3.0548,12.05369
+1273,Conch,4,7/29/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1274,Conch,4,7/29/2010,Scarus,iseri,14,1,NA,NA,AAS,2010,-4.8887,3.0548,46.48276173
+1275,Conch,4,7/29/2010,Scarus,taeniopterus,8,1,NA,NA,AAS,2010,-4.1836,2.7086,9.356416341
+1276,Conch,4,7/29/2010,Scarus,vetula,35,1,NA,NA,AAS,2010,-5.5396,3.33,855.3553728
+1277,Conch,4,7/29/2010,Scarus,vetula,9,1,NA,NA,AAS,2010,-5.5396,3.33,9.290253325
+1278,Conch,4,7/29/2010,Sparisoma,viride,35,1,NA,NA,AAS,2010,-4.5223,2.9214,812.7189473
+1279,Conch,4,7/29/2010,Sparisoma,viride,29,1,NA,NA,AAS,2010,-4.5223,2.9214,469.1908252
+1280,Conch,4,7/29/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1281,Conch,4,7/29/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1282,Conch,4,7/29/2010,Sparisoma,viride,14,1,NA,NA,AAS,2010,-4.5223,2.9214,55.89827983
+1283,Conch,4,7/29/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1284,Conch,4,7/29/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1285,Conch,4,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1286,Conch,4,7/29/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1287,Conch,4,7/29/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1288,Conch,4,7/29/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1289,Conch,4,7/29/2010,Sparisoma,aurofrenatum,18,1,NA,NA,AAS,2010,-5.7587,3.4291,94.37456161
+1290,Conch,4,7/29/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1291,Conch,4,7/29/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1292,Conch,4,7/29/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1293,Conch,4,7/29/2010,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1294,Conch,4,7/29/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1295,Conch,4,7/29/2010,Sparisoma,aurofrenatum,21,1,NA,NA,AAS,2010,-5.7587,3.4291,160.1113737
+1296,Conch,4,7/29/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1297,Conch,4,7/29/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1298,Conch,4,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1299,Conch,4,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1300,Conch,4,7/29/2010,Sparisoma,aurofrenatum,31,1,NA,NA,AAS,2010,-5.7587,3.4291,608.7351563
+1301,Conch,4,7/29/2010,Sparisoma,chrysopterum,18,1,NA,NA,AAS,2010,-5.1754,3.1708,94.54053577
+1302,Conch,4,7/29/2010,Sparisoma,rubripinne,30,1,NA,NA,AAS,2010,-4.8701,3.0641,524.8645447
+1303,Conch,4,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1304,Conch,5,7/29/2010,Scarus,iseri,7,1,NA,NA,DEB,2010,-4.8887,3.0548,5.593781427
+1305,Conch,5,7/29/2010,Sparisoma,viride,28,1,NA,NA,DEB,2010,-4.5223,2.9214,423.4747036
+1306,Conch,5,7/29/2010,Sparisoma,viride,32,1,NA,NA,DEB,2010,-4.5223,2.9214,625.5256843
+1307,Conch,5,7/29/2010,Sparisoma,viride,26,1,NA,NA,DEB,2010,-4.5223,2.9214,341.0382874
+1308,Conch,5,7/29/2010,Sparisoma,viride,32,1,NA,NA,DEB,2010,-4.5223,2.9214,625.5256843
+1309,Conch,5,7/29/2010,Sparisoma,viride,20,1,NA,NA,DEB,2010,-4.5223,2.9214,158.4634217
+1310,Conch,5,7/29/2010,Sparisoma,viride,16,1,NA,NA,DEB,2010,-4.5223,2.9214,82.56882746
+1311,Conch,5,7/29/2010,Sparisoma,viride,30,1,NA,NA,DEB,2010,-4.5223,2.9214,518.0384956
+1312,Conch,5,7/29/2010,Sparisoma,viride,35,1,NA,NA,DEB,2010,-4.5223,2.9214,812.7189473
+1313,Conch,5,7/29/2010,Sparisoma,aurofrenatum,10,1,NA,NA,DEB,2010,-5.7587,3.4291,12.57476854
+1314,Conch,5,7/29/2010,Sparisoma,aurofrenatum,18,1,NA,NA,DEB,2010,-5.7587,3.4291,94.37456161
+1315,Conch,5,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,DEB,2010,-5.7587,3.4291,50.50501872
+1316,Conch,5,7/29/2010,Sparisoma,rubripinne,32,1,NA,NA,DEB,2010,-4.8701,3.0641,639.6318023
+1317,Conch,5,7/29/2010,Sparisoma,rubripinne,30,1,NA,NA,DEB,2010,-4.8701,3.0641,524.8645447
+1318,Conch,5,7/29/2010,Sparisoma,rubripinne,28,1,NA,NA,DEB,2010,-4.8701,3.0641,424.851273
+1319,Conch,5,7/29/2010,Sparisoma,rubripinne,35,1,NA,NA,DEB,2010,-4.8701,3.0641,841.7418007
+1320,Conch,5,7/29/2010,Sparisoma,rubripinne,32,1,NA,NA,DEB,2010,-4.8701,3.0641,639.6318023
+1321,Conch,6,7/29/2010,Scarus,coeruleus,17,1,NA,NA,AAS,2010,-5.0162,3.1109,83.65724331
+1322,Conch,6,7/29/2010,Scarus,vetula,12,1,NA,NA,AAS,2010,-5.5396,3.33,24.21439091
+1323,Conch,6,7/29/2010,Sparisoma,viride,12,1,NA,NA,AAS,2010,-4.5223,2.9214,35.63035031
+1324,Conch,6,7/29/2010,Sparisoma,viride,33,1,NA,NA,AAS,2010,-4.5223,2.9214,684.3631616
+1325,Conch,6,7/29/2010,Sparisoma,viride,30,1,NA,NA,AAS,2010,-4.5223,2.9214,518.0384956
+1326,Conch,6,7/29/2010,Sparisoma,viride,32,1,NA,NA,AAS,2010,-4.5223,2.9214,625.5256843
+1327,Conch,6,7/29/2010,Sparisoma,viride,30,1,NA,NA,AAS,2010,-4.5223,2.9214,518.0384956
+1328,Conch,6,7/29/2010,Sparisoma,viride,30,1,NA,NA,AAS,2010,-4.5223,2.9214,518.0384956
+1329,Conch,6,7/29/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1330,Conch,6,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1331,Conch,6,7/29/2010,Sparisoma,rubripinne,30,1,NA,NA,AAS,2010,-4.8701,3.0641,524.8645447
+1332,Conch,7,7/29/2010,Scarus,coeruleus,38,1,NA,NA,DEB,2010,-5.0162,3.1109,1021.524508
+1333,Conch,7,7/29/2010,Scarus,vetula,35,1,NA,NA,DEB,2010,-5.5396,3.33,855.3553728
+1334,Conch,7,7/29/2010,Sparisoma,viride,25,1,NA,NA,DEB,2010,-4.5223,2.9214,304.1178709
+1335,Conch,7,7/29/2010,Sparisoma,viride,30,1,NA,NA,DEB,2010,-4.5223,2.9214,518.0384956
+1336,Conch,7,7/29/2010,Sparisoma,viride,22,1,NA,NA,DEB,2010,-4.5223,2.9214,209.3406748
+1337,Conch,7,7/29/2010,Sparisoma,viride,30,1,NA,NA,DEB,2010,-4.5223,2.9214,518.0384956
+1338,Conch,7,7/29/2010,Sparisoma,aurofrenatum,12,1,NA,NA,DEB,2010,-5.7587,3.4291,23.49743251
+1339,Conch,7,7/29/2010,Sparisoma,aurofrenatum,18,1,NA,NA,DEB,2010,-5.7587,3.4291,94.37456161
+1340,Conch,7,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,DEB,2010,-5.7587,3.4291,50.50501872
+1341,Conch,7,7/29/2010,Sparisoma,aurofrenatum,18,1,NA,NA,DEB,2010,-5.7587,3.4291,94.37456161
+1342,Conch,7,7/29/2010,Sparisoma,aurofrenatum,12,1,NA,NA,DEB,2010,-5.7587,3.4291,23.49743251
+1343,Conch,7,7/29/2010,Sparisoma,rubripinne,32,1,NA,NA,DEB,2010,-4.8701,3.0641,639.6318023
+1344,Conch,8,7/29/2010,Scarus,iseri,12,1,NA,NA,DEB,2010,-4.8887,3.0548,29.02571124
+1345,Conch,8,7/29/2010,Sparisoma,viride,30,1,NA,NA,DEB,2010,-4.5223,2.9214,518.0384956
+1346,Conch,8,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,DEB,2010,-5.7587,3.4291,50.50501872
+1347,Conch,8,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,DEB,2010,-5.7587,3.4291,50.50501872
+1348,Conch,8,7/29/2010,Sparisoma,aurofrenatum,23,1,NA,NA,DEB,2010,-5.7587,3.4291,218.7262577
+1349,Conch,9,7/29/2010,Sparisoma,viride,16,1,NA,NA,DEB,2010,-4.5223,2.9214,82.56882746
+1350,Conch,9,7/29/2010,Sparisoma,aurofrenatum,12,1,NA,NA,DEB,2010,-5.7587,3.4291,23.49743251
+1351,Conch,9,7/29/2010,Sparisoma,aurofrenatum,10,1,NA,NA,DEB,2010,-5.7587,3.4291,12.57476854
+1352,Conch,9,7/29/2010,Sparisoma,aurofrenatum,12,1,NA,NA,DEB,2010,-5.7587,3.4291,23.49743251
+1353,Conch,10,7/29/2010,Scarus,coeruleus,27,1,NA,Count was listed as 31 but I think that is a typo (will get excluded as non-corallivore anyway),AAS,2010,-5.0162,3.1109,352.8007778
+1354,Conch,10,7/29/2010,Scarus,coeruleus,27,1,NA,Count was listed as 31 but I think that is a typo (will get excluded as non-corallivore anyway),AAS,2010,-5.0162,3.1109,352.8007778
+1355,Conch,10,7/29/2010,Scarus,coeruleus,27,1,NA,Count was listed as 31 but I think that is a typo (will get excluded as non-corallivore anyway),AAS,2010,-5.0162,3.1109,352.8007778
+1356,Conch,10,7/29/2010,Sparisoma,viride,5,1,NA,NA,AAS,2010,-4.5223,2.9214,2.761029016
+1357,Conch,10,7/29/2010,Sparisoma,viride,10,1,NA,NA,AAS,2010,-4.5223,2.9214,20.91702907
+1358,Conch,10,7/29/2010,Sparisoma,viride,30,1,NA,NA,AAS,2010,-4.5223,2.9214,518.0384956
+1359,Conch,10,7/29/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1360,Conch,10,7/29/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1361,Conch,10,7/29/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1362,Conch,10,7/29/2010,Sparisoma,rubripinne,28,1,NA,NA,AAS,2010,-4.8701,3.0641,424.851273
+1363,Conch,10,7/29/2010,Sparisoma,rubripinne,30,1,NA,NA,AAS,2010,-4.8701,3.0641,524.8645447
+1364,Davis,1,7/29/2010,Scarus,vetula,20,1,NA,NA,AAS,2010,-5.5396,3.33,132.6874615
+1365,Davis,1,7/29/2010,Sparisoma,viride,19,1,NA,NA,AAS,2010,-4.5223,2.9214,136.4114326
+1366,Davis,1,7/29/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1367,Davis,1,7/29/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1368,Davis,1,7/29/2010,Sparisoma,aurofrenatum,5,1,NA,NA,AAS,2010,-5.7587,3.4291,1.167449334
+1369,Davis,1,7/29/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1370,Davis,1,7/29/2010,Sparisoma,rubripinne,20,1,NA,NA,AAS,2010,-4.8701,3.0641,151.5255991
+1371,Davis,2,7/29/2010,Scarus,iseri,8,1,NA,NA,AAS,2010,-4.8887,3.0548,8.411225809
+1372,Davis,2,7/29/2010,Scarus,vetula,33,1,NA,NA,AAS,2010,-5.5396,3.33,703.1555675
+1373,Davis,2,7/29/2010,Scarus,vetula,15,1,NA,NA,AAS,2010,-5.5396,3.33,50.90774882
+1374,Davis,2,7/29/2010,Sparisoma,viride,28,1,NA,NA,AAS,2010,-4.5223,2.9214,423.4747036
+1375,Davis,2,7/29/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1376,Davis,2,7/29/2010,Sparisoma,aurofrenatum,5,1,NA,NA,AAS,2010,-5.7587,3.4291,1.167449334
+1377,Davis,2,7/29/2010,Sparisoma,aurofrenatum,6,1,NA,NA,AAS,2010,-5.7587,3.4291,2.181516252
+1378,Davis,2,7/29/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1379,Davis,3,7/29/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1380,Davis,3,7/29/2010,Sparisoma,viride,14,1,NA,NA,AAS,2010,-4.5223,2.9214,55.89827983
+1381,Davis,3,7/29/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1382,Davis,3,7/29/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1383,Davis,3,7/29/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1384,Davis,3,7/29/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1385,Davis,3,7/29/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1386,Davis,3,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1387,Davis,3,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1388,Davis,4,7/29/2010,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1389,Davis,4,7/29/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1390,Davis,4,7/29/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1391,Davis,4,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1392,Davis,4,7/29/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1393,Davis,4,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1394,Davis,4,7/29/2010,Sparisoma,rubripinne,16,1,NA,NA,AAS,2010,-4.8701,3.0641,76.4793237
+1395,Davis,5,7/29/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1396,Davis,5,7/29/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1397,Davis,5,7/29/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1398,Davis,5,7/29/2010,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1399,Davis,5,7/29/2010,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1400,Davis,5,7/29/2010,Sparisoma,viride,22,1,NA,NA,AAS,2010,-4.5223,2.9214,209.3406748
+1401,Davis,5,7/29/2010,Sparisoma,viride,21,1,NA,NA,AAS,2010,-4.5223,2.9214,182.7390857
+1402,Davis,5,7/29/2010,Sparisoma,aurofrenatum,18,1,NA,NA,AAS,2010,-5.7587,3.4291,94.37456161
+1403,Davis,5,7/29/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1404,Davis,5,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1405,Davis,5,7/29/2010,Sparisoma,aurofrenatum,5,1,NA,NA,AAS,2010,-5.7587,3.4291,1.167449334
+1406,Davis,5,7/29/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1407,Davis,5,7/29/2010,Sparisoma,rubripinne,14,1,NA,NA,AAS,2010,-4.8701,3.0641,50.798503
+1408,Davis,5,7/29/2010,Sparisoma,rubripinne,16,1,NA,NA,AAS,2010,-4.8701,3.0641,76.4793237
+1409,Davis,5,7/29/2010,Sparisoma,rubripinne,20,1,NA,NA,AAS,2010,-4.8701,3.0641,151.5255991
+1410,Davis,5,7/29/2010,Sparisoma,rubripinne,15,1,NA,NA,AAS,2010,-4.8701,3.0641,62.75686304
+1411,Davis,6,7/29/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1412,Davis,6,7/29/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1413,Davis,6,7/29/2010,Sparisoma,viride,35,1,NA,NA,AAS,2010,-4.5223,2.9214,812.7189473
+1414,Davis,6,7/29/2010,Sparisoma,aurofrenatum,18,1,NA,NA,AAS,2010,-5.7587,3.4291,94.37456161
+1415,Davis,6,7/29/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1416,Davis,6,7/29/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1417,Davis,6,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1418,Davis,6,7/29/2010,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1419,Davis,6,7/29/2010,Sparisoma,aurofrenatum,11,1,NA,NA,AAS,2010,-5.7587,3.4291,17.43571079
+1420,Davis,6,7/29/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1421,Davis,7,7/29/2010,Scarus,coeruleus,30,1,NA,NA,AAS,2010,-5.0162,3.1109,489.6395739
+1422,Davis,7,7/29/2010,Scarus,vetula,25,1,NA,NA,AAS,2010,-5.5396,3.33,278.9589045
+1423,Davis,7,7/29/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1424,Davis,7,7/29/2010,Sparisoma,viride,28,1,NA,NA,AAS,2010,-4.5223,2.9214,423.4747036
+1425,Davis,7,7/29/2010,Sparisoma,viride,25,1,NA,NA,AAS,2010,-4.5223,2.9214,304.1178709
+1426,Davis,7,7/29/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1427,Davis,7,7/29/2010,Sparisoma,viride,30,1,NA,NA,AAS,2010,-4.5223,2.9214,518.0384956
+1428,Davis,7,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1429,Davis,7,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1430,Davis,7,7/29/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1431,Davis,7,7/29/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1432,Davis,7,7/29/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1433,Davis,8,7/29/2010,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1434,Davis,8,7/29/2010,Sparisoma,viride,28,1,NA,NA,AAS,2010,-4.5223,2.9214,423.4747036
+1435,Davis,8,7/29/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1436,Davis,8,7/29/2010,Sparisoma,aurofrenatum,5,1,NA,NA,AAS,2010,-5.7587,3.4291,1.167449334
+1437,Davis,9,7/29/2010,Scarus,iseri,10,1,NA,NA,AAS,2010,-4.8887,3.0548,16.6302968
+1438,Davis,9,7/29/2010,Scarus,taeniopterus,12,1,NA,NA,AAS,2010,-4.1836,2.7086,28.05887944
+1439,Davis,9,7/29/2010,Sparisoma,viride,27,1,NA,NA,AAS,2010,-4.5223,2.9214,380.7904961
+1440,Davis,9,7/29/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1441,Davis,9,7/29/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1442,Davis,9,7/29/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1443,Davis,9,7/29/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1444,Davis,9,7/29/2010,Sparisoma,aurofrenatum,18,1,NA,NA,AAS,2010,-5.7587,3.4291,94.37456161
+1445,Davis,9,7/29/2010,Sparisoma,aurofrenatum,18,1,NA,NA,AAS,2010,-5.7587,3.4291,94.37456161
+1446,French,1,NA,Scarus,vetula,35,1,NA,NA,AAS,2010,-5.5396,3.33,855.3553728
+1447,French,1,NA,Scarus,vetula,8,1,NA,NA,AAS,2010,-5.5396,3.33,6.276097137
+1448,French,1,NA,Scarus,vetula,25,1,NA,NA,AAS,2010,-5.5396,3.33,278.9589045
+1449,French,1,NA,Scarus,vetula,16,1,NA,NA,AAS,2010,-5.5396,3.33,63.11310433
+1450,French,1,NA,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1451,French,1,NA,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1452,French,1,NA,Sparisoma,viride,14,1,NA,NA,AAS,2010,-4.5223,2.9214,55.89827983
+1453,French,1,NA,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1454,French,1,NA,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1455,French,1,NA,Sparisoma,viride,35,1,NA,NA,AAS,2010,-4.5223,2.9214,812.7189473
+1456,French,1,NA,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1457,French,1,NA,Sparisoma,aurofrenatum,25,1,NA,NA,AAS,2010,-5.7587,3.4291,291.1227089
+1458,French,1,NA,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1459,French,1,NA,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1460,French,2,NA,Scarus,iseri,8,1,NA,NA,AAS,2010,-4.8887,3.0548,8.411225809
+1461,French,2,NA,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1462,French,2,NA,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1463,French,2,NA,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1464,French,2,NA,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1465,French,2,NA,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1466,French,2,NA,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1467,French,2,NA,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1468,French,2,NA,Scarus,vetula,20,1,NA,NA,AAS,2010,-5.5396,3.33,132.6874615
+1469,French,2,NA,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1470,French,2,NA,Sparisoma,viride,25,1,NA,NA,AAS,2010,-4.5223,2.9214,304.1178709
+1471,French,2,NA,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1472,French,2,NA,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1473,French,2,NA,Sparisoma,aurofrenatum,22,1,NA,NA,AAS,2010,-5.7587,3.4291,187.8026062
+1474,French,2,NA,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1475,French,2,NA,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1476,French,2,NA,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1477,French,2,NA,Sparisoma,aurofrenatum,5,1,NA,NA,AAS,2010,-5.7587,3.4291,1.167449334
+1478,French,2,NA,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1479,French,2,NA,Sparisoma,rubripinne,20,1,NA,NA,AAS,2010,-4.8701,3.0641,151.5255991
+1480,French,3,NA,Scarus,iseri,8,1,NA,NA,AAS,2010,-4.8887,3.0548,8.411225809
+1481,French,3,NA,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1482,French,3,NA,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1483,French,3,NA,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1484,French,3,NA,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1485,French,3,NA,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1486,French,3,NA,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1487,French,3,NA,Sparisoma,viride,14,1,NA,NA,AAS,2010,-4.5223,2.9214,55.89827983
+1488,French,3,NA,Sparisoma,aurofrenatum,22,1,NA,NA,AAS,2010,-5.7587,3.4291,187.8026062
+1489,French,3,NA,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1490,French,3,NA,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1491,French,3,NA,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1492,French,3,NA,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1493,French,4,NA,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1494,French,4,NA,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1495,French,4,NA,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1496,French,4,NA,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1497,French,4,NA,Scarus,iseri,15,1,NA,NA,AAS,2010,-4.8887,3.0548,57.38832884
+1498,French,4,NA,Scarus,taeniopterus,8,1,NA,NA,AAS,2010,-4.1836,2.7086,9.356416341
+1499,French,4,NA,Scarus,vetula,30,1,NA,NA,AAS,2010,-5.5396,3.33,511.9337691
+1500,French,4,NA,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1501,French,4,NA,Sparisoma,viride,12,1,NA,NA,AAS,2010,-4.5223,2.9214,35.63035031
+1502,French,4,NA,Sparisoma,viride,14,1,NA,NA,AAS,2010,-4.5223,2.9214,55.89827983
+1503,French,4,NA,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1504,French,4,NA,Sparisoma,aurofrenatum,5,1,NA,NA,AAS,2010,-5.7587,3.4291,1.167449334
+1505,French,4,NA,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1506,French,4,NA,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1507,French,4,NA,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1508,French,4,NA,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1509,French,5,NA,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1510,French,5,NA,Scarus,vetula,25,1,NA,NA,AAS,2010,-5.5396,3.33,278.9589045
+1511,French,5,NA,Sparisoma,viride,10,1,NA,NA,AAS,2010,-4.5223,2.9214,20.91702907
+1512,French,5,NA,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1513,French,5,NA,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1514,French,5,NA,Sparisoma,aurofrenatum,5,1,NA,NA,AAS,2010,-5.7587,3.4291,1.167449334
+1515,French,6,NA,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1516,French,6,NA,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1517,French,6,NA,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1518,French,6,NA,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+1519,French,6,NA,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1520,French,6,NA,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1521,French,7,NA,Sparisoma,viride,28,1,NA,NA,DEB,2010,-4.5223,2.9214,423.4747036
+1522,French,7,NA,Sparisoma,viride,26,1,NA,NA,DEB,2010,-4.5223,2.9214,341.0382874
+1523,French,7,NA,Sparisoma,viride,18,1,NA,NA,DEB,2010,-4.5223,2.9214,116.4804652
+1524,French,7,NA,Sparisoma,aurofrenatum,6,1,NA,NA,DEB,2010,-5.7587,3.4291,2.181516252
+1525,French,7,NA,Sparisoma,aurofrenatum,10,1,NA,NA,DEB,2010,-5.7587,3.4291,12.57476854
+1526,French,7,NA,Sparisoma,rubripinne,28,1,NA,NA,DEB,2010,-4.8701,3.0641,424.851273
+1527,French,8,NA,Scarus,iseri,12,1,NA,NA,DEB,2010,-4.8887,3.0548,29.02571124
+1528,French,8,NA,Sparisoma,viride,22,1,NA,NA,DEB,2010,-4.5223,2.9214,209.3406748
+1529,French,8,NA,Sparisoma,viride,28,1,NA,NA,DEB,2010,-4.5223,2.9214,423.4747036
+1530,French,8,NA,Sparisoma,viride,28,1,NA,NA,DEB,2010,-4.5223,2.9214,423.4747036
+1531,French,8,NA,Sparisoma,viride,18,1,NA,NA,DEB,2010,-4.5223,2.9214,116.4804652
+1532,French,8,NA,Sparisoma,viride,15,1,NA,NA,DEB,2010,-4.5223,2.9214,68.38061528
+1533,French,8,NA,Sparisoma,viride,10,1,NA,NA,DEB,2010,-4.5223,2.9214,20.91702907
+1534,French,8,NA,Sparisoma,viride,30,1,NA,NA,DEB,2010,-4.5223,2.9214,518.0384956
+1535,French,8,NA,Sparisoma,aurofrenatum,16,1,NA,NA,DEB,2010,-5.7587,3.4291,63.01556471
+1536,French,8,NA,Sparisoma,aurofrenatum,15,1,NA,NA,DEB,2010,-5.7587,3.4291,50.50501872
+1537,French,8,NA,Sparisoma,aurofrenatum,15,1,NA,NA,DEB,2010,-5.7587,3.4291,50.50501872
+1538,French,8,NA,Sparisoma,aurofrenatum,18,1,NA,NA,DEB,2010,-5.7587,3.4291,94.37456161
+1539,French,8,NA,Sparisoma,aurofrenatum,18,1,NA,NA,DEB,2010,-5.7587,3.4291,94.37456161
+1540,French,8,NA,Sparisoma,aurofrenatum,10,1,NA,NA,DEB,2010,-5.7587,3.4291,12.57476854
+1541,French,8,NA,Sparisoma,aurofrenatum,20,1,NA,NA,DEB,2010,-5.7587,3.4291,135.4446821
+1542,French,8,NA,Sparisoma,aurofrenatum,18,1,NA,NA,DEB,2010,-5.7587,3.4291,94.37456161
+1543,French,8,NA,Sparisoma,aurofrenatum,8,1,NA,NA,DEB,2010,-5.7587,3.4291,5.85040423
+1544,French,8,NA,Sparisoma,aurofrenatum,22,1,NA,NA,DEB,2010,-5.7587,3.4291,187.8026062
+1545,French,9,NA,Scarus,coelestinus,10,1,NA,NA,DEB,2010,-4.8764,3.0618,17.66851298
+1546,French,9,NA,Scarus,coelestinus,15,1,NA,NA,DEB,2010,-4.8764,3.0618,61.14433373
+1547,French,9,NA,Scarus,coelestinus,12,1,NA,NA,DEB,2010,-4.8764,3.0618,30.87714513
+1548,French,9,NA,Scarus,coelestinus,12,1,NA,NA,DEB,2010,-4.8764,3.0618,30.87714513
+1549,French,9,NA,Scarus,vetula,35,1,NA,NA,DEB,2010,-5.5396,3.33,855.3553728
+1550,French,9,NA,Scarus,vetula,20,1,NA,NA,DEB,2010,-5.5396,3.33,132.6874615
+1551,French,9,NA,Sparisoma,viride,28,1,NA,NA,DEB,2010,-4.5223,2.9214,423.4747036
+1552,French,9,NA,Sparisoma,viride,8,1,NA,NA,DEB,2010,-4.5223,2.9214,10.89901093
+1553,French,9,NA,Sparisoma,viride,22,1,NA,NA,DEB,2010,-4.5223,2.9214,209.3406748
+1554,French,9,NA,Sparisoma,viride,25,1,NA,NA,DEB,2010,-4.5223,2.9214,304.1178709
+1555,French,10,NA,Scarus,iseri,12,1,NA,NA,DEB,2010,-4.8887,3.0548,29.02571124
+1556,French,10,NA,Sparisoma,viride,12,1,NA,NA,DEB,2010,-4.5223,2.9214,35.63035031
+1557,French,10,NA,Sparisoma,viride,18,1,NA,NA,DEB,2010,-4.5223,2.9214,116.4804652
+1558,French,10,NA,Sparisoma,viride,8,1,NA,NA,DEB,2010,-4.5223,2.9214,10.89901093
+1559,French,10,NA,Sparisoma,viride,25,1,NA,NA,DEB,2010,-4.5223,2.9214,304.1178709
+1560,French,10,NA,Sparisoma,viride,29,1,NA,NA,DEB,2010,-4.5223,2.9214,469.1908252
+1561,French,10,NA,Sparisoma,viride,22,1,NA,NA,DEB,2010,-4.5223,2.9214,209.3406748
+1562,French,10,NA,Sparisoma,aurofrenatum,8,1,NA,NA,DEB,2010,-5.7587,3.4291,5.85040423
+1563,French,10,NA,Sparisoma,aurofrenatum,22,1,NA,NA,DEB,2010,-5.7587,3.4291,187.8026062
+1564,French,10,NA,Sparisoma,aurofrenatum,15,1,NA,NA,DEB,2010,-5.7587,3.4291,50.50501872
+1565,French,10,NA,Sparisoma,aurofrenatum,12,1,NA,NA,DEB,2010,-5.7587,3.4291,23.49743251
+1566,French,10,NA,Sparisoma,aurofrenatum,15,1,NA,NA,DEB,2010,-5.7587,3.4291,50.50501872
+1567,Molasses,1,7/30/2010,Scarus,coelestinus,12,1,NA,NA,AAS,2010,-4.8764,3.0618,30.87714513
+1568,Molasses,1,7/30/2010,Scarus,coelestinus,10,1,NA,NA,AAS,2010,-4.8764,3.0618,17.66851298
+1569,Molasses,1,7/30/2010,Scarus,coelestinus,12,1,NA,NA,AAS,2010,-4.8764,3.0618,30.87714513
+1570,Molasses,1,7/30/2010,Scarus,coelestinus,13,1,NA,NA,AAS,2010,-4.8764,3.0618,39.45224815
+1571,Molasses,1,7/30/2010,Scarus,coelestinus,14,1,NA,NA,AAS,2010,-4.8764,3.0618,49.50109656
+1572,Molasses,1,7/30/2010,Scarus,coelestinus,15,1,NA,NA,AAS,2010,-4.8764,3.0618,61.14433373
+1573,Molasses,1,7/30/2010,Scarus,iseri,11,1,NA,NA,AAS,2010,-4.8887,3.0548,22.25083814
+1574,Molasses,1,7/30/2010,Scarus,vetula,30,1,NA,NA,AAS,2010,-5.5396,3.33,511.9337691
+1575,Molasses,1,7/30/2010,Scarus,vetula,20,1,NA,NA,AAS,2010,-5.5396,3.33,132.6874615
+1576,Molasses,1,7/30/2010,Scarus,vetula,18,1,NA,NA,AAS,2010,-5.5396,3.33,93.42378146
+1577,Molasses,1,7/30/2010,Scarus,vetula,25,1,NA,NA,AAS,2010,-5.5396,3.33,278.9589045
+1578,Molasses,1,7/30/2010,Sparisoma,viride,12,1,NA,NA,AAS,2010,-4.5223,2.9214,35.63035031
+1579,Molasses,1,7/30/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1580,Molasses,1,7/30/2010,Sparisoma,viride,13,1,NA,NA,AAS,2010,-4.5223,2.9214,45.01674706
+1581,Molasses,1,7/30/2010,Sparisoma,viride,5,1,NA,NA,AAS,2010,-4.5223,2.9214,2.761029016
+1582,Molasses,1,7/30/2010,Sparisoma,viride,30,1,NA,NA,AAS,2010,-4.5223,2.9214,518.0384956
+1583,Molasses,1,7/30/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1584,Molasses,1,7/30/2010,Sparisoma,aurofrenatum,6,1,NA,NA,AAS,2010,-5.7587,3.4291,2.181516252
+1585,Molasses,1,7/30/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1586,Molasses,1,7/30/2010,Sparisoma,aurofrenatum,22,1,NA,NA,AAS,2010,-5.7587,3.4291,187.8026062
+1587,Molasses,1,7/30/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1588,Molasses,2,7/30/2010,Scarus,vetula,35,1,NA,NA,AAS,2010,-5.5396,3.33,855.3553728
+1589,Molasses,2,7/30/2010,Sparisoma,viride,12,1,NA,NA,AAS,2010,-4.5223,2.9214,35.63035031
+1590,Molasses,2,7/30/2010,Sparisoma,viride,10,1,NA,NA,AAS,2010,-4.5223,2.9214,20.91702907
+1591,Molasses,2,7/30/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1592,Molasses,2,7/30/2010,Sparisoma,viride,12,1,NA,NA,AAS,2010,-4.5223,2.9214,35.63035031
+1593,Molasses,2,7/30/2010,Sparisoma,viride,13,1,NA,NA,AAS,2010,-4.5223,2.9214,45.01674706
+1594,Molasses,2,7/30/2010,Sparisoma,viride,4,1,NA,NA,AAS,2010,-4.5223,2.9214,1.438659635
+1595,Molasses,2,7/30/2010,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1596,Molasses,2,7/30/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1597,Molasses,2,7/30/2010,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1598,Molasses,2,7/30/2010,Sparisoma,aurofrenatum,11,1,NA,NA,AAS,2010,-5.7587,3.4291,17.43571079
+1599,Molasses,2,7/30/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1600,Molasses,2,7/30/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1601,Molasses,2,7/30/2010,Sparisoma,chrysopterum,10,1,NA,NA,AAS,2010,-5.1754,3.1708,14.66222906
+1602,Molasses,2,7/30/2010,Sparisoma,rubripinne,15,1,NA,NA,AAS,2010,-4.8701,3.0641,62.75686304
+1603,Molasses,3,7/30/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1604,Molasses,3,7/30/2010,Sparisoma,viride,17,1,NA,NA,AAS,2010,-4.5223,2.9214,98.56744039
+1605,Molasses,3,7/30/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1606,Molasses,3,7/30/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1607,Molasses,3,7/30/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+1608,Molasses,3,7/30/2010,Sparisoma,aurofrenatum,17,1,NA,NA,AAS,2010,-5.7587,3.4291,77.57689558
+1609,Molasses,3,7/30/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1610,Molasses,3,7/30/2010,Sparisoma,aurofrenatum,21,1,NA,NA,AAS,2010,-5.7587,3.4291,160.1113737
+1611,Molasses,4,7/30/2010,Scarus,guacamaia,45,1,NA,NA,AAS,2010,-4.8714,3.0626,1796.092274
+1612,Molasses,4,7/30/2010,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1613,Molasses,4,7/30/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1614,Molasses,4,7/30/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1615,Molasses,4,7/30/2010,Scarus,vetula,25,1,NA,NA,AAS,2010,-5.5396,3.33,278.9589045
+1616,Molasses,4,7/30/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1617,Molasses,4,7/30/2010,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1618,Molasses,4,7/30/2010,Sparisoma,viride,5,1,NA,NA,AAS,2010,-4.5223,2.9214,2.761029016
+1619,Molasses,4,7/30/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1620,Molasses,4,7/30/2010,Sparisoma,viride,6,1,NA,NA,AAS,2010,-4.5223,2.9214,4.703174179
+1621,Molasses,4,7/30/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1622,Molasses,4,7/30/2010,Sparisoma,chrysopterum,14,1,NA,NA,AAS,2010,-5.1754,3.1708,42.6130653
+1623,Molasses,5,7/30/2010,Scarus,taeniopterus,11,1,NA,NA,AAS,2010,-4.1836,2.7086,22.16747498
+1624,Molasses,5,7/30/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1625,Molasses,5,7/30/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1626,Molasses,5,7/30/2010,Sparisoma,viride,33,1,NA,NA,AAS,2010,-4.5223,2.9214,684.3631616
+1627,Molasses,5,7/30/2010,Sparisoma,viride,10,1,NA,NA,AAS,2010,-4.5223,2.9214,20.91702907
+1628,Molasses,5,7/30/2010,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1629,Molasses,5,7/30/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1630,Molasses,5,7/30/2010,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1631,Molasses,5,7/30/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1632,Molasses,5,7/30/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+1633,Molasses,5,7/30/2010,Sparisoma,aurofrenatum,17,1,NA,NA,AAS,2010,-5.7587,3.4291,77.57689558
+1634,Molasses,5,7/30/2010,Sparisoma,aurofrenatum,18,1,NA,NA,AAS,2010,-5.7587,3.4291,94.37456161
+1635,Molasses,5,7/30/2010,Sparisoma,aurofrenatum,11,1,NA,NA,AAS,2010,-5.7587,3.4291,17.43571079
+1636,Molasses,5,7/30/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1637,Molasses,5,7/30/2010,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1638,Molasses,5,7/30/2010,Sparisoma,aurofrenatum,19,1,NA,NA,AAS,2010,-5.7587,3.4291,113.59886
+1639,Molasses,6,7/30/2010,Scarus,taeniopterus,4,1,NA,NA,AAS,2010,-4.1836,2.7086,1.431329731
+1640,Molasses,6,7/30/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1641,Molasses,6,7/30/2010,Sparisoma,viride,35,1,NA,NA,AAS,2010,-4.5223,2.9214,812.7189473
+1642,Molasses,6,7/30/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1643,Molasses,6,7/30/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1644,Molasses,6,7/30/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1645,Molasses,6,7/30/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1646,Molasses,6,7/30/2010,Sparisoma,chrysopterum,15,1,NA,NA,AAS,2010,-5.1754,3.1708,53.03348467
+1647,Molasses,6,7/30/2010,Sparisoma,chrysopterum,16,1,NA,NA,AAS,2010,-5.1754,3.1708,65.07641814
+1648,Molasses,6,7/30/2010,Sparisoma,rubripinne,19,1,NA,NA,AAS,2010,-4.8701,3.0641,129.4878168
+1649,Molasses,7,7/30/2010,Scarus,taeniopterus,16,1,NA,NA,AAS,2010,-4.1836,2.7086,61.16167702
+1650,Molasses,7,7/30/2010,Sparisoma,viride,25,1,NA,NA,AAS,2010,-4.5223,2.9214,304.1178709
+1651,Molasses,7,7/30/2010,Sparisoma,viride,31,1,NA,NA,AAS,2010,-4.5223,2.9214,570.1170803
+1652,Molasses,7,7/30/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1653,Molasses,7,7/30/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1654,Molasses,7,7/30/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1655,Molasses,7,7/30/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1656,Molasses,7,7/30/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1657,Molasses,7,7/30/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1658,Molasses,7,7/30/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1659,Molasses,7,7/30/2010,Sparisoma,aurofrenatum,19,1,NA,NA,AAS,2010,-5.7587,3.4291,113.59886
+1660,Molasses,7,7/30/2010,Sparisoma,chrysopterum,22,1,NA,NA,AAS,2010,-5.1754,3.1708,178.6297689
+1661,Molasses,8,7/30/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1662,Molasses,8,7/30/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1663,Molasses,8,7/30/2010,Sparisoma,aurofrenatum,6,1,NA,NA,AAS,2010,-5.7587,3.4291,2.181516252
+1664,Molasses,8,7/30/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1665,Molasses,8,7/30/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1666,Molasses,8,7/30/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1667,Molasses,9,7/30/2010,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1668,Molasses,9,7/30/2010,Scarus,taeniopterus,20,1,NA,NA,AAS,2010,-4.1836,2.7086,111.9360162
+1669,Molasses,9,7/30/2010,Scarus,vetula,35,1,NA,NA,AAS,2010,-5.5396,3.33,855.3553728
+1670,Molasses,9,7/30/2010,Scarus,vetula,25,1,NA,NA,AAS,2010,-5.5396,3.33,278.9589045
+1671,Molasses,9,7/30/2010,Sparisoma,viride,17,1,NA,NA,AAS,2010,-4.5223,2.9214,98.56744039
+1672,Molasses,9,7/30/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1673,Molasses,9,7/30/2010,Sparisoma,viride,17,1,NA,NA,AAS,2010,-4.5223,2.9214,98.56744039
+1674,Molasses,9,7/30/2010,Sparisoma,viride,25,1,NA,NA,AAS,2010,-4.5223,2.9214,304.1178709
+1675,Molasses,9,7/30/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1676,Molasses,9,7/30/2010,Sparisoma,viride,11,1,NA,NA,AAS,2010,-4.5223,2.9214,27.6327807
+1677,Molasses,9,7/30/2010,Sparisoma,viride,8,1,NA,NA,AAS,2010,-4.5223,2.9214,10.89901093
+1678,Molasses,9,7/30/2010,Sparisoma,viride,6,1,NA,NA,AAS,2010,-4.5223,2.9214,4.703174179
+1679,Molasses,9,7/30/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1680,Molasses,9,7/30/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1681,Molasses,9,7/30/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+1682,Molasses,9,7/30/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1683,Molasses,9,7/30/2010,Sparisoma,aurofrenatum,21,1,NA,NA,AAS,2010,-5.7587,3.4291,160.1113737
+1684,Molasses,9,7/30/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1685,Molasses,10,7/30/2010,Sparisoma,viride,23,1,NA,NA,DEB,2010,-4.5223,2.9214,238.3700569
+1686,Molasses,10,7/30/2010,Sparisoma,viride,30,1,NA,NA,DEB,2010,-4.5223,2.9214,518.0384956
+1687,Molasses,10,7/30/2010,Sparisoma,viride,6,1,NA,NA,DEB,2010,-4.5223,2.9214,4.703174179
+1688,Molasses,10,7/30/2010,Sparisoma,aurofrenatum,8,1,NA,NA,DEB,2010,-5.7587,3.4291,5.85040423
+1689,Molasses,10,7/30/2010,Sparisoma,aurofrenatum,12,1,NA,NA,DEB,2010,-5.7587,3.4291,23.49743251
+1690,Molasses,10,7/30/2010,Sparisoma,aurofrenatum,6,1,NA,NA,DEB,2010,-5.7587,3.4291,2.181516252
+1691,Molasses,10,7/30/2010,Sparisoma,aurofrenatum,12,1,NA,NA,DEB,2010,-5.7587,3.4291,23.49743251
+1692,Molasses,10,7/30/2010,Sparisoma,aurofrenatum,20,1,NA,NA,DEB,2010,-5.7587,3.4291,135.4446821
+1693,Molasses,10,7/30/2010,Sparisoma,aurofrenatum,16,1,NA,NA,DEB,2010,-5.7587,3.4291,63.01556471
+1694,Pickles,1,7/13/2010,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1695,Pickles,1,7/13/2010,Scarus,taeniopterus,20,1,NA,NA,AAS,2010,-4.1836,2.7086,111.9360162
+1696,Pickles,1,7/13/2010,Scarus,taeniopterus,15,1,NA,NA,AAS,2010,-4.1836,2.7086,51.35240458
+1697,Pickles,1,7/13/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1698,Pickles,1,7/13/2010,Sparisoma,viride,12,1,NA,NA,AAS,2010,-4.5223,2.9214,35.63035031
+1699,Pickles,1,7/13/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1700,Pickles,1,7/13/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1701,Pickles,1,7/13/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1702,Pickles,1,7/13/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1703,Pickles,2,7/13/2010,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1704,Pickles,2,7/13/2010,Scarus,iseri,10,1,NA,NA,AAS,2010,-4.8887,3.0548,16.6302968
+1705,Pickles,2,7/13/2010,Scarus,vetula,21,1,NA,NA,AAS,2010,-5.5396,3.33,156.0954527
+1706,Pickles,2,7/13/2010,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1707,Pickles,2,7/13/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1708,Pickles,2,7/13/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1709,Pickles,2,7/13/2010,Sparisoma,viride,22,1,NA,NA,AAS,2010,-4.5223,2.9214,209.3406748
+1710,Pickles,2,7/13/2010,Sparisoma,viride,19,1,NA,NA,AAS,2010,-4.5223,2.9214,136.4114326
+1711,Pickles,2,7/13/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1712,Pickles,2,7/13/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1713,Pickles,2,7/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1714,Pickles,2,7/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1715,Pickles,2,7/13/2010,Sparisoma,aurofrenatum,19,1,NA,NA,AAS,2010,-5.7587,3.4291,113.59886
+1716,Pickles,2,7/13/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1717,Pickles,2,7/13/2010,Sparisoma,aurofrenatum,17,1,NA,NA,AAS,2010,-5.7587,3.4291,77.57689558
+1718,Pickles,2,7/13/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1719,Pickles,2,7/13/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1720,Pickles,2,7/13/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1721,Pickles,3,7/13/2010,Scarus,taeniopterus,14,1,NA,NA,AAS,2010,-4.1836,2.7086,42.59929359
+1722,Pickles,3,7/13/2010,Scarus,taeniopterus,10,1,NA,NA,AAS,2010,-4.1836,2.7086,17.12379421
+1723,Pickles,3,7/13/2010,Scarus,taeniopterus,12,1,NA,NA,AAS,2010,-4.1836,2.7086,28.05887944
+1724,Pickles,3,7/13/2010,Scarus,taeniopterus,10,1,NA,NA,AAS,2010,-4.1836,2.7086,17.12379421
+1725,Pickles,3,7/13/2010,Scarus,taeniopterus,14,1,NA,NA,AAS,2010,-4.1836,2.7086,42.59929359
+1726,Pickles,3,7/13/2010,Scarus,taeniopterus,15,1,NA,NA,AAS,2010,-4.1836,2.7086,51.35240458
+1727,Pickles,3,7/13/2010,Scarus,taeniopterus,20,1,NA,NA,AAS,2010,-4.1836,2.7086,111.9360162
+1728,Pickles,3,7/13/2010,Scarus,vetula,30,1,NA,NA,AAS,2010,-5.5396,3.33,511.9337691
+1729,Pickles,3,7/13/2010,Sparisoma,viride,25,1,NA,NA,AAS,2010,-4.5223,2.9214,304.1178709
+1730,Pickles,3,7/13/2010,Sparisoma,viride,12,1,NA,NA,AAS,2010,-4.5223,2.9214,35.63035031
+1731,Pickles,3,7/13/2010,Sparisoma,viride,14,1,NA,NA,AAS,2010,-4.5223,2.9214,55.89827983
+1732,Pickles,3,7/13/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1733,Pickles,3,7/13/2010,Sparisoma,viride,11,1,NA,NA,AAS,2010,-4.5223,2.9214,27.6327807
+1734,Pickles,3,7/13/2010,Sparisoma,viride,5,1,NA,NA,AAS,2010,-4.5223,2.9214,2.761029016
+1735,Pickles,3,7/13/2010,Sparisoma,viride,8,1,NA,NA,AAS,2010,-4.5223,2.9214,10.89901093
+1736,Pickles,3,7/13/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1737,Pickles,3,7/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1738,Pickles,3,7/13/2010,Sparisoma,aurofrenatum,18,1,NA,NA,AAS,2010,-5.7587,3.4291,94.37456161
+1739,Pickles,3,7/13/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1740,Pickles,3,7/13/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1741,Pickles,3,7/13/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+1742,Pickles,4,7/13/2010,Scarus,iseri,10,1,NA,NA,AAS,2010,-4.8887,3.0548,16.6302968
+1743,Pickles,4,7/13/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1744,Pickles,4,7/13/2010,Scarus,taeniopterus,8,1,NA,NA,AAS,2010,-4.1836,2.7086,9.356416341
+1745,Pickles,4,7/13/2010,Scarus,taeniopterus,6,1,NA,NA,AAS,2010,-4.1836,2.7086,4.292402872
+1746,Pickles,4,7/13/2010,Scarus,taeniopterus,12,1,NA,NA,AAS,2010,-4.1836,2.7086,28.05887944
+1747,Pickles,4,7/13/2010,Scarus,taeniopterus,20,1,NA,NA,AAS,2010,-4.1836,2.7086,111.9360162
+1748,Pickles,4,7/13/2010,Scarus,vetula,14,1,NA,NA,AAS,2010,-5.5396,3.33,40.45818154
+1749,Pickles,4,7/13/2010,Sparisoma,viride,30,1,NA,NA,AAS,2010,-4.5223,2.9214,518.0384956
+1750,Pickles,4,7/13/2010,Sparisoma,viride,8,1,NA,NA,AAS,2010,-4.5223,2.9214,10.89901093
+1751,Pickles,4,7/13/2010,Sparisoma,viride,10,1,NA,NA,AAS,2010,-4.5223,2.9214,20.91702907
+1752,Pickles,4,7/13/2010,Sparisoma,viride,5,1,NA,NA,AAS,2010,-4.5223,2.9214,2.761029016
+1753,Pickles,4,7/13/2010,Sparisoma,viride,32,1,NA,NA,AAS,2010,-4.5223,2.9214,625.5256843
+1754,Pickles,4,7/13/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1755,Pickles,4,7/13/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1756,Pickles,4,7/13/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1757,Pickles,4,7/13/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1758,Pickles,4,7/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1759,Pickles,4,7/13/2010,Sparisoma,rubripinne,23,1,NA,NA,AAS,2010,-4.8701,3.0641,232.5253262
+1760,Pickles,5,7/13/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1761,Pickles,5,7/13/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1762,Pickles,5,7/13/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1763,Pickles,5,7/13/2010,Scarus,iseri,8,1,NA,NA,AAS,2010,-4.8887,3.0548,8.411225809
+1764,Pickles,5,7/13/2010,Scarus,taeniopterus,15,1,NA,NA,AAS,2010,-4.1836,2.7086,51.35240458
+1765,Pickles,5,7/13/2010,Scarus,taeniopterus,18,1,NA,NA,AAS,2010,-4.1836,2.7086,84.14554106
+1766,Pickles,5,7/13/2010,Scarus,taeniopterus,21,1,NA,NA,AAS,2010,-4.1836,2.7086,127.7506686
+1767,Pickles,5,7/13/2010,Scarus,vetula,35,1,NA,NA,AAS,2010,-5.5396,3.33,855.3553728
+1768,Pickles,5,7/13/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1769,Pickles,5,7/13/2010,Sparisoma,viride,10,1,NA,NA,AAS,2010,-4.5223,2.9214,20.91702907
+1770,Pickles,5,7/13/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1771,Pickles,5,7/13/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1772,Pickles,5,7/13/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1773,Pickles,5,7/13/2010,Sparisoma,aurofrenatum,18,1,NA,NA,AAS,2010,-5.7587,3.4291,94.37456161
+1774,Pickles,5,7/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1775,Pickles,5,7/13/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1776,Pickles,6,7/13/2010,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1777,Pickles,6,7/13/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1778,Pickles,6,7/13/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1779,Pickles,6,7/13/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1780,Pickles,6,7/13/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1781,Pickles,6,7/13/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1782,Pickles,6,7/13/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1783,Pickles,6,7/13/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1784,Pickles,6,7/13/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1785,Pickles,6,7/13/2010,Scarus,taeniopterus,25,1,NA,NA,AAS,2010,-4.1836,2.7086,204.8614807
+1786,Pickles,6,7/13/2010,Scarus,taeniopterus,18,1,NA,NA,AAS,2010,-4.1836,2.7086,84.14554106
+1787,Pickles,6,7/13/2010,Scarus,taeniopterus,10,1,NA,NA,AAS,2010,-4.1836,2.7086,17.12379421
+1788,Pickles,6,7/13/2010,Scarus,taeniopterus,8,1,NA,NA,AAS,2010,-4.1836,2.7086,9.356416341
+1789,Pickles,6,7/13/2010,Scarus,taeniopterus,35,1,NA,NA,AAS,2010,-4.1836,2.7086,509.6390587
+1790,Pickles,6,7/13/2010,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1791,Pickles,6,7/13/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1792,Pickles,6,7/13/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1793,Pickles,6,7/13/2010,Sparisoma,chrysopterum,15,1,NA,NA,AAS,2010,-5.1754,3.1708,53.03348467
+1794,Pickles,6,7/13/2010,Sparisoma,rubripinne,25,1,NA,NA,AAS,2010,-4.8701,3.0641,300.2119536
+1795,Pickles,7,7/13/2010,Scarus,iseri,8,1,NA,NA,AAS,2010,-4.8887,3.0548,8.411225809
+1796,Pickles,7,7/13/2010,Scarus,iseri,7,1,NA,NA,AAS,2010,-4.8887,3.0548,5.593781427
+1797,Pickles,7,7/13/2010,Scarus,iseri,7,1,NA,NA,AAS,2010,-4.8887,3.0548,5.593781427
+1798,Pickles,7,7/13/2010,Scarus,iseri,8,1,NA,NA,AAS,2010,-4.8887,3.0548,8.411225809
+1799,Pickles,7,7/13/2010,Scarus,taeniopterus,15,1,NA,NA,AAS,2010,-4.1836,2.7086,51.35240458
+1800,Pickles,7,7/13/2010,Scarus,taeniopterus,12,1,NA,NA,AAS,2010,-4.1836,2.7086,28.05887944
+1801,Pickles,7,7/13/2010,Scarus,vetula,10,1,NA,NA,AAS,2010,-5.5396,3.33,13.19471457
+1802,Pickles,7,7/13/2010,Sparisoma,viride,17,1,NA,NA,AAS,2010,-4.5223,2.9214,98.56744039
+1803,Pickles,7,7/13/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1804,Pickles,7,7/13/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1805,Pickles,7,7/13/2010,Sparisoma,viride,12,1,NA,NA,AAS,2010,-4.5223,2.9214,35.63035031
+1806,Pickles,7,7/13/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1807,Pickles,7,7/13/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1808,Pickles,7,7/13/2010,Sparisoma,viride,8,1,NA,NA,AAS,2010,-4.5223,2.9214,10.89901093
+1809,Pickles,7,7/13/2010,Sparisoma,viride,10,1,NA,NA,AAS,2010,-4.5223,2.9214,20.91702907
+1810,Pickles,7,7/13/2010,Sparisoma,viride,12,1,NA,NA,AAS,2010,-4.5223,2.9214,35.63035031
+1811,Pickles,7,7/13/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1812,Pickles,7,7/13/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1813,Pickles,7,7/13/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1814,Pickles,7,7/13/2010,Sparisoma,aurofrenatum,17,1,NA,NA,AAS,2010,-5.7587,3.4291,77.57689558
+1815,Pickles,7,7/13/2010,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1816,Pickles,7,7/13/2010,Sparisoma,rubripinne,16,1,NA,NA,AAS,2010,-4.8701,3.0641,76.4793237
+1817,Pickles,8,7/13/2010,Scarus,taeniopterus,22,1,NA,NA,AAS,2010,-4.1836,2.7086,144.9059016
+1818,Pickles,8,7/13/2010,Sparisoma,viride,5,1,NA,NA,AAS,2010,-4.5223,2.9214,2.761029016
+1819,Pickles,8,7/13/2010,Sparisoma,viride,4,1,NA,NA,AAS,2010,-4.5223,2.9214,1.438659635
+1820,Pickles,8,7/13/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1821,Pickles,8,7/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1822,Pickles,8,7/13/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1823,Pickles,8,7/13/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1824,Pickles,8,7/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1825,Pickles,9,7/13/2010,Scarus,iseri,8,1,NA,NA,AAS,2010,-4.8887,3.0548,8.411225809
+1826,Pickles,9,7/13/2010,Scarus,iseri,8,1,NA,NA,AAS,2010,-4.8887,3.0548,8.411225809
+1827,Pickles,9,7/13/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1828,Pickles,9,7/13/2010,Scarus,taeniopterus,17,1,NA,NA,AAS,2010,-4.1836,2.7086,72.076543
+1829,Pickles,9,7/13/2010,Sparisoma,viride,6,1,NA,NA,AAS,2010,-4.5223,2.9214,4.703174179
+1830,Pickles,9,7/13/2010,Sparisoma,aurofrenatum,6,1,NA,NA,AAS,2010,-5.7587,3.4291,2.181516252
+1831,Pickles,9,7/13/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1832,Pickles,9,7/13/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1833,Pickles,9,7/13/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1834,Pickles,9,7/13/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1835,Pickles,9,7/13/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1836,Pickles,9,7/13/2010,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1837,Pickles,10,7/13/2010,Scarus,iseri,10,1,NA,NA,AAS,2010,-4.8887,3.0548,16.6302968
+1838,Pickles,10,7/13/2010,Sparisoma,viride,17,1,NA,NA,AAS,2010,-4.5223,2.9214,98.56744039
+1839,Pickles,10,7/13/2010,Sparisoma,viride,6,1,NA,NA,AAS,2010,-4.5223,2.9214,4.703174179
+1840,Pickles,10,7/13/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1841,Pickles,10,7/13/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1842,Pickles,10,7/13/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1843,Pickles,10,7/13/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1844,Pickles,10,7/13/2010,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1845,Pickles,10,7/13/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1846,Pickles,10,7/13/2010,Sparisoma,aurofrenatum,5,1,NA,NA,AAS,2010,-5.7587,3.4291,1.167449334
+1847,Pickles,10,7/13/2010,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1848,Snapper Ledge,1,7/30/2010,Scarus,iseri,10,1,NA,NA,AAS,2010,-4.8887,3.0548,16.6302968
+1849,Snapper Ledge,1,7/30/2010,Scarus,iseri,8,1,NA,NA,AAS,2010,-4.8887,3.0548,8.411225809
+1850,Snapper Ledge,1,7/30/2010,Scarus,iseri,7,1,NA,NA,AAS,2010,-4.8887,3.0548,5.593781427
+1851,Snapper Ledge,1,7/30/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1852,Snapper Ledge,1,7/30/2010,Scarus,taeniopterus,10,1,NA,NA,AAS,2010,-4.1836,2.7086,17.12379421
+1853,Snapper Ledge,1,7/30/2010,Scarus,vetula,35,1,NA,NA,AAS,2010,-5.5396,3.33,855.3553728
+1854,Snapper Ledge,1,7/30/2010,Scarus,vetula,12,1,NA,NA,AAS,2010,-5.5396,3.33,24.21439091
+1855,Snapper Ledge,1,7/30/2010,Sparisoma,viride,35,1,NA,NA,AAS,2010,-4.5223,2.9214,812.7189473
+1856,Snapper Ledge,1,7/30/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1857,Snapper Ledge,1,7/30/2010,Sparisoma,viride,27,1,NA,NA,AAS,2010,-4.5223,2.9214,380.7904961
+1858,Snapper Ledge,1,7/30/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1859,Snapper Ledge,1,7/30/2010,Sparisoma,aurofrenatum,4,1,NA,NA,AAS,2010,-5.7587,3.4291,0.543155168
+1860,Snapper Ledge,1,7/30/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1861,Snapper Ledge,2,7/30/2010,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1862,Snapper Ledge,2,7/30/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1863,Snapper Ledge,2,7/30/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1864,Snapper Ledge,2,7/30/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1865,Snapper Ledge,2,7/30/2010,Scarus,iseri,7,1,NA,NA,AAS,2010,-4.8887,3.0548,5.593781427
+1866,Snapper Ledge,2,7/30/2010,Scarus,vetula,8,1,NA,NA,AAS,2010,-5.5396,3.33,6.276097137
+1867,Snapper Ledge,2,7/30/2010,Scarus,vetula,16,1,NA,NA,AAS,2010,-5.5396,3.33,63.11310433
+1868,Snapper Ledge,2,7/30/2010,Sparisoma,aurofrenatum,8,1,NA,NA,AAS,2010,-5.7587,3.4291,5.85040423
+1869,Snapper Ledge,2,7/30/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1870,Snapper Ledge,2,7/30/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1871,Snapper Ledge,3,7/30/2010,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1872,Snapper Ledge,3,7/30/2010,Scarus,iseri,9,1,NA,NA,AAS,2010,-4.8887,3.0548,12.05369
+1873,Snapper Ledge,3,7/30/2010,Scarus,iseri,9,1,NA,NA,AAS,2010,-4.8887,3.0548,12.05369
+1874,Snapper Ledge,3,7/30/2010,Scarus,vetula,12,1,NA,NA,AAS,2010,-5.5396,3.33,24.21439091
+1875,Snapper Ledge,3,7/30/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1876,Snapper Ledge,3,7/30/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1877,Snapper Ledge,3,7/30/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1878,Snapper Ledge,3,7/30/2010,Sparisoma,viride,8,1,NA,NA,AAS,2010,-4.5223,2.9214,10.89901093
+1879,Snapper Ledge,3,7/30/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1880,Snapper Ledge,3,7/30/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1881,Snapper Ledge,3,7/30/2010,Sparisoma,aurofrenatum,21,1,NA,NA,AAS,2010,-5.7587,3.4291,160.1113737
+1882,Snapper Ledge,3,7/30/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+1883,Snapper Ledge,3,7/30/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+1884,Snapper Ledge,3,7/30/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1885,Snapper Ledge,4,7/30/2010,Scarus,iseri,7,1,NA,NA,AAS,2010,-4.8887,3.0548,5.593781427
+1886,Snapper Ledge,4,7/30/2010,Scarus,iseri,7,1,NA,NA,AAS,2010,-4.8887,3.0548,5.593781427
+1887,Snapper Ledge,4,7/30/2010,Sparisoma,viride,20,1,NA,NA,AAS,2010,-4.5223,2.9214,158.4634217
+1888,Snapper Ledge,4,7/30/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1889,Snapper Ledge,4,7/30/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1890,Snapper Ledge,4,7/30/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1891,Snapper Ledge,4,7/30/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1892,Snapper Ledge,4,7/30/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1893,Snapper Ledge,4,7/30/2010,Sparisoma,rubripinne,16,1,NA,NA,AAS,2010,-4.8701,3.0641,76.4793237
+1894,Snapper Ledge,5,7/30/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1895,Snapper Ledge,5,7/30/2010,Scarus,iseri,5,1,NA,NA,AAS,2010,-4.8887,3.0548,2.001306331
+1896,Snapper Ledge,5,7/30/2010,Scarus,iseri,4,1,NA,NA,AAS,2010,-4.8887,3.0548,1.012215216
+1897,Snapper Ledge,5,7/30/2010,Scarus,iseri,6,1,NA,NA,AAS,2010,-4.8887,3.0548,3.49298274
+1898,Snapper Ledge,5,7/30/2010,Scarus,vetula,9,1,NA,NA,AAS,2010,-5.5396,3.33,9.290253325
+1899,Snapper Ledge,5,7/30/2010,Scarus,vetula,20,1,NA,NA,AAS,2010,-5.5396,3.33,132.6874615
+1900,Snapper Ledge,5,7/30/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1901,Snapper Ledge,5,7/30/2010,Sparisoma,viride,18,1,NA,NA,AAS,2010,-4.5223,2.9214,116.4804652
+1902,Snapper Ledge,5,7/30/2010,Sparisoma,viride,30,1,NA,NA,AAS,2010,-4.5223,2.9214,518.0384956
+1903,Snapper Ledge,5,7/30/2010,Sparisoma,aurofrenatum,17,1,NA,NA,AAS,2010,-5.7587,3.4291,77.57689558
+1904,Snapper Ledge,5,7/30/2010,Sparisoma,aurofrenatum,6,1,NA,NA,AAS,2010,-5.7587,3.4291,2.181516252
+1905,Snapper Ledge,5,7/30/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1906,Snapper Ledge,5,7/30/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1907,Snapper Ledge,5,7/30/2010,Sparisoma,aurofrenatum,9,1,NA,NA,AAS,2010,-5.7587,3.4291,8.76179301
+1908,Snapper Ledge,5,7/30/2010,Sparisoma,aurofrenatum,19,1,NA,NA,AAS,2010,-5.7587,3.4291,113.59886
+1909,Snapper Ledge,5,7/30/2010,Sparisoma,aurofrenatum,3,1,NA,NA,AAS,2010,-5.7587,3.4291,0.202533326
+1910,Snapper Ledge,5,7/30/2010,Sparisoma,aurofrenatum,10,1,NA,NA,AAS,2010,-5.7587,3.4291,12.57476854
+1911,Snapper Ledge,5,7/30/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1912,Snapper Ledge,6,7/30/2010,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1913,Snapper Ledge,6,7/30/2010,Sparisoma,viride,15,1,NA,NA,AAS,2010,-4.5223,2.9214,68.38061528
+1914,Snapper Ledge,6,7/30/2010,Sparisoma,aurofrenatum,6,1,NA,NA,AAS,2010,-5.7587,3.4291,2.181516252
+1915,Snapper Ledge,6,7/30/2010,Sparisoma,aurofrenatum,6,1,NA,NA,AAS,2010,-5.7587,3.4291,2.181516252
+1916,Snapper Ledge,6,7/30/2010,Sparisoma,aurofrenatum,20,1,NA,NA,AAS,2010,-5.7587,3.4291,135.4446821
+1917,Snapper Ledge,6,7/30/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1918,Snapper Ledge,6,7/30/2010,Sparisoma,aurofrenatum,16,1,NA,NA,AAS,2010,-5.7587,3.4291,63.01556471
+1919,Snapper Ledge,6,7/30/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1920,Snapper Ledge,6,7/30/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+1921,Snapper Ledge,7,7/30/2010,Scarus,iseri,12,1,NA,NA,AAS,2010,-4.8887,3.0548,29.02571124
+1922,Snapper Ledge,7,7/30/2010,Sparisoma,viride,16,1,NA,NA,AAS,2010,-4.5223,2.9214,82.56882746
+1923,Snapper Ledge,7,7/30/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1924,Snapper Ledge,7,7/30/2010,Sparisoma,aurofrenatum,13,1,NA,NA,AAS,2010,-5.7587,3.4291,30.91883698
+1925,Snapper Ledge,7,7/30/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1926,Snapper Ledge,7,7/30/2010,Sparisoma,aurofrenatum,14,1,NA,NA,AAS,2010,-5.7587,3.4291,39.8646217
+1927,Snapper Ledge,7,7/30/2010,Sparisoma,aurofrenatum,12,1,NA,NA,AAS,2010,-5.7587,3.4291,23.49743251
+1928,Snapper Ledge,7,7/30/2010,Sparisoma,aurofrenatum,15,1,NA,NA,AAS,2010,-5.7587,3.4291,50.50501872
+1929,Snapper Ledge,8,7/30/2010,Sparisoma,viride,25,1,NA,NA,DEB,2010,-4.5223,2.9214,304.1178709
+1930,Snapper Ledge,8,7/30/2010,Sparisoma,viride,30,1,NA,NA,DEB,2010,-4.5223,2.9214,518.0384956
+1931,Snapper Ledge,8,7/30/2010,Sparisoma,viride,28,1,NA,NA,DEB,2010,-4.5223,2.9214,423.4747036
+1932,Snapper Ledge,8,7/30/2010,Sparisoma,aurofrenatum,20,1,NA,NA,DEB,2010,-5.7587,3.4291,135.4446821
+1933,Snapper Ledge,8,7/30/2010,Sparisoma,aurofrenatum,18,1,NA,NA,DEB,2010,-5.7587,3.4291,94.37456161
+1934,Snapper Ledge,8,7/30/2010,Sparisoma,aurofrenatum,16,1,NA,NA,DEB,2010,-5.7587,3.4291,63.01556471
+1935,Snapper Ledge,8,7/30/2010,Sparisoma,aurofrenatum,17,1,NA,NA,DEB,2010,-5.7587,3.4291,77.57689558
+1936,Snapper Ledge,8,7/30/2010,Sparisoma,aurofrenatum,16,1,NA,NA,DEB,2010,-5.7587,3.4291,63.01556471
+1937,Snapper Ledge,8,7/30/2010,Sparisoma,aurofrenatum,19,1,NA,NA,DEB,2010,-5.7587,3.4291,113.59886
+1938,Snapper Ledge,8,7/30/2010,Sparisoma,aurofrenatum,16,1,NA,NA,DEB,2010,-5.7587,3.4291,63.01556471
+1939,Snapper Ledge,8,7/30/2010,Sparisoma,aurofrenatum,17,1,NA,NA,DEB,2010,-5.7587,3.4291,77.57689558
+1940,Snapper Ledge,8,7/30/2010,Sparisoma,chrysopterum,22,1,NA,NA,DEB,2010,-5.1754,3.1708,178.6297689
+1941,Snapper Ledge,9,7/30/2010,Scarus,iseri,10,1,NA,NA,DEB,2010,-4.8887,3.0548,16.6302968
+1942,Snapper Ledge,9,7/30/2010,Scarus,iseri,8,1,NA,NA,DEB,2010,-4.8887,3.0548,8.411225809
+1943,Snapper Ledge,9,7/30/2010,Scarus,iseri,6,1,NA,NA,DEB,2010,-4.8887,3.0548,3.49298274
+1944,Snapper Ledge,9,7/30/2010,Scarus,iseri,12,1,NA,NA,DEB,2010,-4.8887,3.0548,29.02571124
+1945,Snapper Ledge,9,7/30/2010,Scarus,iseri,14,1,NA,NA,DEB,2010,-4.8887,3.0548,46.48276173
+1946,Snapper Ledge,9,7/30/2010,Scarus,iseri,6,1,NA,NA,DEB,2010,-4.8887,3.0548,3.49298274
+1947,Snapper Ledge,9,7/30/2010,Scarus,iseri,6,1,NA,NA,DEB,2010,-4.8887,3.0548,3.49298274
+1948,Snapper Ledge,9,7/30/2010,Scarus,iseri,8,1,NA,NA,DEB,2010,-4.8887,3.0548,8.411225809
+1949,Snapper Ledge,9,7/30/2010,Scarus,taeniopterus,12,1,NA,NA,DEB,2010,-4.1836,2.7086,28.05887944
+1950,Snapper Ledge,9,7/30/2010,Scarus,taeniopterus,14,1,NA,NA,DEB,2010,-4.1836,2.7086,42.59929359
+1951,Snapper Ledge,9,7/30/2010,Sparisoma,viride,18,1,NA,NA,DEB,2010,-4.5223,2.9214,116.4804652
+1952,Snapper Ledge,9,7/30/2010,Sparisoma,aurofrenatum,16,1,NA,NA,DEB,2010,-5.7587,3.4291,63.01556471
+1953,Snapper Ledge,9,7/30/2010,Sparisoma,aurofrenatum,18,1,NA,NA,DEB,2010,-5.7587,3.4291,94.37456161
+1954,Snapper Ledge,9,7/30/2010,Sparisoma,aurofrenatum,18,1,NA,NA,DEB,2010,-5.7587,3.4291,94.37456161
+1955,Snapper Ledge,9,7/30/2010,Sparisoma,aurofrenatum,12,1,NA,NA,DEB,2010,-5.7587,3.4291,23.49743251
+1956,Snapper Ledge,9,7/30/2010,Sparisoma,aurofrenatum,15,1,NA,NA,DEB,2010,-5.7587,3.4291,50.50501872
+1957,Snapper Ledge,9,7/30/2010,Sparisoma,aurofrenatum,15,1,NA,NA,DEB,2010,-5.7587,3.4291,50.50501872
+1958,Snapper Ledge,9,7/30/2010,Sparisoma,aurofrenatum,18,1,NA,NA,DEB,2010,-5.7587,3.4291,94.37456161
+1959,Snapper Ledge,9,7/30/2010,Sparisoma,aurofrenatum,16,1,NA,NA,DEB,2010,-5.7587,3.4291,63.01556471
+1960,Snapper Ledge,10,7/30/2010,Scarus,iseri,6,1,NA,NA,DEB,2010,-4.8887,3.0548,3.49298274
+1961,Snapper Ledge,10,7/30/2010,Scarus,iseri,8,1,NA,NA,DEB,2010,-4.8887,3.0548,8.411225809
+1962,Snapper Ledge,10,7/30/2010,Scarus,iseri,10,1,NA,NA,DEB,2010,-4.8887,3.0548,16.6302968
+1963,Snapper Ledge,10,7/30/2010,Sparisoma,aurofrenatum,16,1,NA,NA,DEB,2010,-5.7587,3.4291,63.01556471
+1964,Snapper Ledge,10,7/30/2010,Sparisoma,aurofrenatum,18,1,NA,NA,DEB,2010,-5.7587,3.4291,94.37456161
+1965,Snapper Ledge,10,7/30/2010,Sparisoma,aurofrenatum,18,1,NA,NA,DEB,2010,-5.7587,3.4291,94.37456161
+1966,Snapper Ledge,10,7/30/2010,Sparisoma,aurofrenatum,18,1,NA,NA,DEB,2010,-5.7587,3.4291,94.37456161
+1967,Snapper Ledge,10,7/30/2010,Sparisoma,aurofrenatum,16,1,NA,NA,DEB,2010,-5.7587,3.4291,63.01556471
